@@ -1,0 +1,3203 @@
+NO.	E_type1	Entity1	E_type2	Entity2	KeyWord	Relation
+23128501	Herbs	lichen	SPEC	HIV-1	: have	PLAIN_REPORT_WEAK
+23128501	Herbs	lichen	DISO	HIV	: have	PLAIN_REPORT_WEAK
+23128501	Herbs	lichen	SPEC	higher plants	: reported	PLAIN_REPORT_WEAK
+23128501	Herbs	lichen	SPEC	fungi	: null	JUXSTAPOSE
+23128501	Herbs	lichen	SPEC	bacteria	: null	JUXSTAPOSE
+23128501	Herbs	lichen	CHED	secondary metabolites	: null	JUXSTAPOSE
+23128501	Herbs	lichen	CHED	Anthraquinones	: null	JUXSTAPOSE
+29920152	Herbs	ge-gu	PROC	localization	: null	JUXSTAPOSE
+29920152	Herbs	ge-gu	DISO	fistula	: null	JUXSTAPOSE
+21533772	Herbs	mo-di	SPEC	homo	: null	NONE
+21533772	Herbs	mo-di	CHED	pro	: inactive	inactive
+15683852	Herbs	licorice	SPEC	licorice	: null	JUXSTAPOSE
+15683852	Herbs	licorice	CHED	glycyrrhizin	: null	JUXSTAPOSE
+17886224	Herbs	licorice	DISO	HIV	: infected	infect with
+17886224	Herbs	licorice	SPEC	HIV	: infected	infect with
+17886224	Herbs	licorice	CHED	adjuvant	: null	JUXSTAPOSE
+17886224	Herbs	licorice	DISO	pneumonia	: null	JUXSTAPOSE
+17886224	Herbs	licorice	SPEC	influenza A virus	: null	JUXSTAPOSE
+17886224	Herbs	licorice	PATH	influenza A	: null	JUXSTAPOSE
+17886224	Herbs	licorice	DISO	influenza	: null	JUXSTAPOSE
+17886224	Herbs	licorice	SPEC	licorice	: null	JUXSTAPOSE
+17886224	Herbs	licorice	PROC	viral latency	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	triterpenoids	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	virus	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	Triterpenoid	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	medicine	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	spot	: confirmed	RESULT_OF_WEAK
+24520776	Herbs	licorice	DISO	hot spot	: confirmed	RESULT_OF_WEAK
+24520776	Herbs	licorice	SPEC	licorice	: confirmed	confirmed
+24520776	Herbs	licorice	CHED	triterpenoids	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	antiviral	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	licorice	: confirmed	confirmed
+24520776	Herbs	licorice	CHED	medicine	: used	use in
+24520776	Herbs	licorice	CHED	antiviral	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	licorice	: has	have
+24520776	Herbs	licorice	CHED	triterpenoids	: null	JUXSTAPOSE
+24520776	Herbs	licorice	PROC	immunity	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	glycyrrhetinic acid	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	glycyrrhizin	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	glycyrrhizic acid	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	licorice	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	triterpenoids	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	virus	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	influenza virus	: null	JUXSTAPOSE
+24520776	Herbs	licorice	DISO	influenza	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	coronavirus	: null	JUXSTAPOSE
+24520776	Herbs	licorice	DISO	SARS	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	virus	: null	JUXSTAPOSE
+24520776	Herbs	licorice	DISO	hepatitis	: null	JUXSTAPOSE
+24520776	Herbs	licorice	DISO	HIV	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	HIV	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	herpes virus	: null	JUXSTAPOSE
+24520776	Herbs	licorice	DISO	herpes	: null	JUXSTAPOSE
+24520776	Herbs	licorice	SPEC	licorice	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	triterpenoids	: null	JUXSTAPOSE
+24520776	Herbs	licorice	CHED	antiviral	: null	JUXSTAPOSE
+28175983	Herbs	licorice	COMP	cells	: inhibit	inhibit in
+28175983	Herbs	licorice	ANAT	Vero cells	: inhibit	inhibit in
+28175983	Herbs	licorice	DISO	infection	: inhibit	inhibit in
+28175983	Herbs	licorice	SPEC	PEDV	: inhibit	inhibit in
+28175983	Herbs	licorice	ANAT	root	: inhibit	inhibit in
+28175983	Herbs	licorice	SPEC	licorice	: null	JUXSTAPOSE
+28175983	Herbs	licorice	CHED	glycyrrhizin	: null	JUXSTAPOSE
+29971802	Herbs	mushroom	PROC	immune responses	: null	CONTAIN
+29971802	Herbs	mushroom	PROC	growth	: null	CONTAIN
+29971802	Herbs	mushroom	ANAT	stem	: null	CONTAIN
+29971802	Herbs	mushroom	SPEC	Flammulina velutipes	: null	CONTAIN
+29971802	Herbs	mushroom	SPEC	mushroom	: null	CONTAIN
+29971802	Herbs	mushroom	SPEC	mushrooms	: contain	CONTAIN
+29971802	Herbs	mushroom	PROC	immunity	: null	JUXSTAPOSE
+29971802	Herbs	mushroom	COMP	serum	: null	JUXSTAPOSE
+29971802	Herbs	mushroom	ANAT	serum	: null	JUXSTAPOSE
+29971802	Herbs	mushroom	PROC	immune response	: null	JUXSTAPOSE
+29971802	Herbs	mushroom	SPEC	mushroom	: null	JUXSTAPOSE
+29971802	Herbs	mushroom	SPEC	Flammulina velutipes	: null	JUXSTAPOSE
+32162896	Herbs	mushroom	DISO	HIV	: affected	NONE
+32162896	Herbs	mushroom	SPEC	HIV	: affected	NONE
+32162896	Herbs	mushroom	SPEC	hepatitis B virus	: null	NONE
+32162896	Herbs	mushroom	DISO	hepatitis B	: null	NONE
+32162896	Herbs	mushroom	SPEC	herpes virus	: affected	NONE
+32162896	Herbs	mushroom	DISO	herpes	: affected	NONE
+32162896	Herbs	mushroom	SPEC	papillomavirus	: affected	NONE
+32162896	Herbs	mushroom	SPEC	hepatitis C virus	: affected	NONE
+32162896	Herbs	mushroom	PATH	hepatitis C	: affected	NONE
+32162896	Herbs	mushroom	DISO	hepatitis C	: affected	NONE
+32162896	Herbs	mushroom	SPEC	avian influenza virus	: affected	NONE
+32162896	Herbs	mushroom	DISO	avian influenza	: affected	NONE
+32162896	Herbs	mushroom	SPEC	influenza virus	: affected	NONE
+32162896	Herbs	mushroom	DISO	influenza	: affected	NONE
+32162896	Herbs	mushroom	DISO	West Nile virus	: affected	NONE
+32162896	Herbs	mushroom	PROC	West Nile virus	: affected	NONE
+32162896	Herbs	mushroom	SPEC	West Nile virus	: affected	NONE
+32162896	Herbs	mushroom	SPEC	humans	: affected	NONE
+32162896	Herbs	mushroom	SPEC	animals	: affected	NONE
+32162896	Herbs	mushroom	CHED	immunostimulant	: investigated	NONE
+32162896	Herbs	mushroom	SPEC	mushroom	: affected	NONE
+32162896	Herbs	mushroom	CHED	glucan	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PROC	transcriptase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	FUNC	transcriptase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PRGE	reverse transcriptase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	ENZY	reverse transcriptase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	SPEC	HIV-1	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	DISO	HIV	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	CHED	antifungal	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	CHED	protein	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	CHED	inhibitor	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PROC	xylanase inhibitor	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	FUNC	xylanase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	ENZY	xylanase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PRGE	sorghum xylanase inhibitor-like protein	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	SPEC	sorghum	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	CHED	protein	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PRGE	xylanase inbibitor-like protein	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PROC	xylanase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	FUNC	xylanase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	ENZY	xylanase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	CHED	inhibitor	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PROC	xylanase inhibitor	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	FUNC	xylanase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	ENZY	xylanase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	CHED	N-terminal amino acid	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	CHED	protein	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	PROC	transcriptase	: thermostable	thermostable
+23871041	Herbs	sorghum	FUNC	transcriptase	: thermostable	thermostable
+23871041	Herbs	sorghum	PRGE	reverse transcriptase	: thermostable	thermostable
+23871041	Herbs	sorghum	ENZY	reverse transcriptase	: thermostable	thermostable
+23871041	Herbs	sorghum	SPEC	HIV-1	: thermostable	thermostable
+23871041	Herbs	sorghum	DISO	HIV	: thermostable	thermostable
+23871041	Herbs	sorghum	CHED	antifungal	: exhibits	exhibit
+23871041	Herbs	sorghum	SPEC	sorghum	: thermostable	thermostable
+23871041	Herbs	sorghum	PROC	proteinase	: null	JUXSTAPOSE
+23871041	Herbs	sorghum	FUNC	proteinase	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	SPEC	Delphinapterus leucas	: belugas	NONE
+15338705	Herbs	dolphin	SPEC	belugas	: belugas	NONE
+15338705	Herbs	dolphin	SPEC	Odobenus rosmarus	: null	NONE
+15338705	Herbs	dolphin	SPEC	walruses	: walruses	NONE
+15338705	Herbs	dolphin	SPEC	Ursus maritimus	: null	NONE
+15338705	Herbs	dolphin	SPEC	polar bears	: belugas	NONE
+15338705	Herbs	dolphin	SPEC	Ursus arctos	: null	NONE
+15338705	Herbs	dolphin	SPEC	grizzly bears	: null	NONE
+15338705	Herbs	dolphin	SPEC	Ursus americanus	: null	NONE
+15338705	Herbs	dolphin	SPEC	bears	: null	NONE
+15338705	Herbs	dolphin	DISO	lupus	: null	NONE
+15338705	Herbs	dolphin	SPEC	Canis lupus	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	Gulo gulo	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	wolverines	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	Martes pennanti	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	fishers	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	Taxidea taxus	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	American badgers	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	lynx	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	mammals	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	carnivores	: rabies	NONE
+15338705	Herbs	dolphin	COMP	serum	: rabies	NONE
+15338705	Herbs	dolphin	ANAT	serum	: rabies	NONE
+15338705	Herbs	dolphin	ANAT	whole blood	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	Toxoplasma gondii	: determined	NONE
+15338705	Herbs	dolphin	SPEC	Borrelia burgdorferi	: rabies	NONE
+15338705	Herbs	dolphin	DISO	Borrelia	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	virus	: rabies	NONE
+15338705	Herbs	dolphin	DISO	leukaemia	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	feline	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	coronavirus	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	feline	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	coronavirus	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	rhabdovirus	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	rabies virus	: rabies	NONE
+15338705	Herbs	dolphin	DISO	rabies	: rabies	NONE
+15338705	Herbs	dolphin	SPEC	parainfluenza virus type 3 3 [PI3]	: null	NONE
+15338705	Herbs	dolphin	DISO	parainfluenza 3 [PI3]	: null	NONE
+15338705	Herbs	dolphin	DISO	PDV	: null	NONE
+15338705	Herbs	dolphin	DISO	distemper	: null	NONE
+15338705	Herbs	dolphin	SPEC	phocine distemper virus	: null	NONE
+15338705	Herbs	dolphin	SPEC	morbillivirus	: null	NONE
+15338705	Herbs	dolphin	SPEC	canine distemper virus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	DISO	canine distemper	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	CHED	PHV	: null	NONE
+15338705	Herbs	dolphin	SPEC	PHV	: null	NONE
+15338705	Herbs	dolphin	SPEC	herpesvirus	: null	NONE
+15338705	Herbs	dolphin	SPEC	feline herpesvirus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	SPEC	CAV	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	DISO	adenovirus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	SPEC	canine adenovirus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	COMP	Antibody	: null	NONE
+15338705	Herbs	dolphin	PROC	Antibody	: null	NONE
+15338705	Herbs	dolphin	FUNC	Antibody	: null	NONE
+15338705	Herbs	dolphin	SPEC	Delphinapterus leucas	: belugas	NONE
+15338705	Herbs	dolphin	SPEC	belugas	: belugas	NONE
+15338705	Herbs	dolphin	SPEC	Odobenus rosmarus	: null	NONE
+15338705	Herbs	dolphin	SPEC	walruses	: walruses	NONE
+15338705	Herbs	dolphin	SPEC	Ursus maritimus	: null	NONE
+15338705	Herbs	dolphin	SPEC	polar bears	: belugas	NONE
+15338705	Herbs	dolphin	SPEC	Ursus arctos	: null	NONE
+15338705	Herbs	dolphin	SPEC	grizzly bears	: null	NONE
+15338705	Herbs	dolphin	SPEC	Ursus americanus	: null	NONE
+15338705	Herbs	dolphin	SPEC	bears	: null	NONE
+15338705	Herbs	dolphin	DISO	lupus	: null	NONE
+15338705	Herbs	dolphin	SPEC	Canis lupus	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	Gulo gulo	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	wolverines	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	Martes pennanti	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	fishers	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	Taxidea taxus	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	American badgers	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	lynx	: lynxes	NONE
+15338705	Herbs	dolphin	SPEC	mammals	: determined	NONE
+15338705	Herbs	dolphin	SPEC	carnivores	: determined	NONE
+15338705	Herbs	dolphin	COMP	serum	: determined	NONE
+15338705	Herbs	dolphin	ANAT	serum	: determined	NONE
+15338705	Herbs	dolphin	ANAT	whole blood	: determined	NONE
+15338705	Herbs	dolphin	SPEC	Toxoplasma gondii	: determined	NONE
+15338705	Herbs	dolphin	SPEC	Borrelia burgdorferi	: determined	NONE
+15338705	Herbs	dolphin	DISO	Borrelia	: determined	NONE
+15338705	Herbs	dolphin	SPEC	virus	: determined	NONE
+15338705	Herbs	dolphin	DISO	leukaemia	: determined	NONE
+15338705	Herbs	dolphin	SPEC	feline	: null	NONE
+15338705	Herbs	dolphin	SPEC	coronavirus	: null	NONE
+15338705	Herbs	dolphin	SPEC	feline	: null	NONE
+15338705	Herbs	dolphin	SPEC	coronavirus	: null	NONE
+15338705	Herbs	dolphin	SPEC	rhabdovirus	: null	NONE
+15338705	Herbs	dolphin	SPEC	rabies virus	: null	NONE
+15338705	Herbs	dolphin	DISO	rabies	: null	NONE
+15338705	Herbs	dolphin	SPEC	parainfluenza virus type 3 3 [PI3]	: null	NONE
+15338705	Herbs	dolphin	DISO	parainfluenza 3 [PI3]	: null	NONE
+15338705	Herbs	dolphin	DISO	PDV	: null	NONE
+15338705	Herbs	dolphin	DISO	distemper	: null	NONE
+15338705	Herbs	dolphin	SPEC	phocine distemper virus	: null	NONE
+15338705	Herbs	dolphin	SPEC	morbillivirus	: null	NONE
+15338705	Herbs	dolphin	SPEC	canine distemper virus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	DISO	canine distemper	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	CHED	PHV	: null	NONE
+15338705	Herbs	dolphin	SPEC	PHV	: null	NONE
+15338705	Herbs	dolphin	SPEC	herpesvirus	: null	NONE
+15338705	Herbs	dolphin	SPEC	feline herpesvirus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	SPEC	CAV	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	DISO	adenovirus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	SPEC	canine adenovirus	: null	JUXSTAPOSE
+15338705	Herbs	dolphin	COMP	Antibody	: null	NONE
+15338705	Herbs	dolphin	PROC	Antibody	: null	NONE
+15338705	Herbs	dolphin	FUNC	Antibody	: null	NONE
+24227844	Herbs	dolphin	SPEC	coronavirus	: reveals	INDICATE_WEAK
+24227844	Herbs	dolphin	SPEC	mammal	: reveals	INDICATE_WEAK
+24227844	Herbs	dolphin	SPEC	species	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	SPEC	coronavirus	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	SPEC	Tursiops aduncus	: named	PLAIN_NAME
+24227844	Herbs	dolphin	SPEC	Indo-Pacific bottlenose dolphins	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	ANAT	fecal	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	SPEC	gammacoronavirus	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	SPEC	Tursiops aduncus	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	SPEC	Indo-Pacific bottlenose dolphins	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	ANAT	fecal	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	SPEC	gammacoronavirus	: null	JUXSTAPOSE
+24227844	Herbs	dolphin	PRGE	S gene	: null	JUXSTAPOSE
+31939251	Herbs	dolphin	SPEC	beluga whale	: null	JUXSTAPOSE
+31939251	Herbs	dolphin	SPEC	species	: null	JUXSTAPOSE
+31939251	Herbs	dolphin	SPEC	bird	: null	JUXSTAPOSE
+18936097	Herbs	human placenta	CHED	protein	: null	JUXSTAPOSE
+18936097	Herbs	human placenta	ANAT	placental	: null	JUXSTAPOSE
+18936097	Herbs	human placenta	SPEC	human	: null	JUXSTAPOSE
+18936097	Herbs	human placenta	DISO	tumor	: null	JUXSTAPOSE
+15937562	Herbs	green tea	CHED	tea	: null	JUXSTAPOSE
+15937562	Herbs	green tea	CHED	tea	: null	JUXSTAPOSE
+15937562	Herbs	green tea	CHED	Pro	: null	JUXSTAPOSE
+15937562	Herbs	green tea	CHED	tea	: null	JUXSTAPOSE
+26490660	Herbs	green tea	CHED	EGCG	: null	JUXSTAPOSE
+26490660	Herbs	green tea	CHED	gallate	: null	JUXSTAPOSE
+26490660	Herbs	green tea	CHED	polyphenols	: null	JUXSTAPOSE
+26490660	Herbs	green tea	CHED	tea	: null	JUXSTAPOSE
+26490660	Herbs	green tea	SPEC	plant	: null	JUXSTAPOSE
+26490660	Herbs	green tea	CHED	tea	: null	JUXSTAPOSE
+26490660	Herbs	green tea	SPEC	Camellia sinensis	: null	JUXSTAPOSE
+10925561	Herbs	glucose	PRGE	LDH	: null	JUXSTAPOSE
+10925561	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+10925561	Herbs	glucose	COMP	cell	: null	JUXSTAPOSE
+10925561	Herbs	glucose	ANAT	cell	: null	JUXSTAPOSE
+10925561	Herbs	glucose	ANAT	pleural fluid	: Gram-stained	gram-stained
+10925561	Herbs	glucose	DISO	pleural effusion	: determined;	determined;
+10925561	Herbs	glucose	ANAT	pleural effusion	: determined;	determined;
+10925561	Herbs	glucose	DISO	pneumonia	: determined;	determined;
+10925561	Herbs	glucose	PATH	tuberculosis	: determined;	determined;
+10925561	Herbs	glucose	PRGE	LDH	: null	JUXSTAPOSE
+10925561	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+10925561	Herbs	glucose	CHED	pus	: null	JUXSTAPOSE
+10925561	Herbs	glucose	ANAT	pus	: null	JUXSTAPOSE
+11029324	Herbs	glucose	SPEC	FEV	: null	JUXSTAPOSE
+11029324	Herbs	glucose	DISO	COPD	: null	JUXSTAPOSE
+11029324	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PRGE	serum insulin	: null	JUXSTAPOSE
+11029324	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+11029324	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+11029324	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+11029324	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PROC	necrosis	: null	JUXSTAPOSE
+11029324	Herbs	glucose	FUNC	tumor necrosis factor	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PRGE	tumor necrosis factor	: null	JUXSTAPOSE
+11029324	Herbs	glucose	DISO	tumor necrosis	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PRGE	leptin	: null	JUXSTAPOSE
+11029324	Herbs	glucose	CHED	balance	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PROC	energy balance	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PROC	homeostasis	: null	JUXSTAPOSE
+11029324	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PRGE	insulin	: elevated	elevated
+11029324	Herbs	glucose	CHED	insulin	: elevated	elevated
+11029324	Herbs	glucose	CHED	Glucose	: elevated	elevated
+11029324	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+11029324	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+11029324	Herbs	glucose	PRGE	leptin	: null	JUXSTAPOSE
+11075541	Herbs	glucose	ANAT	orally	: null	JUXSTAPOSE
+11075541	Herbs	glucose	SPEC	animals	: null	JUXSTAPOSE
+11075541	Herbs	glucose	ANAT	plasma	: null	INDICATE
+11075541	Herbs	glucose	PROC	gastric emptying	: tended	NONE
+11075541	Herbs	glucose	ANAT	gastric	: tended	NONE
+11075541	Herbs	glucose	CHED	lactose	: tended	tend
+11075541	Herbs	glucose	CHED	galactose	: null	JUXSTAPOSE
+11075541	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+11075541	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+11075541	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ANAT	neutrophil	: causes	NONE
+11891211	Herbs	glucose	DISO	pulmonary thrombosis	: causes	NONE
+11891211	Herbs	glucose	ANAT	pulmonary	: causes	NONE
+11891211	Herbs	glucose	PRGE	PECAM-1	: targeting	NONE
+11891211	Herbs	glucose	PRGE	thrombomodulin	: targeting	NONE
+11891211	Herbs	glucose	PROC	targeting	: causes	NONE
+11891211	Herbs	glucose	ANAT	lung	: causes	NONE
+11891211	Herbs	glucose	CHED	oxidant	: causes	NONE
+11891211	Herbs	glucose	CHED	antigens	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ANAT	endothelial	: null	JUXSTAPOSE
+11891211	Herbs	glucose	PRGE	oxidase	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ENZY	glucose oxidase	: null	JUXSTAPOSE
+11891211	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ANAT	Vascular	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ANAT	endothelium	: causes	cause
+11891211	Herbs	glucose	ANAT	pulmonary	: null	JUXSTAPOSE
+11891211	Herbs	glucose	PRGE	GOX	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ENZY	GOX	: null	JUXSTAPOSE
+11891211	Herbs	glucose	PRGE	glucose oxidase	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ENZY	glucose oxidase	: null	JUXSTAPOSE
+11891211	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+11891211	Herbs	glucose	ANAT	Vascular	: null	JUXSTAPOSE
+11891211	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	triiodothyronine	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	cortisol	: null	JUXSTAPOSE
+12046966	Herbs	glucose	PRGE	glucagon	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	glucagon	: null	JUXSTAPOSE
+12046966	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+12046966	Herbs	glucose	PROC	prolactin	: null	JUXSTAPOSE
+12046966	Herbs	glucose	FUNC	prolactin	: null	JUXSTAPOSE
+12046966	Herbs	glucose	PRGE	plasma prolactin	: null	JUXSTAPOSE
+12046966	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+12046966	Herbs	glucose	PROC	breed	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12046966	Herbs	glucose	PRGE	glucagon	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	glucagon	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	cortisol	: null	JUXSTAPOSE
+12046966	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	ergotamine	: null	JUXSTAPOSE
+12046966	Herbs	glucose	PROC	breeds	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	glucose	: greater	greater
+12046966	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+12046966	Herbs	glucose	CHED	cortisol	: null	JUXSTAPOSE
+12061357	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12061357	Herbs	glucose	ANAT	urine	: null	JUXSTAPOSE
+12061357	Herbs	glucose	CHED	creatinine	: null	JUXSTAPOSE
+12061357	Herbs	glucose	ENZY	gas	: null	JUXSTAPOSE
+12061357	Herbs	glucose	PROC	blood gas	: null	JUXSTAPOSE
+12061357	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12061357	Herbs	glucose	FUNC	SNAP	: null	JUXSTAPOSE
+12061357	Herbs	glucose	PRGE	SNAP	: null	JUXSTAPOSE
+12061357	Herbs	glucose	FUNC	SNAP	: null	JUXSTAPOSE
+12123102	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12123102	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12225608	Herbs	glucose	CHED	lactate	: similar	similar
+12225608	Herbs	glucose	PATH	release	: similar	similar
+12225608	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12225608	Herbs	glucose	ANAT	lung tissue	: null	JUXSTAPOSE
+12225608	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+12225608	Herbs	glucose	COMP	cells	: infiltrating	infiltrate
+12225608	Herbs	glucose	ANAT	inflammatory cells	: null	JUXSTAPOSE
+12225608	Herbs	glucose	PROC	glucose metabolism	: null	JUXSTAPOSE
+12225608	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12225608	Herbs	glucose	COMP	cells	: null	JUXSTAPOSE
+12225608	Herbs	glucose	ANAT	cells	: null	JUXSTAPOSE
+12225608	Herbs	glucose	ANAT	pulmonary	: null	JUXSTAPOSE
+12225608	Herbs	glucose	DISO	hypoxic	: null	JUXSTAPOSE
+12225608	Herbs	glucose	PROC	metabolism	: null	JUXSTAPOSE
+12225608	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+12225608	Herbs	glucose	CHED	lactate	: null	JUXSTAPOSE
+12352044	Herbs	glucose	PROC	neutrophil activation	: indicates	NONE
+12352044	Herbs	glucose	ANAT	neutrophil	: indicates	NONE
+12352044	Herbs	glucose	DISO	acute respiratory distress syndrome	: indicates	NONE
+12352044	Herbs	glucose	ANAT	neutrophil	: indicates	NONE
+12352044	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12352044	Herbs	glucose	ANAT	leukocyte	: null	JUXSTAPOSE
+12352044	Herbs	glucose	PROC	neutrophil activation	: indicates	NONE
+12352044	Herbs	glucose	ANAT	neutrophil	: indicates	NONE
+12352044	Herbs	glucose	DISO	acute respiratory distress syndrome	: indicates	NONE
+12352044	Herbs	glucose	ANAT	neutrophil	: indicates	NONE
+12352044	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12352044	Herbs	glucose	ANAT	leukocyte	: null	JUXSTAPOSE
+12519324	Herbs	glucose	ANAT	blood	: continued	continued
+12519324	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+12519324	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+12519324	Herbs	glucose	CHED	dexamethasone	: null	JUXSTAPOSE
+12519324	Herbs	glucose	PRGE	insulin	: continued	continued
+12519324	Herbs	glucose	CHED	insulin	: continued	continued
+12519324	Herbs	glucose	CHED	glucose	: >	>
+12519324	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12519324	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+12519324	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+12519324	Herbs	glucose	ANAT	scales	: null	JUXSTAPOSE
+12519324	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12519324	Herbs	glucose	PRGE	insulin	: were	be
+12519324	Herbs	glucose	CHED	insulin	: were	be
+12519324	Herbs	glucose	PROC	pregnancies	: were	be
+12519324	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12895319	Herbs	glucose	PRGE	sera albumin	: decreased	DOWN-REGULATE_WEAK
+12895319	Herbs	glucose	COMP	sera	: decreased	DOWN-REGULATE_WEAK
+12895319	Herbs	glucose	FUNC	sera	: decreased	DOWN-REGULATE_WEAK
+12895319	Herbs	glucose	ANAT	sera	: decreased	DOWN-REGULATE_WEAK
+12895319	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12895319	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12895319	Herbs	glucose	CHED	Glucocorticoid	: decreased	DOWN-REGULATE
+12895319	Herbs	glucose	ANAT	blood	: decreased	DOWN-REGULATE_WEAK
+12895319	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12895319	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12895319	Herbs	glucose	PROC	metabolic	: null	JUXSTAPOSE
+12895319	Herbs	glucose	ANAT	body	: null	JUXSTAPOSE
+12895319	Herbs	glucose	DISO	suppression	: null	JUXSTAPOSE
+12895319	Herbs	glucose	PROC	suppression	: null	JUXSTAPOSE
+12895319	Herbs	glucose	CHED	glucocorticoid	: null	JUXSTAPOSE
+12905759	Herbs	glucose	DISO	SARS	: null	JUXSTAPOSE
+12905759	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+12905759	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+12905759	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12905759	Herbs	glucose	PROC	nutrition	: null	JUXSTAPOSE
+12905759	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+12905759	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+12905759	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12905759	Herbs	glucose	DISO	SARS	: null	JUXSTAPOSE
+12905759	Herbs	glucose	PROC	nutrition	: checked	NONE
+12905759	Herbs	glucose	FUNC	ALT	: null	NONE
+12905759	Herbs	glucose	PRGE	ALT	: null	NONE
+12905759	Herbs	glucose	CHED	ALT	: null	NONE
+12905759	Herbs	glucose	CHED	alanine	: null	JUXSTAPOSE
+12905759	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	lymphocyte	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12905759	Herbs	glucose	PRGE	albumin	: null	JUXSTAPOSE
+12905759	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+12905759	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	Blood	: null	JUXSTAPOSE
+12905759	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12905759	Herbs	glucose	PRGE	Insulin	: null	JUXSTAPOSE
+12905759	Herbs	glucose	CHED	Insulin	: null	JUXSTAPOSE
+12905759	Herbs	glucose	FUNC	ALT	: maintained	NONE
+12905759	Herbs	glucose	PRGE	ALT	: maintained	NONE
+12905759	Herbs	glucose	CHED	ALT	: maintained	NONE
+12905759	Herbs	glucose	PROC	died	: maintained	NONE
+12905759	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12905759	Herbs	glucose	PRGE	insulin	: needed	need as
+12905759	Herbs	glucose	CHED	insulin	: needed	need as
+12905759	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+12905759	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+12905759	Herbs	glucose	SPEC	order	: null	JUXSTAPOSE
+15059370	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15059370	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+15088499	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15088499	Herbs	glucose	PROC	metabolic	: null	JUXSTAPOSE
+15090974	Herbs	glucose	DISO	hypoglycemia	: null	JUXSTAPOSE
+15090974	Herbs	glucose	DISO	septic shock	: null	JUXSTAPOSE
+15090974	Herbs	glucose	CHED	steroids	: null	JUXSTAPOSE
+15090974	Herbs	glucose	PROC	hemodynamic	: null	JUXSTAPOSE
+15090974	Herbs	glucose	ANAT	vascular	: null	JUXSTAPOSE
+15090974	Herbs	glucose	PROC	systemic vascular resistance	: null	JUXSTAPOSE
+15090974	Herbs	glucose	ANAT	cardiac	: null	JUXSTAPOSE
+15090974	Herbs	glucose	PROC	functional residual capacity	: null	JUXSTAPOSE
+15452254	Herbs	glucose	DISO	SARS	: identified	NONE
+15452254	Herbs	glucose	PRGE	anti-SARS-CoV	: identified	NONE
+15452254	Herbs	glucose	CHED	luteolin	: identified	identified
+15452254	Herbs	glucose	CHED	beta-D-glucose	: null	JUXSTAPOSE
+15452254	Herbs	glucose	CHED	tetra	: null	JUXSTAPOSE
+15452254	Herbs	glucose	SPEC	tetra	: null	JUXSTAPOSE
+15452254	Herbs	glucose	SPEC	virus	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	DBP	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	PRGE	GCS group	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: was	be
+15489935	Herbs	glucose	ANAT	blood	: was	be
+15489935	Herbs	glucose	CHED	glucose	: grew	grow in
+15489935	Herbs	glucose	ANAT	blood	: grew	grow in
+15489935	Herbs	glucose	CHED	potassium	: null	JUXSTAPOSE
+15489935	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+15489935	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15489935	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15489935	Herbs	glucose	DISO	hypocalcemia	: null	JUXSTAPOSE
+15575634	Herbs	glucose	CHED	corticosteroids	: null	JUXSTAPOSE
+15575634	Herbs	glucose	DISO	acute respiratory distress syndrome	: null	JUXSTAPOSE
+15575634	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+15642467	Herbs	glucose	CHED	protein	: prevent	prevent during
+15642467	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15642467	Herbs	glucose	CHED	glycerol	: null	JUXSTAPOSE
+15642467	Herbs	glucose	CHED	buffer	: null	JUXSTAPOSE
+15716562	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+15716562	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15716562	Herbs	glucose	COMP	cell	: null	JUXSTAPOSE
+15716562	Herbs	glucose	ANAT	white cell	: null	JUXSTAPOSE
+15716562	Herbs	glucose	ANAT	cerebrospinal fluid	: null	JUXSTAPOSE
+15716562	Herbs	glucose	PROC	death	: null	JUXSTAPOSE
+15716562	Herbs	glucose	DISO	coma	: null	JUXSTAPOSE
+15716562	Herbs	glucose	SPEC	coma	: null	JUXSTAPOSE
+15818093	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+15818093	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+15818093	Herbs	glucose	DISO	paresis	: null	JUXSTAPOSE
+15894601	Herbs	glucose	CHED	oleic acid	: null	NONE
+15894601	Herbs	glucose	SPEC	animals	: null	NONE
+15894601	Herbs	glucose	SPEC	mice	: measured	NONE
+15894601	Herbs	glucose	CHED	prostanoids	: null	NONE
+15894601	Herbs	glucose	ANAT	lung tissue	: null	NONE
+15894601	Herbs	glucose	PROC	arterial pressure	: null	JUXSTAPOSE
+15894601	Herbs	glucose	ANAT	arterial	: null	JUXSTAPOSE
+15894601	Herbs	glucose	PROC	blood gases	: null	JUXSTAPOSE
+15894601	Herbs	glucose	ANAT	arterial blood	: null	JUXSTAPOSE
+15894601	Herbs	glucose	PRGE	myeloperoxidase	: null	JUXSTAPOSE
+15894601	Herbs	glucose	ENZY	myeloperoxidase	: null	JUXSTAPOSE
+15894601	Herbs	glucose	ANAT	tissue	: null	JUXSTAPOSE
+15894601	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+15894601	Herbs	glucose	SPEC	ray	: null	JUXSTAPOSE
+15894601	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+16357284	Herbs	glucose	PROC	growth	: increased	UP-REGULATE_WEAK
+16357284	Herbs	glucose	PRGE	insulin-like growth factor-I	: null	NONE
+16357284	Herbs	glucose	PROC	insulin-like growth factor	: null	JUXSTAPOSE
+16357284	Herbs	glucose	FUNC	insulin-like growth factor	: null	JUXSTAPOSE
+16357284	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+16357284	Herbs	glucose	CHED	urea	: null	JUXSTAPOSE
+16357284	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16357284	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16505662	Herbs	glucose	ANAT	Plasma	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16505662	Herbs	glucose	ANAT	Plasma	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	lipopolysaccharide	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16505662	Herbs	glucose	PRGE	Insulin	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	Insulin	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16505662	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+16505662	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+16505662	Herbs	glucose	SPEC	rats	: null	JUXSTAPOSE
+16573417	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16573417	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+16573417	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+16573417	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+16573417	Herbs	glucose	DISO	critically ill	: null	JUXSTAPOSE
+16573417	Herbs	glucose	DISO	critical illness polyneuropathy	: null	JUXSTAPOSE
+16573417	Herbs	glucose	DISO	sepsis	: null	JUXSTAPOSE
+16573417	Herbs	glucose	SPEC	sepsis	: null	JUXSTAPOSE
+16573417	Herbs	glucose	DISO	myopathy	: null	JUXSTAPOSE
+16759303	Herbs	glucose	DISO	diabetes	: null	JUXSTAPOSE
+16759303	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16759303	Herbs	glucose	ANAT	Plasma	: null	JUXSTAPOSE
+16759303	Herbs	glucose	PROC	death	: null	JUXSTAPOSE
+16759303	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16759303	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+16759303	Herbs	glucose	DISO	diabetes	: null	JUXSTAPOSE
+16759303	Herbs	glucose	DISO	SARS	: null	JUXSTAPOSE
+16940539	Herbs	glucose	PRGE	GRP94	: null	JUXSTAPOSE
+16940539	Herbs	glucose	PRGE	GRP78	: null	JUXSTAPOSE
+16940539	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+16940539	Herbs	glucose	PRGE	glucose-regulated protein 78	: null	JUXSTAPOSE
+16940539	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+16940539	Herbs	glucose	PROC	transcriptional activation	: null	JUXSTAPOSE
+16940539	Herbs	glucose	PROC	transcriptional	: null	JUXSTAPOSE
+16940539	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+16940539	Herbs	glucose	PRGE	SARS-CoV	: null	JUXSTAPOSE
+16940539	Herbs	glucose	DISO	SARS	: null	JUXSTAPOSE
+16940539	Herbs	glucose	CHED	proteins	: null	JUXSTAPOSE
+16940539	Herbs	glucose	COMP	cells	: null	JUXSTAPOSE
+16940539	Herbs	glucose	ANAT	cultured cells	: null	JUXSTAPOSE
+17003853	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+17215045	Herbs	glucose	PRGE	G6PD	: cause	NONE
+17215045	Herbs	glucose	ENZY	G6PD	: cause	NONE
+17215045	Herbs	glucose	CHED	phosphate	: null	JUXSTAPOSE
+17215045	Herbs	glucose	DISO	glucose-6-phosphate dehydrogenase deficiency	: null	NONE
+17215045	Herbs	glucose	PRGE	glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+17215045	Herbs	glucose	ENZY	glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+17215045	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+17215045	Herbs	glucose	CHED	primaquine	: null	JUXSTAPOSE
+17428553	Herbs	glucose	SPEC	plant	: null	JUXSTAPOSE
+17428553	Herbs	glucose	CHED	N-acetylglucosamine	: null	JUXSTAPOSE
+17428553	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+17428553	Herbs	glucose	CHED	N-acetylgalactosamine	: null	JUXSTAPOSE
+17428553	Herbs	glucose	CHED	galactose	: null	JUXSTAPOSE
+17428553	Herbs	glucose	FUNC	binding	: null	JUXSTAPOSE
+17611489	Herbs	glucose	CHED	antigens	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	CHED	calcium	: null	JUXSTAPOSE
+17611489	Herbs	glucose	CHED	voltage	: acetylcholine	CONTAIN_WEAK
+17611489	Herbs	glucose	CHED	potassium"	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	CHED	voltage	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	PRGE	tyrosine kinase	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	CHED	tyrosine	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	ANAT	muscle	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	CHED	acetylcholine	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	COMP	antibodies	: null	JUXSTAPOSE
+17611489	Herbs	glucose	COMP	serum	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	ANAT	serum	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	PROC	metabolic	: null	JUXSTAPOSE
+17611489	Herbs	glucose	COMP	cell	: null	JUXSTAPOSE
+17611489	Herbs	glucose	ANAT	cell	: null	JUXSTAPOSE
+17611489	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+17611489	Herbs	glucose	ANAT	nerve	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	PROC	conduction	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	PROC	nerve conduction	: acetylcholine	acetylcholine
+17611489	Herbs	glucose	ANAT	motor nerve	: acetylcholine	acetylcholine
+17711565	Herbs	glucose	PROC	hyperthermia	: null	JUXSTAPOSE
+17711565	Herbs	glucose	PRGE	albumin	: null	JUXSTAPOSE
+17711565	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+17711565	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+17711565	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+17711565	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+17711565	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+17711565	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+17711565	Herbs	glucose	DISO	anaemia	: null	JUXSTAPOSE
+17711565	Herbs	glucose	DISO	hypotensive	: null	JUXSTAPOSE
+18026162	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+18026162	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+18026162	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+18026162	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+18026162	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+18026162	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+18026162	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+18026162	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+18026162	Herbs	glucose	CHED	peptide	: null	JUXSTAPOSE
+18026162	Herbs	glucose	PRGE	plasma C-peptide	: null	JUXSTAPOSE
+18026162	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+18026162	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+18026162	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+18026162	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+18026162	Herbs	glucose	CHED	prednisone	: null	JUXSTAPOSE
+18026162	Herbs	glucose	PRGE	insulin	: improved	improve on
+18026162	Herbs	glucose	CHED	insulin	: improved	improve on
+18058085	Herbs	glucose	PROC	proton pump inhibitors	: using	use after
+18058085	Herbs	glucose	CHED	proton pump inhibitors	: using	use after
+18058085	Herbs	glucose	COMP	proton pump	: using	use after
+18058085	Herbs	glucose	FUNC	proton pump	: using	use after
+18058085	Herbs	glucose	ENZY	proton pump	: using	use after
+18058085	Herbs	glucose	DISO	upper GI bleeding	: prevent	prevent
+18058085	Herbs	glucose	DISO	stress ulcer	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	deep vein thrombosis	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	deep vein	: null	JUXSTAPOSE
+18058085	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+18058085	Herbs	glucose	PROC	targeting	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	sedation	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	sedation	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	analgesia	: null	JUXSTAPOSE
+18058085	Herbs	glucose	PROC	analgesia	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	sedation	: null	JUXSTAPOSE
+18058085	Herbs	glucose	PROC	weaning	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	pulmonary artery	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	bed	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	head	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+18058085	Herbs	glucose	PROC	end-expiratory	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	acute respiratory distress syndrome	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+18058085	Herbs	glucose	PROC	inspiratory	: null	JUXSTAPOSE
+18058085	Herbs	glucose	PRGE	hemoglobin	: null	JUXSTAPOSE
+18058085	Herbs	glucose	CHED	hemoglobin	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	acute hemorrhage	: null	JUXSTAPOSE
+18058085	Herbs	glucose	DISO	coronary artery disease	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	coronary artery	: null	JUXSTAPOSE
+18058085	Herbs	glucose	ANAT	tissue	: null	JUXSTAPOSE
+18158437	Herbs	glucose	PROC	proton pump inhibitors	: prevent	prevent
+18158437	Herbs	glucose	CHED	proton pump inhibitors	: prevent	prevent
+18158437	Herbs	glucose	COMP	proton pump	: prevent	prevent
+18158437	Herbs	glucose	FUNC	proton pump	: prevent	prevent
+18158437	Herbs	glucose	ENZY	proton pump	: prevent	prevent
+18158437	Herbs	glucose	DISO	upper gastrointestinal bleeding	: prevent	prevent
+18158437	Herbs	glucose	ANAT	upper gastrointestinal	: prevent	prevent
+18158437	Herbs	glucose	DISO	stress ulcer	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	deep vein thrombosis	: null	JUXSTAPOSE
+18158437	Herbs	glucose	ANAT	deep vein	: null	JUXSTAPOSE
+18158437	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+18158437	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+18158437	Herbs	glucose	PROC	targeting	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	sedation	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	sedation	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	analgesia	: null	JUXSTAPOSE
+18158437	Herbs	glucose	PROC	analgesia	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	sedation	: null	JUXSTAPOSE
+18158437	Herbs	glucose	PROC	weaning	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+18158437	Herbs	glucose	ANAT	pulmonary artery	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	bed	: prevent	prevent
+18158437	Herbs	glucose	ANAT	head	: prevent	prevent
+18158437	Herbs	glucose	ANAT	lung	: prevent	prevent
+18158437	Herbs	glucose	PROC	end-expiratory	: prevent	prevent
+18158437	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+18158437	Herbs	glucose	DISO	acute respiratory distress syndrome	: prevent	prevent
+18158437	Herbs	glucose	ANAT	lung	: prevent	prevent
+18158437	Herbs	glucose	PROC	inspiratory	: prevent	prevent
+18158437	Herbs	glucose	PRGE	hemoglobin	: prevent	prevent
+18158437	Herbs	glucose	CHED	hemoglobin	: prevent	prevent
+18158437	Herbs	glucose	DISO	acute hemorrhage	: prevent	prevent
+18158437	Herbs	glucose	DISO	coronary artery disease	: prevent	prevent
+18158437	Herbs	glucose	ANAT	coronary artery	: prevent	prevent
+18158437	Herbs	glucose	ANAT	tissue	: prevent	prevent
+18269318	Herbs	glucose	SPEC	human coronavirus	: applied	NONE
+18269318	Herbs	glucose	COMP	cells	: higher	NONE
+18269318	Herbs	glucose	ANAT	cells	: higher	NONE
+18269318	Herbs	glucose	PRGE	G6PD	: higher	NONE
+18269318	Herbs	glucose	ENZY	G6PD	: higher	NONE
+18269318	Herbs	glucose	PRGE	G6PD	: null	NONE
+18269318	Herbs	glucose	ENZY	G6PD	: null	NONE
+18269318	Herbs	glucose	CHED	phosphate	: null	NONE
+18269318	Herbs	glucose	PRGE	glucose-6-phosphate dehydrogenase	: null	NONE
+18269318	Herbs	glucose	ENZY	glucose-6-phosphate dehydrogenase	: null	NONE
+18269318	Herbs	glucose	CHED	glucose	: null	PRODUCE
+18269318	Herbs	glucose	COMP	viral particle	: null	PRODUCE
+18269318	Herbs	glucose	ANAT	viral particle	: null	PRODUCE
+18269318	Herbs	glucose	PROC	gene expression	: null	PRODUCE
+18269318	Herbs	glucose	PRGE	Viral gene	: null	PRODUCE
+18334145	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+18334145	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+18334145	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+18334145	Herbs	glucose	CHED	triglyceride	: null	JUXSTAPOSE
+18334145	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+18334145	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+18766100	Herbs	glucose	ANAT	blood	: null	NONE
+18766100	Herbs	glucose	CHED	glucose	: null	NONE
+18766100	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+18766100	Herbs	glucose	ANAT	blood	: >	NONE
+18766100	Herbs	glucose	CHED	glucose	: null	NONE
+18766100	Herbs	glucose	ANAT	blood	: >	>
+18766100	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+18766100	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+18766100	Herbs	glucose	PRGE	insulin	: euglycemic	euglycemic
+18766100	Herbs	glucose	CHED	insulin	: euglycemic	euglycemic
+18766100	Herbs	glucose	CHED	glucose	: null	INDICATE
+19333547	Herbs	glucose	DISO	glucose intolerance	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+19333547	Herbs	glucose	DISO	pathogenesis	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PROC	pathogenesis	: null	JUXSTAPOSE
+19333547	Herbs	glucose	ANAT	pancreas	: null	JUXSTAPOSE
+19333547	Herbs	glucose	ANAT	tissues	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	endocrine	: null	JUXSTAPOSE
+19333547	Herbs	glucose	ANAT	organs	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PRGE	ACE2	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PRGE	angiotensin converting enzyme 2	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	angiotensin	: null	JUXSTAPOSE
+19333547	Herbs	glucose	SPEC	coronavirus	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PRGE	SARS coronavirus receptor	: null	JUXSTAPOSE
+19333547	Herbs	glucose	DISO	SARS	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PROC	expression	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PRGE	alanine transaminase	: null	JUXSTAPOSE
+19333547	Herbs	glucose	ENZY	alanine transaminase	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	alanine	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+19333547	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PRGE	creatine kinase MB	: null	JUXSTAPOSE
+19333547	Herbs	glucose	ENZY	creatine kinase	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	creatine	: null	JUXSTAPOSE
+19333547	Herbs	glucose	PRGE	lactate dehydrogenase	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	lactate	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	creatinine	: null	JUXSTAPOSE
+19333547	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+19333547	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	oxygen	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	PPG	: null	JUXSTAPOSE
+19333547	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+19333547	Herbs	glucose	DISO	SARS	: null	JUXSTAPOSE
+19531940	Herbs	glucose	CHED	oxygen	: null	JUXSTAPOSE
+19531940	Herbs	glucose	SPEC	cannula	: null	JUXSTAPOSE
+19531940	Herbs	glucose	ANAT	nasal	: null	JUXSTAPOSE
+19531940	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+19531940	Herbs	glucose	CHED	nitric oxide	: null	JUXSTAPOSE
+19531940	Herbs	glucose	PROC	inhaled	: null	JUXSTAPOSE
+20017765	Herbs	glucose	CHED	lactate	: null	JUXSTAPOSE
+20017765	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+20017765	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+20017765	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+20017765	Herbs	glucose	CHED	PCV	: null	JUXSTAPOSE
+20017765	Herbs	glucose	SPEC	PCV	: null	JUXSTAPOSE
+20017765	Herbs	glucose	CHED	glucose	: able	able
+20017765	Herbs	glucose	CHED	lactate	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PROC	metabolic effects	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PROC	metabolic	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PROC	metabolic effects	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PROC	metabolic	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PROC	exerts	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PRGE	Insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	Insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	DISO	critically ill	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	DISO	hyperglycemia	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	DISO	LPS	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	LPS	: null	JUXSTAPOSE
+20186475	Herbs	glucose	DISO	inflammation	: null	JUXSTAPOSE
+20186475	Herbs	glucose	ANAT	alveolar	: null	JUXSTAPOSE
+20186475	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+20186475	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+20186475	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+20367908	Herbs	glucose	CHED	lipid	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	coagulopathy	: null	JUXSTAPOSE
+20367908	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+20367908	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	leucopenia	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	left heart failure	: null	JUXSTAPOSE
+20367908	Herbs	glucose	ANAT	left heart	: null	JUXSTAPOSE
+20367908	Herbs	glucose	ANAT	pulmonary	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	acute pulmonary edema	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	meningitis	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	dyspnea	: null	JUXSTAPOSE
+20367908	Herbs	glucose	ANAT	sputum	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	cough	: null	JUXSTAPOSE
+20367908	Herbs	glucose	PROC	fever	: null	JUXSTAPOSE
+20367908	Herbs	glucose	DISO	pneumonia	: null	JUXSTAPOSE
+20369724	Herbs	glucose	ANAT	blood	: high	high
+20369724	Herbs	glucose	CHED	glucose	: high	high
+20369724	Herbs	glucose	CHED	TPN	: high	high
+20369724	Herbs	glucose	CHED	peptide	: null	JUXSTAPOSE
+20369724	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+20369724	Herbs	glucose	DISO	diabetes	: were	be after
+21467829	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+21467829	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+21467829	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+21467829	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+21467829	Herbs	glucose	CHED	antidiabetic	: null	JUXSTAPOSE
+21467829	Herbs	glucose	ANAT	oral	: null	JUXSTAPOSE
+21467829	Herbs	glucose	CHED	Metformin	: null	JUXSTAPOSE
+21729006	Herbs	glucose	PROC	formation	: related	related
+21729006	Herbs	glucose	DISO	ERS	: null	JUXSTAPOSE
+21729006	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+21729006	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+21729006	Herbs	glucose	PRGE	GRP78	: null	JUXSTAPOSE
+21729006	Herbs	glucose	PROC	expression	: null	JUXSTAPOSE
+21729006	Herbs	glucose	COMP	nucleolus	: null	JUXSTAPOSE
+21729006	Herbs	glucose	ANAT	nucleolus	: null	JUXSTAPOSE
+23101079	Herbs	glucose	PROC	glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	impaired glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	gestational diabetes mellitus	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	GDM	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	Gestational diabetes	: null	JUXSTAPOSE
+23101079	Herbs	glucose	PROC	glucose tolerance	: manifest	manifest
+23101079	Herbs	glucose	CHED	glucose	: manifest	manifest
+23101079	Herbs	glucose	DISO	impaired glucose tolerance	: occur	occur in
+23101079	Herbs	glucose	PROC	metabolic	: occur	occur in
+23101079	Herbs	glucose	DISO	glucose metabolic disorder	: null	JUXSTAPOSE
+23101079	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23101079	Herbs	glucose	PROC	glucose tolerance	: manifest	manifest
+23101079	Herbs	glucose	CHED	glucose	: manifest	manifest
+23101079	Herbs	glucose	DISO	impaired glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	PROC	metabolic	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	glucose metabolic disorder	: null	JUXSTAPOSE
+23101079	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	pre-eclampsia	: null	JUXSTAPOSE
+23101079	Herbs	glucose	PROC	glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	impaired glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	PROC	glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	impaired glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	DISO	tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	PROC	glucose tolerance	: null	JUXSTAPOSE
+23101079	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23101079	Herbs	glucose	ANAT	oral	: null	JUXSTAPOSE
+23364437	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23364437	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+23364437	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+23364437	Herbs	glucose	PRGE	angiotensin-receptor	: null	JUXSTAPOSE
+23364437	Herbs	glucose	CHED	angiotensin	: null	JUXSTAPOSE
+23364437	Herbs	glucose	CHED	inhibitors	: null	JUXSTAPOSE
+23364437	Herbs	glucose	PRGE	ACE	: null	JUXSTAPOSE
+23364437	Herbs	glucose	ENZY	ACE	: null	JUXSTAPOSE
+23364437	Herbs	glucose	DISO	chronic alcoholism	: null	JUXSTAPOSE
+23364437	Herbs	glucose	DISO	ARDS	: null	JUXSTAPOSE
+23514667	Herbs	glucose	FUNC	IL-10	: null	JUXSTAPOSE
+23514667	Herbs	glucose	PRGE	IL-10	: null	JUXSTAPOSE
+23514667	Herbs	glucose	PRGE	interleukin	: null	JUXSTAPOSE
+23514667	Herbs	glucose	PROC	necrosis	: null	JUXSTAPOSE
+23514667	Herbs	glucose	PRGE	tumor necrosis factor-\\xce\\xb1	: null	JUXSTAPOSE
+23514667	Herbs	glucose	FUNC	tumor necrosis factor	: null	JUXSTAPOSE
+23514667	Herbs	glucose	DISO	tumor necrosis	: null	JUXSTAPOSE
+23514667	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+23514667	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+23514667	Herbs	glucose	PRGE	amylase	: null	JUXSTAPOSE
+23514667	Herbs	glucose	ANAT	heart	: null	JUXSTAPOSE
+23514667	Herbs	glucose	DISO	distention	: null	JUXSTAPOSE
+23514667	Herbs	glucose	DISO	abdominal pain	: null	JUXSTAPOSE
+23514667	Herbs	glucose	ANAT	abdominal	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	broncho-pulmonary	: null	JUXSTAPOSE
+24074819	Herbs	glucose	SPEC	bacteria	: null	JUXSTAPOSE
+24074819	Herbs	glucose	PROC	growth	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	airway	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	pulmonary	: null	JUXSTAPOSE
+24074819	Herbs	glucose	DISO	critically ill	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	broncho-pulmonary	: null	JUXSTAPOSE
+24074819	Herbs	glucose	SPEC	bacteria	: null	JUXSTAPOSE
+24074819	Herbs	glucose	PROC	growth	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	airway	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	pulmonary	: null	JUXSTAPOSE
+24074819	Herbs	glucose	DISO	critically ill	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24074819	Herbs	glucose	ANAT	Blood	: null	JUXSTAPOSE
+24074819	Herbs	glucose	DISO	pneumonia	: associated	associate with
+24074819	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24285266	Herbs	glucose	ANAT	lung	: reduce	PRODUCE
+24285266	Herbs	glucose	DISO	recruitment	: reduce	PRODUCE
+24285266	Herbs	glucose	PROC	neutrophil recruitment	: reduce	PRODUCE
+24285266	Herbs	glucose	ANAT	neutrophil	: reduce	PRODUCE
+24285266	Herbs	glucose	DISO	leakage	: reduce	PRODUCE
+24285266	Herbs	glucose	ANAT	vascular	: null	PRODUCE
+24285266	Herbs	glucose	CHED	ATP	: reduce	PRODUCE
+24285266	Herbs	glucose	COMP	extracellular	: reduce	PRODUCE
+24285266	Herbs	glucose	ANAT	extracellular	: reduce	PRODUCE
+24285266	Herbs	glucose	CHED	2-deoxy-d-glucose	: null	PRODUCE
+24285266	Herbs	glucose	CHED	ATP	: null	PRODUCE
+24285266	Herbs	glucose	ENZY	5\'-nucleotidase	: null	PRODUCE
+24285266	Herbs	glucose	PROC	catabolism	: null	PRODUCE
+24285266	Herbs	glucose	PROC	ATP catabolism	: null	PRODUCE
+24285266	Herbs	glucose	CHED	ATP	: null	PRODUCE
+24285266	Herbs	glucose	CHED	ATP	: null	PRODUCE
+24610533	Herbs	glucose	CHED	mRNA	: null	JUXSTAPOSE
+24610533	Herbs	glucose	CHED	glucose	: increased	increase in
+24610533	Herbs	glucose	ANAT	muscle	: increased	increase in
+24610533	Herbs	glucose	DISO	cachexia	: null	JUXSTAPOSE
+24610533	Herbs	glucose	CHED	mRNA	: null	JUXSTAPOSE
+24610533	Herbs	glucose	PRGE	glucose transporter-4 mRNA	: null	JUXSTAPOSE
+24610533	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24610533	Herbs	glucose	CHED	mRNA	: null	JUXSTAPOSE
+24610533	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24610533	Herbs	glucose	ANAT	muscle	: null	JUXSTAPOSE
+24610533	Herbs	glucose	DISO	cachexia	: null	JUXSTAPOSE
+24610533	Herbs	glucose	CHED	mRNA	: null	JUXSTAPOSE
+24610533	Herbs	glucose	PRGE	glucose transporter-4 mRNA	: null	JUXSTAPOSE
+24610533	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+24681123	Herbs	glucose	DISO	epidemic diarrhea	: inhibits	DOWN-REGULATE
+24681123	Herbs	glucose	SPEC	porcine epidemic diarrhea virus	: inhibits	DOWN-REGULATE
+24681123	Herbs	glucose	CHED	2-Deoxy-D-glucose	: null	JUXSTAPOSE
+24681123	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+24681123	Herbs	glucose	CHED	antiviral	: null	JUXSTAPOSE
+24681123	Herbs	glucose	DISO	possessed	: possessed	possess against
+24681123	Herbs	glucose	CHED	2-Deoxy-d-glucose	: null	JUXSTAPOSE
+24681123	Herbs	glucose	CHED	PBA	: possessed	possess against
+24681123	Herbs	glucose	CHED	mannose	: null	JUXSTAPOSE
+24681123	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+25348530	Herbs	glucose	CHED	glycans	: null	JUXSTAPOSE
+25348530	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+25348530	Herbs	glucose	COMP	Endoplasmic reticulum	: null	JUXSTAPOSE
+25348530	Herbs	glucose	ANAT	Endoplasmic reticulum	: null	JUXSTAPOSE
+25746507	Herbs	glucose	ANAT	lung	: null	NONE
+25746507	Herbs	glucose	ANAT	neutrophil	: reflects	NONE
+25746507	Herbs	glucose	DISO	lung inflammation	: reflects	NONE
+25746507	Herbs	glucose	ANAT	lung	: reflects	NONE
+25746507	Herbs	glucose	PROC	cellular metabolism	: used	NONE
+25746507	Herbs	glucose	COMP	cellular	: used	NONE
+25746507	Herbs	glucose	ANAT	cellular	: used	NONE
+25746507	Herbs	glucose	CHED	2-deoxy-D-glucose	: used	use to
+25746507	Herbs	glucose	CHED	fluoro	: null	JUXSTAPOSE
+25746507	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+25746507	Herbs	glucose	CHED	2-deoxy-D-glucose	: null	JUXSTAPOSE
+25746507	Herbs	glucose	CHED	fluoro	: null	JUXSTAPOSE
+25746507	Herbs	glucose	SPEC	animals	: null	JUXSTAPOSE
+25746507	Herbs	glucose	DISO	Acute Respiratory Distress Syndrome	: null	JUXSTAPOSE
+25746507	Herbs	glucose	ANAT	lung	: computed	compute for
+25746507	Herbs	glucose	PROC	glucose uptake	: null	JUXSTAPOSE
+25746507	Herbs	glucose	CHED	2-deoxy-D-glucose	: null	JUXSTAPOSE
+25746507	Herbs	glucose	CHED	fluoro	: null	JUXSTAPOSE
+26050646	Herbs	glucose	ANAT	molar	: null	JUXSTAPOSE
+26050646	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+26050646	Herbs	glucose	SPEC	Zaire Ebolavirus	: null	JUXSTAPOSE
+26050646	Herbs	glucose	SPEC	coronavirus	: null	JUXSTAPOSE
+26050646	Herbs	glucose	DISO	syndrome	: null	JUXSTAPOSE
+26050646	Herbs	glucose	PRGE	invertase	: null	JUXSTAPOSE
+26050646	Herbs	glucose	ENZY	invertase	: null	JUXSTAPOSE
+26050646	Herbs	glucose	DISO	amplification	: null	JUXSTAPOSE
+26050646	Herbs	glucose	PROC	high temperature	: null	JUXSTAPOSE
+26149150	Herbs	glucose	DISO	cerebral hemorrhage	: correlated	correlate with
+26149150	Herbs	glucose	ANAT	cerebral	: correlated	correlate with
+26149150	Herbs	glucose	CHED	glucose	: correlated	correlate with
+26149150	Herbs	glucose	CHED	glucose	: correlated	correlate with
+26149150	Herbs	glucose	DISO	cerebral hemorrhage	: null	JUXSTAPOSE
+26149150	Herbs	glucose	ANAT	cerebral	: null	JUXSTAPOSE
+26149150	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+26149150	Herbs	glucose	CHED	glucose	: happened	happen in
+26149150	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+26493798	Herbs	glucose	PROC	glucose uptake	: null	JUXSTAPOSE
+26493798	Herbs	glucose	CHED	2-deoxy-D-glucose	: null	JUXSTAPOSE
+26493798	Herbs	glucose	CHED	fluoro	: null	JUXSTAPOSE
+26493798	Herbs	glucose	ANAT	Lung	: null	JUXSTAPOSE
+26493798	Herbs	glucose	ANAT	emission	: quantified	NONE
+26493798	Herbs	glucose	CHED	positron	: quantified	NONE
+26493798	Herbs	glucose	ANAT	lung	: quantified	NONE
+26493798	Herbs	glucose	CHED	2-deoxy-d-glucose	: null	NONE
+26493798	Herbs	glucose	CHED	fluoro	: null	JUXSTAPOSE
+26573211	Herbs	glucose	ANAT	emission	: null	JUXSTAPOSE
+26573211	Herbs	glucose	CHED	positron	: null	JUXSTAPOSE
+27065122	Herbs	glucose	PROC	transport	: had	NONE
+27065122	Herbs	glucose	PROC	glutamine transport	: had	NONE
+27065122	Herbs	glucose	CHED	glutamine	: had	NONE
+27065122	Herbs	glucose	SPEC	pigs	: had	NONE
+27065122	Herbs	glucose	SPEC	pigs	: increased	NONE
+27065122	Herbs	glucose	SPEC	pigs	: increased	NONE
+27065122	Herbs	glucose	DISO	PRRS	: increased	NONE
+27065122	Herbs	glucose	CHED	glucose	: null	NONE
+27065122	Herbs	glucose	PROC	transport	: null	NONE
+27065122	Herbs	glucose	PROC	Active transport	: null	NONE
+27065122	Herbs	glucose	SPEC	pigs	: null	NONE
+27065122	Herbs	glucose	CHED	PRP	: null	NONE
+27065122	Herbs	glucose	PROC	glucose uptake	: favors	favor
+27065122	Herbs	glucose	CHED	glucose	: favors	favor
+27065122	Herbs	glucose	DISO	infection	: null	JUXSTAPOSE
+27065122	Herbs	glucose	DISO	PRRS	: null	JUXSTAPOSE
+27065122	Herbs	glucose	SPEC	pigs	: null	JUXSTAPOSE
+27379022	Herbs	glucose	CHED	corticosteroids	: tolerated	tolerate in
+27379022	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27379022	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	organ	: [including	[including after
+27426070	Herbs	glucose	DISO	multiple organ failure	: [including	[including after
+27426070	Herbs	glucose	DISO	MODS	: [including	[including after
+27426070	Herbs	glucose	ANAT	organ	: [including	[including after
+27426070	Herbs	glucose	DISO	multiple organ dysfunction syndrome	: [including	[including after
+27426070	Herbs	glucose	DISO	ARDS	: [including	[including after
+27426070	Herbs	glucose	DISO	acute respiratory distress syndrome	: [including	[including after
+27426070	Herbs	glucose	DISO	infection	: [including	[including after
+27426070	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	lactic acid	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	nitrogen	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	urea	: null	JUXSTAPOSE
+27426070	Herbs	glucose	PRGE	albumin	: null	JUXSTAPOSE
+27426070	Herbs	glucose	PRGE	platelet count	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	platelet	: null	JUXSTAPOSE
+27426070	Herbs	glucose	PRGE	hemoglobin	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	hemoglobin	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	granulocyte	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	neutrophile	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	leucocyte	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	bicarbonate ion	: null	JUXSTAPOSE
+27426070	Herbs	glucose	PROC	PaO	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ENZY	PaO	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	PaO	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	urine	: null	JUXSTAPOSE
+27426070	Herbs	glucose	DISO	Coma	: null	JUXSTAPOSE
+27426070	Herbs	glucose	SPEC	Coma	: null	JUXSTAPOSE
+27426070	Herbs	glucose	DISO	ISS	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	heart	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	axillary	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	lactic acid	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	nitrogen	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	urea	: null	JUXSTAPOSE
+27426070	Herbs	glucose	PRGE	albumin	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	granulocyte	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	neutrophile	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	leucocyte	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	bicarbonate ion	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ANAT	platelet	: null	JUXSTAPOSE
+27426070	Herbs	glucose	PRGE	hemoglobin	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	hemoglobin	: null	JUXSTAPOSE
+27426070	Herbs	glucose	PROC	PaO	: null	JUXSTAPOSE
+27426070	Herbs	glucose	ENZY	PaO	: null	JUXSTAPOSE
+27426070	Herbs	glucose	CHED	PaO	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27591273	Herbs	glucose	ANAT	plasma	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	creatinine	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	uric acid	: null	JUXSTAPOSE
+27591273	Herbs	glucose	PRGE	albumin	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27591273	Herbs	glucose	SPEC	birds	: null	JUXSTAPOSE
+27591273	Herbs	glucose	COMP	antibody	: confer	confer to
+27591273	Herbs	glucose	PROC	antibody	: confer	confer to
+27591273	Herbs	glucose	FUNC	antibody	: confer	confer to
+27591273	Herbs	glucose	SPEC	birds	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27591273	Herbs	glucose	SPEC	NDV	: confer	confer to
+27591273	Herbs	glucose	COMP	antibody	: null	JUXSTAPOSE
+27591273	Herbs	glucose	PROC	antibody	: null	JUXSTAPOSE
+27591273	Herbs	glucose	FUNC	antibody	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	cholesterol	: creatinine	creatinine
+27591273	Herbs	glucose	CHED	creatinine	: creatinine	creatinine
+27591273	Herbs	glucose	CHED	uric acid	: null	JUXSTAPOSE
+27591273	Herbs	glucose	PRGE	albumin	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+27591273	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27591273	Herbs	glucose	SPEC	Birds	: null	JUXSTAPOSE
+27591273	Herbs	glucose	SPEC	IBV	: null	JUXSTAPOSE
+27591273	Herbs	glucose	SPEC	NDV	: null	JUXSTAPOSE
+27619845	Herbs	glucose	CHED	protein	: was	be in
+27619845	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27619845	Herbs	glucose	ANAT	platelets	: was	be in
+27619845	Herbs	glucose	DISO	increased platelets	: was	be in
+27619845	Herbs	glucose	DISO	Leukocytosis	: was	be in
+27851758	Herbs	glucose	PRGE	glucose transporter 2	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	SGLT1	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	Na+-dependent glucose transporter 1	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	COMP	cells	: null	JUXSTAPOSE
+27851758	Herbs	glucose	ANAT	epithelial cells	: null	JUXSTAPOSE
+27851758	Herbs	glucose	ANAT	intestinal	: null	JUXSTAPOSE
+27851758	Herbs	glucose	SPEC	TGEV	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	nutrients	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	glucose transporter 2	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	SGLT1	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	Na+-dependent glucose transporter 1	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	COMP	cells	: null	JUXSTAPOSE
+27851758	Herbs	glucose	ANAT	epithelial cells	: null	JUXSTAPOSE
+27851758	Herbs	glucose	ANAT	intestinal	: null	JUXSTAPOSE
+27851758	Herbs	glucose	SPEC	TGEV	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	nutrients	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	glucose transporter 2	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	SGLT1	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	Na+-dependent glucose transporter 1	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	COMP	cells	: null	JUXSTAPOSE
+27851758	Herbs	glucose	ANAT	epithelial cells	: null	JUXSTAPOSE
+27851758	Herbs	glucose	ANAT	intestinal	: null	JUXSTAPOSE
+27851758	Herbs	glucose	SPEC	TGEV	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	nutrients	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	SGLT1	: null	INJECT
+27851758	Herbs	glucose	PROC	glucose uptake	: null	INJECT
+27851758	Herbs	glucose	CHED	glucose	: null	INJECT
+27851758	Herbs	glucose	DISO	infection	: null	INJECT
+27851758	Herbs	glucose	SPEC	TGEV	: null	INJECT
+27851758	Herbs	glucose	FUNC	EGFR	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	EGFR	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PROC	expression	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PROC	glucose uptake	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	SPEC	TGEV	: null	JUXSTAPOSE
+27851758	Herbs	glucose	DISO	infection	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PROC	expression	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	GLUT2	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PROC	glucose uptake	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+27851758	Herbs	glucose	FUNC	EGFR	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	EGFR	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PROC	inhibition	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	GLUT2	: null	JUXSTAPOSE
+27851758	Herbs	glucose	PRGE	SGLT1	: null	JUXSTAPOSE
+27851758	Herbs	glucose	CHED	glucose	: found	find
+27851758	Herbs	glucose	COMP	cells	: null	JUXSTAPOSE
+27851758	Herbs	glucose	ANAT	cells	: null	JUXSTAPOSE
+28406814	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+28406814	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+28406814	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+28406814	Herbs	glucose	PROC	hemodynamics	: null	NONE
+28831119	Herbs	glucose	DISO	cardiovascular disorders	: null	JUXSTAPOSE
+28831119	Herbs	glucose	ANAT	cardiovascular	: null	JUXSTAPOSE
+28831119	Herbs	glucose	DISO	infections	: null	JUXSTAPOSE
+28831119	Herbs	glucose	ANAT	lung	: null	JUXSTAPOSE
+28831119	Herbs	glucose	DISO	infection	: null	JUXSTAPOSE
+29378029	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+29378029	Herbs	glucose	PRGE	insulin	: null	JUXSTAPOSE
+29378029	Herbs	glucose	CHED	insulin	: null	JUXSTAPOSE
+29378029	Herbs	glucose	DISO	increased insulin	: null	JUXSTAPOSE
+29378029	Herbs	glucose	PRGE	haptoglobin	: null	JUXSTAPOSE
+29378029	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+29378029	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+29378029	Herbs	glucose	SPEC	PEDV	: null	JUXSTAPOSE
+29378029	Herbs	glucose	SPEC	Pigs	: null	JUXSTAPOSE
+29378029	Herbs	glucose	SPEC	pigs	: null	JUXSTAPOSE
+29887526	Herbs	glucose	FUNC	binding	: null	JUXSTAPOSE
+29887526	Herbs	glucose	PRGE	GRP78	: null	JUXSTAPOSE
+29887526	Herbs	glucose	CHED	protein	: null	JUXSTAPOSE
+29887526	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+29887526	Herbs	glucose	PRGE	membrane-associated 78-kDa glucose-regulated protein	: null	JUXSTAPOSE
+29887526	Herbs	glucose	COMP	membrane	: null	JUXSTAPOSE
+29887526	Herbs	glucose	ANAT	membrane	: null	JUXSTAPOSE
+29887526	Herbs	glucose	PRGE	DPP4	: null	JUXSTAPOSE
+30020248	Herbs	glucose	CHED	bicarbonate	: null	JUXSTAPOSE
+30020248	Herbs	glucose	DISO	Coma	: null	JUXSTAPOSE
+30020248	Herbs	glucose	SPEC	Coma	: null	JUXSTAPOSE
+30020248	Herbs	glucose	CHED	epinephrine	: null	JUXSTAPOSE
+30439321	Herbs	glucose	CHED	carbon dioxide	: indexes	index
+30439321	Herbs	glucose	ENZY	gas	: null	JUXSTAPOSE
+30439321	Herbs	glucose	PROC	blood gas	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	arterial blood	: indexes	index
+30439321	Herbs	glucose	CHED	glucose	: indexes	index
+30439321	Herbs	glucose	ANAT	blood	: indexes	index
+30439321	Herbs	glucose	CHED	potassium	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+30439321	Herbs	glucose	CHED	calcium	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+30439321	Herbs	glucose	CHED	creatinine	: null	JUXSTAPOSE
+30439321	Herbs	glucose	COMP	serum	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	serum	: null	JUXSTAPOSE
+30439321	Herbs	glucose	PRGE	Alb	: null	JUXSTAPOSE
+30439321	Herbs	glucose	PRGE	albumin	: null	JUXSTAPOSE
+30439321	Herbs	glucose	CHED	bilirubin	: null	JUXSTAPOSE
+30439321	Herbs	glucose	DISO	PCT	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	platelet	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	RBC	: null	JUXSTAPOSE
+30439321	Herbs	glucose	COMP	cell	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	red blood cell	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	WBC	: null	JUXSTAPOSE
+30439321	Herbs	glucose	COMP	cell	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	white blood cell	: null	JUXSTAPOSE
+30439321	Herbs	glucose	ANAT	blood	: indexes	index
+30439321	Herbs	glucose	DISO	infection	: indexes	index
+30439321	Herbs	glucose	ANAT	venous	: indexes	index
+30439321	Herbs	glucose	ANAT	blood	: indexes	index
+30439321	Herbs	glucose	SPEC	cannula	: indexes	index
+30439321	Herbs	glucose	DISO	trachea	: indexes	index
+30439321	Herbs	glucose	SPEC	trachea	: indexes	index
+30439321	Herbs	glucose	ANAT	trachea	: indexes	index
+30439321	Herbs	glucose	DISO	atrial fibrillation	: indexes	index
+30439321	Herbs	glucose	ANAT	atrial	: indexes	index
+30439321	Herbs	glucose	DISO	ARDS	: indexes	index
+31032205	Herbs	glucose	ANAT	sternal angle	: identified;	identified;
+31032205	Herbs	glucose	ANAT	superior mediastinum	: null	JUXSTAPOSE
+31032205	Herbs	glucose	CHED	FNA	: null	JUXSTAPOSE
+31032205	Herbs	glucose	DISO	aspiration	: null	JUXSTAPOSE
+31032205	Herbs	glucose	ANAT	emission	: null	JUXSTAPOSE
+31032205	Herbs	glucose	CHED	positron	: null	JUXSTAPOSE
+31032205	Herbs	glucose	CHED	deoxyglucose	: null	JUXSTAPOSE
+31032205	Herbs	glucose	DISO	fluor	: null	JUXSTAPOSE
+31032205	Herbs	glucose	CHED	fluor	: null	JUXSTAPOSE
+31032205	Herbs	glucose	ANAT	nodes	: null	JUXSTAPOSE
+31141512	Herbs	glucose	ANAT	colostrum	: null	JUXSTAPOSE
+31782110	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+31782110	Herbs	glucose	DISO	hypoglycemia	: null	JUXSTAPOSE
+32186172	Herbs	glucose	CHED	glucose	: null	JUXSTAPOSE
+32186172	Herbs	glucose	ANAT	blood	: null	JUXSTAPOSE
+32186172	Herbs	glucose	PROC	coagulation	: null	JUXSTAPOSE
+32186172	Herbs	glucose	CHED	adjuvant	: important	important
+29330815	Herbs	rosemary	ANAT	blood	: officinalis	officinali
+29330815	Herbs	rosemary	ANAT	lymphoid organs	: officinalis	officinali
+29330815	Herbs	rosemary	PROC	humoral immune response	: officinalis	officinali
+29330815	Herbs	rosemary	SPEC	chickens	: officinalis	officinali
+29330815	Herbs	rosemary	CHED	vitamin E	: officinalis	officinali
+29330815	Herbs	rosemary	SPEC	Rosmarinus officinalis	: null	JUXSTAPOSE
+29330815	Herbs	rosemary	SPEC	rosemary	: null	JUXSTAPOSE
+29330815	Herbs	rosemary	PROC	humoral immunity	: null	JUXSTAPOSE
+29330815	Herbs	rosemary	CHED	vitamin E	: officinalis	officinali
+29330815	Herbs	rosemary	SPEC	Rosmarinus officinalis	: null	JUXSTAPOSE
+29330815	Herbs	rosemary	SPEC	rosemary	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	SPEC	dog	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	SPEC	cat	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	SPEC	cockroach	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	DISO	IgE	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	PRGE	IgE	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	DISO	IgE	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	PRGE	IgE	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	ANAT	nasal	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	SPEC	dog	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	SPEC	cat	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	SPEC	cockroach	: null	JUXSTAPOSE
+15007360	Herbs	cockroach	DISO	CAP	: null	JUXSTAPOSE
+15288617	Herbs	baicalin	CHED	glycyrrhizin	: null	JUXSTAPOSE
+15288617	Herbs	baicalin	CHED	baicalin	: null	JUXSTAPOSE
+15288617	Herbs	baicalin	CHED	ribavirin	: null	JUXSTAPOSE
+15288617	Herbs	baicalin	PRGE	interferon-alpha	: null	JUXSTAPOSE
+15288617	Herbs	baicalin	ANAT	leukocytic	: null	JUXSTAPOSE
+15288617	Herbs	baicalin	PRGE	Interferon-beta-1a	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	SPEC	virus	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	DISO	bronchitis	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	DISO	infectious	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	SPEC	Newcastle disease virus	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	DISO	Newcastle disease	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	PROC	immune responses	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	CHED	selenium	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	ANAT	stem	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	SPEC	ginseng	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	CHED	adjuvant	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	SPEC	NDV	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	PROC	immune response	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	CHED	adjuvant	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	CHED	selenium	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	ANAT	stem	: null	JUXSTAPOSE
+31220864	Herbs	ginseng	SPEC	ginseng	: null	JUXSTAPOSE
+15763380	Herbs	matrine	CHED	protein	: associated	associate with
+15763380	Herbs	matrine	CHED	mitogen	: associated	associate with
+15763380	Herbs	matrine	FUNC	p38	: associated	associate with
+15763380	Herbs	matrine	PRGE	p38	: associated	associate with
+15763380	Herbs	matrine	PROC	inhibition	: associated	associate with
+15763380	Herbs	matrine	SPEC	mice	: null	JUXSTAPOSE
+15763380	Herbs	matrine	ANAT	lung	: null	JUXSTAPOSE
+15763380	Herbs	matrine	SPEC	Sophora japonica	: extracted	extract from
+15763380	Herbs	matrine	CHED	alkaloids	: null	JUXSTAPOSE
+15763380	Herbs	matrine	ANAT	lung	: known	know however
+15763380	Herbs	matrine	DISO	fibrosis	: null	JUXSTAPOSE
+15763380	Herbs	matrine	CHED	oleic acid	: investigated	METHOD_OF_WEAK
+15763380	Herbs	matrine	CHED	dexamethasone	: null	JUXSTAPOSE
+15763380	Herbs	matrine	ANAT	alveolar	: severe	severe
+15763380	Herbs	matrine	PROC	inhibition	: alleviated	NONE
+15763380	Herbs	matrine	PRGE	serum TNF-alpha	: alleviated	NONE
+15763380	Herbs	matrine	COMP	serum	: alleviated	NONE
+15763380	Herbs	matrine	ANAT	serum	: alleviated	NONE
+15763380	Herbs	matrine	ANAT	lung	: alleviated	alleviate
+15763380	Herbs	matrine	ANAT	lung	: alleviated	alleviate
+15763380	Herbs	matrine	CHED	oleic acid	: alleviated	alleviate
+15763380	Herbs	matrine	SPEC	mice	: null	JUXSTAPOSE
+15763380	Herbs	matrine	CHED	oleic acid	: null	JUXSTAPOSE
+15763380	Herbs	matrine	ANAT	lung	: has	have
+15763380	Herbs	matrine	FUNC	MAPK	: inhibit	inhibit by_means_of
+15763380	Herbs	matrine	ENZY	MAPK	: inhibit	inhibit by_means_of
+15763380	Herbs	matrine	FUNC	p38	: inhibit	inhibit by_means_of
+15763380	Herbs	matrine	PRGE	p38	: inhibit	inhibit by_means_of
+25737008	Herbs	capillaris	CHED	p-hydroxyacetophenone	: null	JUXSTAPOSE
+25737008	Herbs	capillaris	SPEC	hepatitis B virus	: null	JUXSTAPOSE
+25737008	Herbs	capillaris	DISO	hepatitis B	: null	JUXSTAPOSE
+25737008	Herbs	capillaris	PROC	synthesis	: null	JUXSTAPOSE
+25737008	Herbs	capillaris	DISO	HBV	: revealed	reveal with
+25737008	Herbs	capillaris	SPEC	HBV	: revealed	reveal with
+25737008	Herbs	capillaris	SPEC	hepatitis B virus	: revealed	reveal with
+25737008	Herbs	capillaris	DISO	hepatitis B	: revealed	reveal with
+25737008	Herbs	capillaris	SPEC	Artemisia capillaris	: null	JUXSTAPOSE
+25737008	Herbs	capillaris	CHED	p-Hydroxyacetophenone	: null	JUXSTAPOSE
+25737008	Herbs	capillaris	ANAT	capillaris	: null	JUXSTAPOSE
+25737008	Herbs	capillaris	SPEC	A. capillaris	: null	JUXSTAPOSE
+15807759	Herbs	essence	DISO	SARS	: null	JUXSTAPOSE
+15807759	Herbs	essence	CHED	essence	: null	JUXSTAPOSE
+15807759	Herbs	essence	PROC	nursing	: null	JUXSTAPOSE
+15807759	Herbs	essence	DISO	SARS	: null	JUXSTAPOSE
+15807759	Herbs	essence	CHED	essence	: null	JUXSTAPOSE
+19747256	Herbs	essence	PROC	growth	: experienced	experience while
+19747256	Herbs	essence	CHED	essence	: null	JUXSTAPOSE
+20734842	Herbs	essence	CHED	essence	: null	JUXSTAPOSE
+20734842	Herbs	essence	ANAT	organ	: null	JUXSTAPOSE
+20734842	Herbs	essence	DISO	hypercapnia	: null	JUXSTAPOSE
+20734842	Herbs	essence	DISO	acute respiratory distress syndrome	: null	JUXSTAPOSE
+20734842	Herbs	essence	PROC	development	: null	JUXSTAPOSE
+24604562	Herbs	essence	CHED	essence	: hindered	hinder in
+24604562	Herbs	essence	DISO	pathogenesis	: null	JUXSTAPOSE
+24604562	Herbs	essence	PROC	pathogenesis	: null	JUXSTAPOSE
+26709006	Herbs	essence	PROC	IL-17	: suggesting	suggest for
+26709006	Herbs	essence	FUNC	IL-17	: suggesting	suggest for
+26709006	Herbs	essence	PROC	development	: suggesting	suggest for
+26709006	Herbs	essence	PROC	IL-17	: null	JUXSTAPOSE
+26709006	Herbs	essence	FUNC	IL-17	: null	JUXSTAPOSE
+26709006	Herbs	essence	PRGE	IL-17	: null	JUXSTAPOSE
+26709006	Herbs	essence	CHED	essence	: crucial	crucial
+26709006	Herbs	essence	DISO	ARDS	: crucial	crucial
+26905827	Herbs	essence	ANAT	endothelium	: null	JUXSTAPOSE
+26905827	Herbs	essence	DISO	syndromes	: null	JUXSTAPOSE
+26905827	Herbs	essence	CHED	essence	: null	JUXSTAPOSE
+31633330	Herbs	citric acid	CHED	carbon	: null	JUXSTAPOSE
+31633330	Herbs	citric acid	CHED	citric acid	: null	JUXSTAPOSE
+31633330	Herbs	citric acid	CHED	ethylenediamine	: null	JUXSTAPOSE
+31633330	Herbs	citric acid	CHED	antiviral	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	PROC	development	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	COMP	cells	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	ANAT	cells	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	SPEC	silkworm	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	PROC	expressed	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	CHED	proteins	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	CHED	peptide	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	SPEC	silkworm	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	ANAT	hemolymph	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	PROC	secreted	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	COMP	cytoplasmic	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	ANAT	cytoplasmic	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	COMP	transmembrane	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	ANAT	transmembrane	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	CHED	protein	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	PROC	expressed	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	CHED	nanoparticle	: lead	lead to
+31614169	Herbs	silkworm larva	PROC	development	: lead	lead to
+31614169	Herbs	silkworm larva	COMP	cells	: lead	lead to
+31614169	Herbs	silkworm larva	ANAT	cells	: lead	lead to
+31614169	Herbs	silkworm larva	CHED	protein	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	PRGE	S protein	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	SPEC	silkworm	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	COMP	cells	: null	JUXSTAPOSE
+31614169	Herbs	silkworm larva	ANAT	cultured cells	: null	JUXSTAPOSE
+11208632	Herbs	ethanol	CHED	phosphatidylethanolamine	: null	JUXSTAPOSE
+11208632	Herbs	ethanol	DISO	SPH	: null	JUXSTAPOSE
+11208632	Herbs	ethanol	CHED	SPH	: null	JUXSTAPOSE
+11208632	Herbs	ethanol	CHED	sphingomyelin	: null	JUXSTAPOSE
+11719746	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	CHED	inhibitor	: linked	link to
+11934806	Herbs	ethanol	CHED	ethanolamine	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	CHED	phosphatidyl	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	CHED	inhibitors	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	CHED	PLA	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	COMP	extracellular	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	ANAT	extracellular	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	CHED	inhibitors	: null	JUXSTAPOSE
+11934806	Herbs	ethanol	PRGE	sPLA(2)	: null	JUXSTAPOSE
+12093716	Herbs	ethanol	CHED	sedative	: null	JUXSTAPOSE
+12093716	Herbs	ethanol	DISO	withdrawal syndrome	: similar	similar
+12093716	Herbs	ethanol	CHED	GHB	: similar	similar
+12093716	Herbs	ethanol	CHED	GHB	: null	JUXSTAPOSE
+12682442	Herbs	ethanol	ANAT	lung	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	ANAT	capillary	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	ANAT	alveolar	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	PROC	secretion	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	ANAT	secretion	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	PROC	synthesis	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	CHED	surfactant	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	PROC	cell function	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	COMP	cell	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	ANAT	endothelial cell	: identified	PLAIN_IDENTIFY_WEAK
+12682442	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+12682442	Herbs	ethanol	SPEC	animal	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	CHED	counter	: using	METHOD_OF_WEAK
+15072305	Herbs	ethanol	CHED	water	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	CHED	glycyrrhizin	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	DISO	separation	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	SPEC	virus	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	CHED	ethyl acetate	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	CHED	solvent	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	DISO	separation	: null	JUXSTAPOSE
+15072305	Herbs	ethanol	DISO	separation	: null	JUXSTAPOSE
+15131160	Herbs	ethanol	PRGE	pig beta-actin gene	: used	use as
+15131160	Herbs	ethanol	SPEC	pig	: used	use as
+15131160	Herbs	ethanol	PROC	precipitation	: used	use as
+15131160	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15131160	Herbs	ethanol	CHED	inhibitors	: null	JUXSTAPOSE
+15461435	Herbs	ethanol	SPEC	MHV	: infected	infect with
+15461435	Herbs	ethanol	SPEC	virus	: infected	infect with
+15461435	Herbs	ethanol	DISO	mouse hepatitis	: infected	infect with
+15461435	Herbs	ethanol	SPEC	mouse	: infected	infect with
+15461435	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15461435	Herbs	ethanol	DISO	hypoactivity	: null	JUXSTAPOSE
+15461435	Herbs	ethanol	SPEC	mice	: infected	infect with
+15534914	Herbs	ethanol	CHED	methanol	: was	be
+15534914	Herbs	ethanol	CHED	oxygen	: null	JUXSTAPOSE
+15534914	Herbs	ethanol	ANAT	media	: null	JUXSTAPOSE
+15534914	Herbs	ethanol	CHED	protein	: null	JUXSTAPOSE
+15534914	Herbs	ethanol	PROC	growth	: had	NONE
+15534914	Herbs	ethanol	PROC	expression	: had	NONE
+15534914	Herbs	ethanol	PROC	protein expression	: null	NONE
+15534914	Herbs	ethanol	CHED	protein	: null	NONE
+15534914	Herbs	ethanol	PRGE	rSCoVN protein	: had	NONE
+15534914	Herbs	ethanol	CHED	methanol	: null	NONE
+15631008	Herbs	ethanol	CHED	ethanol	: equivalent	equivalent
+15631008	Herbs	ethanol	CHED	acetone	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	CHED	glutaraldehyde	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	CHED	formalin	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	CHED	fixative	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	COMP	cells	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	ANAT	cells	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	DISO	SARS	: null	JUXSTAPOSE
+15631008	Herbs	ethanol	CHED	PVP	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	ethanol	: based	base on
+15923059	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	n-propanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	propanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	SPEC	iso	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	n-propanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	propanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	SPEC	iso	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	n-propanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	propanol	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	SPEC	iso	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	glutaraldehyde	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	disinfectant	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	magnesium	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	chloride	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	glutaraldehyde	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	benzalkonium chloride	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	benzalkonium chloride	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	disinfectants	: null	JUXSTAPOSE
+15923059	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15987362	Herbs	ethanol	DISO	SARS	: used	METHOD_OF_WEAK
+15987362	Herbs	ethanol	PROC	precipitation	: null	JUXSTAPOSE
+15987362	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+15987362	Herbs	ethanol	DISO	cold	: null	JUXSTAPOSE
+15987362	Herbs	ethanol	PROC	cold	: null	JUXSTAPOSE
+16026862	Herbs	ethanol	SPEC	Pichia pastoris	: null	JUXSTAPOSE
+16026862	Herbs	ethanol	PROC	expression	: null	JUXSTAPOSE
+16026862	Herbs	ethanol	SPEC	yeast	: null	JUXSTAPOSE
+16026862	Herbs	ethanol	CHED	protein	: null	JUXSTAPOSE
+16026862	Herbs	ethanol	PRGE	N protein gene	: null	JUXSTAPOSE
+16026862	Herbs	ethanol	CHED	protein	: null	JUXSTAPOSE
+16176089	Herbs	ethanol	CHED	methanol	: investigated;	investigated;
+16176089	Herbs	ethanol	CHED	oxygen	: null	JUXSTAPOSE
+16176089	Herbs	ethanol	ANAT	media	: null	JUXSTAPOSE
+16176089	Herbs	ethanol	PROC	growth	: has	NONE
+16176089	Herbs	ethanol	PROC	expression	: has	NONE
+16176089	Herbs	ethanol	PROC	protein expression	: null	NONE
+16176089	Herbs	ethanol	CHED	protein	: null	NONE
+16176089	Herbs	ethanol	PRGE	recombinant N protein	: has	NONE
+16176089	Herbs	ethanol	CHED	methanol	: has	NONE
+16195659	Herbs	ethanol	SPEC	Rats	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	ANAT	lung	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	CHED	ethanol	: received	receive
+16195659	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	DISO	GSH	: increased	NONE
+16195659	Herbs	ethanol	CHED	GSH	: increased	NONE
+16195659	Herbs	ethanol	ANAT	erythrocyte	: increased	NONE
+16195659	Herbs	ethanol	PRGE	ATPase	: null	NONE
+16195659	Herbs	ethanol	ENZY	ATPase	: null	NONE
+16195659	Herbs	ethanol	ANAT	lung tissue	: increased	NONE
+16195659	Herbs	ethanol	FUNC	MPO	: increased	increase in
+16195659	Herbs	ethanol	PRGE	MPO	: increased	increase in
+16195659	Herbs	ethanol	CHED	MDA	: increased	NONE
+16195659	Herbs	ethanol	ANAT	tissue	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	COMP	serum	: increased	increase in
+16195659	Herbs	ethanol	ANAT	serum	: increased	increase in
+16195659	Herbs	ethanol	CHED	ethanol	: increased	NONE
+16195659	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	ANAT	lungs	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	DISO	extravasation	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	ANAT	erythrocyte	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	DISO	infiltration	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	ANAT	leukocyte	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	DISO	degeneration	: null	JUXSTAPOSE
+16195659	Herbs	ethanol	ANAT	alveolar	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	disinfectant	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	phosphoric acid	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	diol	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	diol	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	propan	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	propan-1-ol	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	ethanol	: showed	show in
+16307826	Herbs	ethanol	CHED	propan-1-ol	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	SPEC	feline calicivirus	: null	JUXSTAPOSE
+16307826	Herbs	ethanol	CHED	propan-2-ol	: null	JUXSTAPOSE
+16340449	Herbs	ethanol	PRGE	hsp90	: stimulates	UP-REGULATE_WEAK
+16340449	Herbs	ethanol	PRGE	PI-3 kinase	: stimulates	UP-REGULATE_WEAK
+16340449	Herbs	ethanol	CHED	nitric oxide	: stimulates	UP-REGULATE_WEAK
+16340449	Herbs	ethanol	COMP	cell	: stimulates	UP-REGULATE
+16340449	Herbs	ethanol	ANAT	endothelial cell	: stimulates	UP-REGULATE
+16340449	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16340449	Herbs	ethanol	ANAT	endothelial	: increases	UP-REGULATE_WEAK
+16340449	Herbs	ethanol	ANAT	lung	: increases	UP-REGULATE_WEAK
+16340449	Herbs	ethanol	DISO	ARDS	: increases	UP-REGULATE_WEAK
+16340449	Herbs	ethanol	DISO	Acute Respiratory Distress Syndrome	: increases	UP-REGULATE_WEAK
+16340449	Herbs	ethanol	CHED	EtOH	: null	JUXSTAPOSE
+16340449	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	ANAT	embryo	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	ANAT	embryo	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: bred	NONE
+16422144	Herbs	ethanol	SPEC	mouse	: bred	NONE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	PROC	response to ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	DISO	depression	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	SPEC	mouse	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	PROC	response to ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	DISO	depression	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16422144	Herbs	ethanol	PROC	response to ethanol	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	CHED	ethanol	: equivalent	equivalent
+16490989	Herbs	ethanol	CHED	acetone	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	CHED	glutaraldehyde	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	CHED	formalin	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	CHED	fixative	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	COMP	cells	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	ANAT	cells	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	DISO	SARS	: null	JUXSTAPOSE
+16490989	Herbs	ethanol	CHED	PVP	: null	JUXSTAPOSE
+16507566	Herbs	ethanol	CHED	solvent	: null	JUXSTAPOSE
+16507566	Herbs	ethanol	PRGE	SARS-CoV	: null	JUXSTAPOSE
+16507566	Herbs	ethanol	DISO	SARS	: null	JUXSTAPOSE
+16563102	Herbs	ethanol	DISO	ethanol abuse	: null	JUXSTAPOSE
+16563102	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16563102	Herbs	ethanol	DISO	cholelithiasis	: null	JUXSTAPOSE
+16843832	Herbs	ethanol	PROC	REM	: null	JUXSTAPOSE
+16843832	Herbs	ethanol	ANAT	tissue	: null	JUXSTAPOSE
+16843832	Herbs	ethanol	DISO	infiltrated	: null	JUXSTAPOSE
+16843832	Herbs	ethanol	DISO	dehydrated	: null	JUXSTAPOSE
+16843832	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+16991004	Herbs	ethanol	SPEC	Pichia pastoris	: null	JUXSTAPOSE
+16991004	Herbs	ethanol	PROC	protein expression	: null	JUXSTAPOSE
+16991004	Herbs	ethanol	CHED	protein	: null	JUXSTAPOSE
+16991004	Herbs	ethanol	PROC	expression	: null	JUXSTAPOSE
+19429341	Herbs	ethanol	CHED	ethyl acetate	: null	JUXSTAPOSE
+19429341	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+19429341	Herbs	ethanol	ANAT	root	: null	JUXSTAPOSE
+19429341	Herbs	ethanol	SPEC	Isatis indigotica	: null	JUXSTAPOSE
+19692148	Herbs	ethanol	SPEC	virus	: demonstrated	demonstrate without
+19692148	Herbs	ethanol	SPEC	MHV	: demonstrated	demonstrate without
+19692148	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+19692148	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+19692148	Herbs	ethanol	CHED	triclosan	: null	JUXSTAPOSE
+19692148	Herbs	ethanol	CHED	disinfectants	: demonstrated	demonstrate without
+20934345	Herbs	ethanol	CHED	pro	: exhibited	NONE
+20934345	Herbs	ethanol	PRGE	SARS-CoV 3CL(pro)	: exhibited	NONE
+20934345	Herbs	ethanol	DISO	SARS	: exhibited	NONE
+20934345	Herbs	ethanol	SPEC	T. nucifera	: null	NONE
+20934345	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+20934345	Herbs	ethanol	SPEC	plant	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	phthalaldehyde	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	o-phenylphenol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	phthalaldehyde	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	o-phenylphenol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	phthalaldehyde	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	o-phenylphenol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	SPEC	TGEV	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	SPEC	TGEV	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	SPEC	TGEV	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	SPEC	MHV	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	SPEC	MHV	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	hypochlorite	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	OPA	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	SPEC	MHV	: null	JUXSTAPOSE
+21256627	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+21922588	Herbs	ethanol	SPEC	ray	: determined	determine by
+21922588	Herbs	ethanol	PRGE	HR2	: null	JUXSTAPOSE
+21922588	Herbs	ethanol	SPEC	helices	: null	JUXSTAPOSE
+21922588	Herbs	ethanol	CHED	TFE	: null	JUXSTAPOSE
+21922588	Herbs	ethanol	CHED	trifluoroethanol	: null	JUXSTAPOSE
+21922588	Herbs	ethanol	CHED	solvent	: null	JUXSTAPOSE
+21922588	Herbs	ethanol	PRGE	HR2	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	DISO	GSH	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	PRGE	GSH	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	CHED	GSH	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	CHED	TCEP	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	CHED	tris(2-carboxyethyl)phosphine	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	CHED	mercaptoethanol	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	CHED	dithiothreitol	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	CHED	reducing agents	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	DISO	GSH	: null	JUXSTAPOSE
+22310499	Herbs	ethanol	CHED	GSH	: null	JUXSTAPOSE
+23285797	Herbs	ethanol	CHED	triterpenoids	: isolated	isolated
+23285797	Herbs	ethanol	SPEC	E. neriifolia	: null	JUXSTAPOSE
+23323951	Herbs	ethanol	PRGE	SARS-CoV PLpro	: null	JUXSTAPOSE
+23323951	Herbs	ethanol	DISO	SARS	: null	JUXSTAPOSE
+23323951	Herbs	ethanol	SPEC	Psoralea corylifolia	: null	JUXSTAPOSE
+23323951	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+23323951	Herbs	ethanol	CHED	isobavachalcone	: led	NONE
+23323951	Herbs	ethanol	CHED	neobavaisoflavone	: led	NONE
+23323951	Herbs	ethanol	CHED	aromatic compounds	: led	NONE
+23323951	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+23821410	Herbs	ethanol	PRGE	RNase H	: null	JUXSTAPOSE
+23821410	Herbs	ethanol	ENZY	RNase H	: null	JUXSTAPOSE
+23821410	Herbs	ethanol	SPEC	HIV-1	: growing	grow in
+23821410	Herbs	ethanol	DISO	HIV	: growing	grow in
+23821410	Herbs	ethanol	SPEC	Hypericaceae	: null	JUXSTAPOSE
+23821410	Herbs	ethanol	SPEC	Hypericum hircinum	: null	JUXSTAPOSE
+23821410	Herbs	ethanol	PRGE	RNase H	: null	JUXSTAPOSE
+23821410	Herbs	ethanol	ENZY	RNase H	: null	JUXSTAPOSE
+24028651	Herbs	ethanol	CHED	mercaptoethanol	: abrogated	NONE
+24028651	Herbs	ethanol	CHED	mercury	: null	JUXSTAPOSE
+24028651	Herbs	ethanol	PRGE	aquaporin-1	: null	JUXSTAPOSE
+24028651	Herbs	ethanol	PROC	aquaporin	: null	JUXSTAPOSE
+24028651	Herbs	ethanol	FUNC	aquaporin	: null	JUXSTAPOSE
+24028651	Herbs	ethanol	DISO	blocking	: null	JUXSTAPOSE
+24028651	Herbs	ethanol	COMP	cell	: null	JUXSTAPOSE
+24028651	Herbs	ethanol	ANAT	cell	: null	JUXSTAPOSE
+24433341	Herbs	ethanol	CHED	polyphenol	: tested	NONE
+24433341	Herbs	ethanol	ANAT	tissues	: tested	NONE
+24433341	Herbs	ethanol	SPEC	plant	: tested	NONE
+24433341	Herbs	ethanol	SPEC	IBV	: tested	NONE
+24433341	Herbs	ethanol	SPEC	Sambucus nigra	: null	JUXSTAPOSE
+24433341	Herbs	ethanol	SPEC	Nigella sativa	: null	JUXSTAPOSE
+24433341	Herbs	ethanol	SPEC	Rhodiola rosea	: null	JUXSTAPOSE
+24433341	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+24882413	Herbs	ethanol	PRGE	papain-like protease	: showed	show to
+24882413	Herbs	ethanol	ENZY	papain	: showed	show to
+24882413	Herbs	ethanol	PROC	inhibition	: showed	show to
+24882413	Herbs	ethanol	SPEC	T. terrestris	: null	JUXSTAPOSE
+24882413	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+26190637	Herbs	ethanol	CHED	acetone	: required	require in
+26190637	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+26190637	Herbs	ethanol	CHED	mixture	: null	JUXSTAPOSE
+26190637	Herbs	ethanol	COMP	cell	: required	require in
+26190637	Herbs	ethanol	ANAT	cell	: required	require in
+26190637	Herbs	ethanol	CHED	formaldehyde	: required	require in
+26190637	Herbs	ethanol	CHED	buffer	: required	require in
+26295655	Herbs	ethanol	CHED	polidocanol	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	DISO	occluded	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	DISO	gastric varices	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	ANAT	gastric	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	polidocanol	: enrolled	enrol in
+26295655	Herbs	ethanol	CHED	oleate	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	ethanolamine	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	oleate	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	DISO	acute respiratory distress syndrome	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	PROC	died	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	polidocanol	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	oleate	: <	<
+26295655	Herbs	ethanol	CHED	ethanolamine	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	polidocanol	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	oleate	: <	<
+26295655	Herbs	ethanol	DISO	hemolysis	: greater	greater
+26295655	Herbs	ethanol	PROC	hemolysis	: greater	greater
+26295655	Herbs	ethanol	CHED	polidocanol	: greater	greater
+26295655	Herbs	ethanol	CHED	oleate	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	ethanolamine	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	DISO	gastric varices	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	ANAT	gastric	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	oleate	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	DISO	hemolysis	: reduced	DOWN-REGULATE_WEAK
+26295655	Herbs	ethanol	PROC	hemolysis	: reduced	DOWN-REGULATE_WEAK
+26295655	Herbs	ethanol	CHED	oleate	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	ethanolamine	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	DISO	gastric varices	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	ANAT	gastric	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	Polidocanol	: null	JUXSTAPOSE
+26295655	Herbs	ethanol	CHED	polidocanol	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	CHED	MIC	: exhibited	NONE
+27314007	Herbs	ethanol	SPEC	Staphylococcus aureus	: cereus	NONE
+27314007	Herbs	ethanol	SPEC	Listeria monocytogenes	: cereus	NONE
+27314007	Herbs	ethanol	CHED	MIC	: cereus	NONE
+27314007	Herbs	ethanol	SPEC	Bacillus cereus	: null	NONE
+27314007	Herbs	ethanol	PRGE	Ribonuclease H	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	ENZY	Ribonuclease H	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	PRGE	HIV-1 RT DNA polymerase	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	SPEC	HIV-1	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	DISO	HIV	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	CHED	inhibitor	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	DISO	HIV	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	SPEC	HIV	: null	JUXSTAPOSE
+27314007	Herbs	ethanol	PROC	metabolic	: null	JUXSTAPOSE
+27892522	Herbs	ethanol	CHED	peptides	: null	JUXSTAPOSE
+27892522	Herbs	ethanol	COMP	vesicles	: null	JUXSTAPOSE
+27892522	Herbs	ethanol	DISO	vesicles	: null	JUXSTAPOSE
+27892522	Herbs	ethanol	ANAT	vesicles	: null	JUXSTAPOSE
+27892522	Herbs	ethanol	CHED	peptides	: null	JUXSTAPOSE
+27892522	Herbs	ethanol	FUNC	FPs	: null	JUXSTAPOSE
+27892522	Herbs	ethanol	DISO	SARS	: null	JUXSTAPOSE
+28091625	Herbs	ethanol	CHED	lipids	: enabling	enable
+28091625	Herbs	ethanol	CHED	metabolites	: enabling	enable
+28091625	Herbs	ethanol	CHED	proteins	: enabling	enable
+28091625	Herbs	ethanol	DISO	inactivation	: enabling	enable
+28091625	Herbs	ethanol	DISO	infectious	: null	JUXSTAPOSE
+28091625	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+28091625	Herbs	ethanol	CHED	chloroform	: null	JUXSTAPOSE
+28091625	Herbs	ethanol	DISO	inactivation	: null	JUXSTAPOSE
+28540745	Herbs	ethanol	PRGE	RNase H	: null	JUXSTAPOSE
+28540745	Herbs	ethanol	ENZY	RNase H	: null	JUXSTAPOSE
+28540745	Herbs	ethanol	SPEC	HIV-1	: inhibit	DOWN-REGULATE_WEAK
+28540745	Herbs	ethanol	DISO	HIV	: inhibit	DOWN-REGULATE_WEAK
+28540745	Herbs	ethanol	CHED	methanol	: null	JUXSTAPOSE
+28540745	Herbs	ethanol	ANAT	stem	: null	JUXSTAPOSE
+28540745	Herbs	ethanol	SPEC	U. angolensis	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	CHED	inhibitors	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	PRGE	integrase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	PROC	transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	FUNC	transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	PRGE	reverse transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	ENZY	reverse transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	SPEC	HIV-1	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	DISO	HIV	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	CHED	inhibitors	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	PROC	integrase inhibitors	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	PRGE	integrase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	PROC	transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	FUNC	transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	PRGE	reverse transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	ENZY	reverse transcriptase	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	SPEC	HIV-1	: null	JUXSTAPOSE
+29397771	Herbs	ethanol	DISO	HIV	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	CHED	choline	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	CHED	CDP	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	CHED	cytidine	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	PROC	pathways	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	ANAT	liver	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	CHED	lipoproteins	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	CHED	phospholipid	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	CHED	phosphatidylcholine	: null	JUXSTAPOSE
+29716960	Herbs	ethanol	ANAT	Plasma	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	DISO	lung diseases	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	lung	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	lung	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	PROC	drinking	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	DISO	Binge	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	airway	: reduces	DOWN-REGULATE_WEAK
+29941207	Herbs	ethanol	CHED	ethanol	: different	different
+29941207	Herbs	ethanol	PROC	desensitization	: different	different
+29941207	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	COMP	cells	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	cells	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	epithelium	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	COMP	cilia	: different	different
+29941207	Herbs	ethanol	ANAT	cilia	: different	different
+29941207	Herbs	ethanol	ANAT	airway	: reduces	DOWN-REGULATE
+29941207	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	PROC	desensitization	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	COMP	cells	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	cells	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	epithelium	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	COMP	cilia	: null	JUXSTAPOSE
+29941207	Herbs	ethanol	ANAT	cilia	: null	JUXSTAPOSE
+31560964	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+31560964	Herbs	ethanol	SPEC	Sambucus	: null	JUXSTAPOSE
+31560964	Herbs	ethanol	CHED	Antiviral	: null	JUXSTAPOSE
+31560964	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+31560964	Herbs	ethanol	ANAT	stem	: null	JUXSTAPOSE
+31560964	Herbs	ethanol	SPEC	Sambucus	: null	JUXSTAPOSE
+31560964	Herbs	ethanol	CHED	antiviral	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	CHED	hydrogen peroxide	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	CHED	metal	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	SPEC	human	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	SPEC	coronavirus	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	DISO	Syndrome	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	SPEC	coronavirus	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	DISO	SARS	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	DISO	Severe Acute Respiratory Syndrome	: null	JUXSTAPOSE
+32035997	Herbs	ethanol	SPEC	human	: null	JUXSTAPOSE
+32116147	Herbs	ethanol	CHED	hypochlorite	: inactivate	DOWN-REGULATE
+32116147	Herbs	ethanol	CHED	ethanol	: null	JUXSTAPOSE
+32116147	Herbs	ethanol	DISO	syndrome	: confident	DOWN-REGULATE
+32116147	Herbs	ethanol	DISO	SARS	: confident	DOWN-REGULATE_WEAK
+32116147	Herbs	ethanol	DISO	severe acute respiratory syndrome	: confident	DOWN-REGULATE_WEAK
+25332402	Herbs	cauliflower	DISO	SARS	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	SPEC	virus	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	DISO	severe acute respiratory syndrome	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	SPEC	CaMV	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	SPEC	cauliflower mosaic virus	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	DISO	HAV	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	SPEC	hepatitis A virus	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	DISO	hepatitis A	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	SPEC	viruses	: null	JUXSTAPOSE
+25332402	Herbs	cauliflower	CHED	inhibitors	: null	JUXSTAPOSE
+18241960	Herbs	pomegranate	SPEC	virus	: described	describe as
+18241960	Herbs	pomegranate	COMP	envelope	: described	describe as
+18241960	Herbs	pomegranate	ANAT	envelope	: described	describe as
+18241960	Herbs	pomegranate	CHED	ellagic acid	: null	JUXSTAPOSE
+18241960	Herbs	pomegranate	CHED	beta-sitosterol	: null	JUXSTAPOSE
+18241960	Herbs	pomegranate	CHED	polyphenols	: null	JUXSTAPOSE
+18241960	Herbs	pomegranate	COMP	host	: null	JUXSTAPOSE
+18241960	Herbs	pomegranate	DISO	H5N1	: shown	INDICATE_WEAK
+18241960	Herbs	pomegranate	DISO	influenza	: null	JUXSTAPOSE
+18241960	Herbs	pomegranate	DISO	infectious	: null	JUXSTAPOSE
+20637243	Herbs	pomegranate	COMP	envelope	: null	DOWN-REGULATE
+20637243	Herbs	pomegranate	ANAT	envelope	: null	DOWN-REGULATE
+20637243	Herbs	pomegranate	CHED	polyphenols	: null	DOWN-REGULATE
+20637243	Herbs	pomegranate	DISO	inactivation	: null	DOWN-REGULATE
+20637243	Herbs	pomegranate	SPEC	Influenza virus	: null	DOWN-REGULATE
+20637243	Herbs	pomegranate	DISO	Influenza	: null	DOWN-REGULATE
+20637243	Herbs	pomegranate	DISO	influenza	: null	JUXSTAPOSE
+20637243	Herbs	pomegranate	DISO	influenza	: null	JUXSTAPOSE
+20637243	Herbs	pomegranate	DISO	PPs	: null	JUXSTAPOSE
+20637243	Herbs	pomegranate	PRGE	pomegranate PPs	: null	JUXSTAPOSE
+20637243	Herbs	pomegranate	DISO	influenza	: null	JUXSTAPOSE
+10706964	Herbs	alfalfa	SPEC	alfalfa	: null	JUXSTAPOSE
+10706964	Herbs	alfalfa	CHED	nucleotide	: null	JUXSTAPOSE
+10706964	Herbs	alfalfa	PRGE	S gene	: null	JUXSTAPOSE
+10706964	Herbs	alfalfa	CHED	epitope	: null	JUXSTAPOSE
+17629993	Herbs	wild pea	SPEC	peafowls	: null	JUXSTAPOSE
+17629993	Herbs	wild pea	SPEC	coronavirus	: null	JUXSTAPOSE
+17629993	Herbs	wild pea	DISO	SARS	: null	NONE
+17629993	Herbs	wild pea	DISO	severe acute respiratory syndrome	: broke	NONE
+17629993	Herbs	wild pea	SPEC	peafowls	: null	JUXSTAPOSE
+17629993	Herbs	wild pea	DISO	Coronavirus infection	: null	JUXSTAPOSE
+17629993	Herbs	wild pea	SPEC	Coronavirus	: null	JUXSTAPOSE
+11006996	Herbs	horseradish	ENZY	peroxidase	: null	JUXSTAPOSE
+11006996	Herbs	horseradish	PRGE	horseradish peroxidase	: null	JUXSTAPOSE
+11006996	Herbs	horseradish	SPEC	horseradish	: null	JUXSTAPOSE
+11006996	Herbs	horseradish	PROC	immunoglobulin	: null	JUXSTAPOSE
+11006996	Herbs	horseradish	FUNC	immunoglobulin	: null	JUXSTAPOSE
+11006996	Herbs	horseradish	SPEC	turkey	: null	JUXSTAPOSE
+11006996	Herbs	horseradish	SPEC	Goat	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	CHED	protein	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	PRGE	recombinant N protein	: used	use as
+15941537	Herbs	horseradish	PROC	immunoglobulin	: used	use as
+15941537	Herbs	horseradish	FUNC	immunoglobulin	: used	use as
+15941537	Herbs	horseradish	SPEC	rabbit	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	PRGE	anti-rabbit immunoglobulin	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	SPEC	goat	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	PRGE	HRP	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	ENZY	peroxidase	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	PRGE	horseradish peroxidase	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	SPEC	horseradish	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	COMP	antibodies	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	COMP	antibody	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	PROC	antibody	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	FUNC	antibody	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	COMP	antibodies	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	SPEC	rabbit	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	COMP	antibody	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	PROC	antibody	: null	JUXSTAPOSE
+15941537	Herbs	horseradish	FUNC	antibody	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	PRGE	SPA	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	CHED	protein	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	PRGE	Staphylococcus aureus protein A	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	SPEC	Staphylococcus aureus	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	FUNC	binding	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	PRGE	HRP-SPA	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	CHED	conjugated protein	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	ENZY	peroxidase	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	PRGE	horseradish peroxidase-conjugated protein-A	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	SPEC	horseradish	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	FUNC	kit	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	COMP	antibody	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	PROC	antibody	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	FUNC	antibody	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	COMP	serum	: null	JUXSTAPOSE
+18504193	Herbs	horseradish	ANAT	serum	: null	JUXSTAPOSE
+25745958	Herbs	horseradish	ENZY	peroxidase	: null	JUXSTAPOSE
+25745958	Herbs	horseradish	PRGE	horseradish peroxidase	: null	JUXSTAPOSE
+25745958	Herbs	horseradish	SPEC	horseradish	: null	JUXSTAPOSE
+25745958	Herbs	horseradish	SPEC	turkey	: null	JUXSTAPOSE
+25745958	Herbs	horseradish	PRGE	Goat anti-turkey IgG	: null	JUXSTAPOSE
+25745958	Herbs	horseradish	SPEC	Goat	: null	JUXSTAPOSE
+15131160	Herbs	pig kidney	COMP	cells	: null	JUXSTAPOSE
+15131160	Herbs	pig kidney	ANAT	cells	: null	JUXSTAPOSE
+15131160	Herbs	pig kidney	ANAT	kidney	: null	JUXSTAPOSE
+15131160	Herbs	pig kidney	SPEC	pig	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	ANAT	kidney	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	SPEC	pig	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	ANAT	liver	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	SPEC	human	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	ANAT	kidney	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	SPEC	monkey	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	DISO	CCL	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	FUNC	CCL	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	CHED	CCL	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	PRGE	Vero- CCL-81 (monkey kidney)	: null	JUXSTAPOSE
+26908211	Herbs	pig kidney	SPEC	viruses	: null	JUXSTAPOSE
+11080722	Herbs	watermelon	SPEC	watermelon	: null	JUXSTAPOSE
+11080722	Herbs	watermelon	SPEC	banana	: null	JUXSTAPOSE
+11080722	Herbs	watermelon	SPEC	avocado	: null	JUXSTAPOSE
+11080722	Herbs	watermelon	DISO	allergy	: null	JUXSTAPOSE
+11080722	Herbs	watermelon	PROC	allergy	: null	JUXSTAPOSE
+23562481						
+23562481						
+23562481						
+27059240	Herbs	red fruit	SPEC	Eidolon helvum	: consistent	NONE
+27059240	Herbs	red fruit	SPEC	straw-colored fruit bats	: null	NONE
+27059240	Herbs	red fruit	SPEC	Betacoronavirus	: null	JUXSTAPOSE
+27059240	Herbs	red fruit	SPEC	human	: null	NONE
+27059240	Herbs	red fruit	SPEC	ebolavirus	: identified	NONE
+27059240	Herbs	red fruit	SPEC	henipaviruses	: associated	NONE
+27059240	Herbs	red fruit	SPEC	lyssaviruses	: associated	NONE
+27059240	Herbs	red fruit	COMP	hosts	: associated	NONE
+27059240	Herbs	red fruit	SPEC	Eidolon helvum	: identified	NONE
+27059240	Herbs	red fruit	SPEC	Straw-colored fruit bats	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	SPEC	Paramyxoviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	DISO	adenovirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	adenovirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Adenoviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	coronavirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Coronaviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	sapovirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Caliciviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Astroviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	papillomavirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Papillomaviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	polyomavirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Polyomaviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	rotavirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Reoviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	parechovirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	teschovirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	hepatovirus	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Picornaviridae	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	Rousettus aegyptiacus	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	ENZY	bat	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	SPEC	bat	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	SPEC	Eidolon helvum	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	ENZY	bat	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	SPEC	straw-colored fruit bat	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	SPEC	Taphozous	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	ENZY	bat	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	SPEC	bat	: null	JUXSTAPOSE
+30969980	Herbs	red fruit	SPEC	Rhinopoma hardwickii	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	ENZY	bat	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	ANAT	tailed	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	lesser mouse-tailed bat	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	species	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	ENZY	bat	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	SPEC	bat	: revealed	INDICATE_WEAK
+30969980	Herbs	red fruit	ANAT	fecal	: revealed	INDICATE_WEAK
+19409089	Herbs	tween 80	DISO	critically ill	: null	JUXSTAPOSE
+19409089	Herbs	tween 80	DISO	complication	: null	JUXSTAPOSE
+19409089	Herbs	tween 80	ANAT	kidney	: null	JUXSTAPOSE
+26193715	Herbs	tween 80	PROC	blood pressure	: null	JUXSTAPOSE
+26193715	Herbs	tween 80	ANAT	blood	: null	JUXSTAPOSE
+26193715	Herbs	tween 80	CHED	salt	: null	JUXSTAPOSE
+26733065	Herbs	tween 80	DISO	transmitted	: null	JUXSTAPOSE
+26733065	Herbs	tween 80	SPEC	PEDV	: null	JUXSTAPOSE
+26733065	Herbs	tween 80	SPEC	alphacoronavirus	: null	JUXSTAPOSE
+27693376	Herbs	tween 80	COMP	viral particles	: null	JUXSTAPOSE
+27693376	Herbs	tween 80	ANAT	viral particles	: null	JUXSTAPOSE
+27693376	Herbs	tween 80	COMP	TEM	: null	JUXSTAPOSE
+27693376	Herbs	tween 80	DISO	TEM	: null	JUXSTAPOSE
+27693376	Herbs	tween 80	CHED	TEM	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	pig	: tested	test
+15921605	Herbs	common pheasant	ANAT	rectal swab	: sampled	sample in
+15921605	Herbs	common pheasant	SPEC	Pavo muticus	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	green peafowl	: sampled	sample in
+15921605	Herbs	common pheasant	SPEC	goats	: sampled	sample in
+15921605	Herbs	common pheasant	SPEC	Mustela vison	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	mink	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	dogs	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	rats	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	rice	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	Sus scrofa	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	wild boar	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	Muntiacus reevesi	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	Chinese muntjac	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	pigeons	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	Phasianus colchicus	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	duck	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	rabbits	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	cats	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	gooses	: null	JUXSTAPOSE
+15921605	Herbs	common pheasant	SPEC	animals	: sampled	sample in
+15921605	Herbs	common pheasant	SPEC	virus	: sampled	sample in
+12771616	Herbs	honeycomb	ANAT	neutrophils	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	ANAT	macrophages	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	DISO	granuloma	: thickening	thicken with
+12771616	Herbs	honeycomb	ANAT	interstitial	: thickening	thicken with
+12771616	Herbs	honeycomb	DISO	fibrosis	: thickening	thicken with
+12771616	Herbs	honeycomb	ANAT	hyaline	: thickening	thicken with
+12771616	Herbs	honeycomb	DISO	pleural thickening	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	SPEC	honeycomb	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	CHED	bleomycin	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	FUNC	granulocyte colony-stimulating factor	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	PRGE	granulocyte colony-stimulating factor	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	ANAT	granulocyte	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	CHED	bleomycin	: null	JUXSTAPOSE
+12771616	Herbs	honeycomb	ANAT	Lung	: null	JUXSTAPOSE
+15363323	Herbs	honeycomb	SPEC	honeycomb	: null	NONE
+15363323	Herbs	honeycomb	DISO	diffuse fibrosis	: null	JUXSTAPOSE
+23745455	Herbs	heliotrope	DISO	dermatomyositis	: null	JUXSTAPOSE
+23745455	Herbs	heliotrope	DISO	erythroderma	: null	JUXSTAPOSE
+15642467	Herbs	acetic acid	CHED	urea	: null	JUXSTAPOSE
+15642467	Herbs	acetic acid	COMP	inclusion bodies	: null	JUXSTAPOSE
+15642467	Herbs	acetic acid	ANAT	inclusion bodies	: null	JUXSTAPOSE
+15642467	Herbs	acetic acid	ANAT	BL21	: null	JUXSTAPOSE
+16944772	Herbs	acetic acid	SPEC	bacteria	: null	JUXSTAPOSE
+24127026	Herbs	acetic acid	CHED	acetic acid	: null	JUXSTAPOSE
+30779905	Herbs	acetic acid	CHED	iminodiacetic acid	: null	JUXSTAPOSE
+30779905	Herbs	acetic acid	CHED	azetidine	: null	JUXSTAPOSE
+30779905	Herbs	acetic acid	CHED	caprylic acid	: null	JUXSTAPOSE
+30779905	Herbs	acetic acid	CHED	ornithine	: null	JUXSTAPOSE
+30779905	Herbs	acetic acid	CHED	metabolites	: null	JUXSTAPOSE
+31259726	Herbs	acetic acid	CHED	carbon disulfide	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	CHED	hydrazide	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	CHED	cyanoacetic acid	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	CHED	acetonitrile	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	CHED	thioxo	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	PROC	synthesis	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	CHED	antiviral	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	CHED	1	: null	INTERACT_WITH
+31259726	Herbs	acetic acid	CHED	heterocyclic compounds	: null	INTERACT_WITH
+30628571	Herbs	watercress	SPEC	watercress	: null	JUXSTAPOSE
+30628571	Herbs	watercress	PROC	eating	: null	JUXSTAPOSE
+30628571	Herbs	watercress	SPEC	cattle	: null	JUXSTAPOSE
+30628571	Herbs	watercress	PROC	appetite	: null	JUXSTAPOSE
+28866271	Herbs	cucumber	SPEC	CMV	: null	JUXSTAPOSE
+28866271	Herbs	cucumber	SPEC	cucumber mosaic virus	: null	JUXSTAPOSE
+28866271	Herbs	cucumber	CHED	antiviral	: null	JUXSTAPOSE
+21396016	Herbs	pangolin	ANAT	paw	: were	NONE
+21396016	Herbs	pangolin	SPEC	bear	: were	NONE
+21396016	Herbs	pangolin	SPEC	Monkey	: null	JUXSTAPOSE
+31652964	Herbs	pangolin	SPEC	pangolins	: null	JUXSTAPOSE
+31652964	Herbs	pangolin	SPEC	viruses	: null	JUXSTAPOSE
+32057211	Herbs	pangolin	SPEC	pangolins	: null	JUXSTAPOSE
+32057211	Herbs	pangolin	SPEC	2019-nCoV	: null	JUXSTAPOSE
+32057211	Herbs	pangolin	SPEC	2019 novel coronavirus	: null	JUXSTAPOSE
+32057211	Herbs	pangolin	FUNC	NCP	: null	JUXSTAPOSE
+32057211	Herbs	pangolin	DISO	pneumonia	: null	JUXSTAPOSE
+32100877	Herbs	pangolin	COMP	hosts	: (Chrysemys	NONE
+32100877	Herbs	pangolin	SPEC	Pelodiscus sinensis	: (Chrysemys	NONE
+32100877	Herbs	pangolin	SPEC	Chelonia mydas	: null	NONE
+32100877	Herbs	pangolin	SPEC	Chrysemys picta bellii	: (Chrysemys	NONE
+32100877	Herbs	pangolin	SPEC	turtles	: (Chrysemys	NONE
+32100877	Herbs	pangolin	SPEC	snakes	: (Chrysemys	NONE
+32100877	Herbs	pangolin	SPEC	pangolins	: null	NONE
+32100877	Herbs	pangolin	PRGE	ACE2	: null	JUXSTAPOSE
+32100877	Herbs	pangolin	CHED	protein	: null	JUXSTAPOSE
+32100877	Herbs	pangolin	PRGE	S protein	: null	JUXSTAPOSE
+32100877	Herbs	pangolin	CHED	amino acids	: null	JUXSTAPOSE
+32100877	Herbs	pangolin	PRGE	ACE2	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	SPEC	bats	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	SPEC	virus	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	PRGE	SARS-CoV-2	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	COMP	host	: null	JUXSTAPOSE
+32104911	Herbs	pangolin	SPEC	animal	: null	JUXSTAPOSE
+32143990	Herbs	pangolin	PRGE	SARS-CoV-2	: isolated	isolate from
+32143990	Herbs	pangolin	SPEC	SARS-CoV-2	: isolated	isolate from
+32143990	Herbs	pangolin	DISO	SARS	: isolated	isolate from
+32143990	Herbs	pangolin	SPEC	virus	: null	JUXSTAPOSE
+32143990	Herbs	pangolin	CHED	nucleic acids	: cited	cite as
+32143990	Herbs	pangolin	COMP	nucleic	: cited	cite as
+32143990	Herbs	pangolin	ANAT	nucleic	: cited	cite as
+32143990	Herbs	pangolin	SPEC	animals	: cited	cite as
+32143990	Herbs	pangolin	SPEC	pangolins	: cited	cite as
+32143990	Herbs	pangolin	SPEC	snakes	: null	JUXSTAPOSE
+32143990	Herbs	pangolin	SPEC	Bats	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	PRGE	pangolin	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	SPEC	coronavirus	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	PRGE	pangolin coronavirus GX_P2V	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	SPEC	2019-nCoV	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	PRGE	pangolin	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	SPEC	coronavirus	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	PRGE	pangolin coronavirus GX_P2V	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	SPEC	2019-nCoV	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	SPEC	coronavirus	: used	METHOD_OF
+32149769	Herbs	pangolin	PRGE	ACE2	: null	JUXSTAPOSE
+32149769	Herbs	pangolin	SPEC	coronavirus	: null	NONE
+32149769	Herbs	pangolin	PRGE	pangolin coronavirus GX_P2V	: null	NONE
+32159237	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	ENZY	bat	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	SPEC	bat	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	SPEC	pangolins	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	PRGE	Beta-CoV	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	PRGE	SARS-CoV-2	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	PRGE	main protease	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	PATH	RNA polymerase	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	PRGE	RNA-dependent RNA polymerase	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	COMP	Nucleocapsid	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	ANAT	Nucleocapsid	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	COMP	membrane	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	ANAT	membrane	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	COMP	Envelope	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	ANAT	Envelope	: null	JUXSTAPOSE
+32159237	Herbs	pangolin	CHED	nucleotide	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	PRGE	SARS-CoV-like CoVs	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	ANAT	lung	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	DISO	COVID-19	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	PROC	dead	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	PRGE	Pangolin-CoV	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	PRGE	SARS-CoV-2-like CoV	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	SPEC	species	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	PRGE	pangolin	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	PRGE	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	DISO	SARS	: remained	remain from
+32201080	Herbs	pangolin	CHED	protein	: remained	remain from
+32201080	Herbs	pangolin	PRGE	S protein	: remained	remain from
+32201080	Herbs	pangolin	SPEC	mammals	: remained	remain from
+32201080	Herbs	pangolin	SPEC	cat	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	SPEC	dog	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	SPEC	mammals	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	CHED	protein	: remained	remain from
+32201080	Herbs	pangolin	PRGE	S protein	: remained	remain from
+32201080	Herbs	pangolin	CHED	protein	: simulated	simulated
+32201080	Herbs	pangolin	PRGE	CoV-2 S protein	: simulated	simulated
+32201080	Herbs	pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	PRGE	SARS	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	PRGE	SARS	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	PRGE	ACE2	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	SPEC	Chinese hamster	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	SPEC	dog	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	SPEC	cat	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	PRGE	SARS-CoV-2	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32201080	Herbs	pangolin	DISO	SARS	: null	JUXSTAPOSE
+11994472	Herbs	soybean	CHED	diisopropylfluorophosphate	: abrogated	NONE
+11994472	Herbs	soybean	CHED	phenylmethylsulfonyl fluoride	: null	NONE
+11994472	Herbs	soybean	PRGE	aprotinin	: null	JUXSTAPOSE
+11994472	Herbs	soybean	CHED	inhibitor	: null	JUXSTAPOSE
+11994472	Herbs	soybean	ENZY	trypsin	: null	JUXSTAPOSE
+11994472	Herbs	soybean	PRGE	soybean trypsin	: null	JUXSTAPOSE
+11994472	Herbs	soybean	SPEC	soybean	: null	JUXSTAPOSE
+11994472	Herbs	soybean	PRGE	antithrombin III	: null	JUXSTAPOSE
+11994472	Herbs	soybean	ENZY	prothrombinase	: null	JUXSTAPOSE
+11994472	Herbs	soybean	PRGE	fgl2 prothrombinase	: null	JUXSTAPOSE
+11994472	Herbs	soybean	PRGE	fgl2	: null	JUXSTAPOSE
+22903075	Herbs	soybean	CHED	protein	: null	JUXSTAPOSE
+22903075	Herbs	soybean	SPEC	soybean	: null	JUXSTAPOSE
+22903075	Herbs	soybean	CHED	dexamethasone	: null	JUXSTAPOSE
+22903075	Herbs	soybean	CHED	fumonisin B1	: null	JUXSTAPOSE
+22903075	Herbs	soybean	SPEC	coronavirus	: null	JUXSTAPOSE
+22903075	Herbs	soybean	DISO	TGE	: null	JUXSTAPOSE
+22903075	Herbs	soybean	PROC	virulence	: null	JUXSTAPOSE
+22903075	Herbs	soybean	SPEC	E. coli	: null	JUXSTAPOSE
+22903075	Herbs	soybean	DISO	coinfections	: null	JUXSTAPOSE
+22903075	Herbs	soybean	SPEC	soybean	: null	JUXSTAPOSE
+22903075	Herbs	soybean	CHED	protein	: null	JUXSTAPOSE
+22903075	Herbs	soybean	CHED	protein	: seemed	RESULT_OF_WEAK
+26968372	Herbs	soybean	CHED	tetracycline	: null	JUXSTAPOSE
+26968372	Herbs	soybean	FUNC	cobs	: (rice	(rice
+26968372	Herbs	soybean	DISO	corn	: (rice	(rice
+26968372	Herbs	soybean	SPEC	corn	: (rice	(rice
+26968372	Herbs	soybean	SPEC	rice	: (rice	(rice
+26968372	Herbs	soybean	CHED	choline	: null	JUXSTAPOSE
+26968372	Herbs	soybean	CHED	Vitamins	: (rice	(rice
+26968372	Herbs	soybean	CHED	tryptophan	: null	JUXSTAPOSE
+26968372	Herbs	soybean	CHED	methionine	: null	JUXSTAPOSE
+26968372	Herbs	soybean	CHED	hydrochloride	: null	JUXSTAPOSE
+26968372	Herbs	soybean	CHED	lysine	: null	JUXSTAPOSE
+26968372	Herbs	soybean	SPEC	soybeans	: null	JUXSTAPOSE
+26968372	Herbs	soybean	CHED	hydrochloride	: null	JUXSTAPOSE
+26968372	Herbs	soybean	CHED	lysine	: null	JUXSTAPOSE
+26968372	Herbs	soybean	CHED	Vitamin D	: null	JUXSTAPOSE
+26968372	Herbs	soybean	SPEC	soybean	: null	JUXSTAPOSE
+26968372	Herbs	soybean	SPEC	PEDV	: null	JUXSTAPOSE
+28542235	Herbs	soybean	ANAT	dried	: null	JUXSTAPOSE
+28542235	Herbs	soybean	DISO	corn	: grains	grain
+28542235	Herbs	soybean	SPEC	corn	: grains	grain
+28542235	Herbs	soybean	SPEC	soybean	: null	JUXSTAPOSE
+28542235	Herbs	soybean	DISO	corn	: null	JUXSTAPOSE
+28542235	Herbs	soybean	SPEC	corn	: null	JUXSTAPOSE
+28542235	Herbs	soybean	ANAT	blood	: null	JUXSTAPOSE
+28542235	Herbs	soybean	ANAT	plasma	: null	JUXSTAPOSE
+28542235	Herbs	soybean	SPEC	porcine	: null	JUXSTAPOSE
+28542235	Herbs	soybean	ANAT	dried	: null	JUXSTAPOSE
+28542235	Herbs	soybean	SPEC	soybean	: null	JUXSTAPOSE
+28542235	Herbs	soybean	SPEC	TGEV	: null	JUXSTAPOSE
+28711219	Herbs	soybean	CHED	lysine	: differing	NONE
+28711219	Herbs	soybean	DISO	SID	: differing	NONE
+28711219	Herbs	soybean	CHED	lysine	: differing	differ in
+28711219	Herbs	soybean	DISO	SID	: differing	differ in
+28711219	Herbs	soybean	SPEC	soybean	: null	NONE
+28711219	Herbs	soybean	DISO	corn	: null	JUXSTAPOSE
+28711219	Herbs	soybean	SPEC	corn	: null	JUXSTAPOSE
+28711219	Herbs	soybean	SPEC	Large	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	ANAT	band	: found	NONE
+11134297	Herbs	sucrose	SPEC	virus	: null	NONE
+11134297	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	CHED	protein	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	PRGE	S protein	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	FUNC	sialic acid binding	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	CHED	sialic acid	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	PROC	point mutation	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	PROC	binding activity	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	FUNC	sialic acid binding	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	CHED	sialic acid	: null	JUXSTAPOSE
+11134297	Herbs	sucrose	SPEC	TGEV	: null	JUXSTAPOSE
+11161278	Herbs	sucrose	CHED	agarose	: null	JUXSTAPOSE
+11161278	Herbs	sucrose	CHED	Sepharose	: null	JUXSTAPOSE
+11161278	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+11714959	Herbs	sucrose	CHED	sucrose	: was	be
+11714959	Herbs	sucrose	SPEC	virus	: null	JUXSTAPOSE
+11714959	Herbs	sucrose	COMP	virions	: null	JUXSTAPOSE
+11714959	Herbs	sucrose	ANAT	virions	: null	JUXSTAPOSE
+11731170	Herbs	sucrose	COMP	envelope	: had	have
+11731170	Herbs	sucrose	ANAT	envelope	: had	have
+11731170	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+11731170	Herbs	sucrose	ANAT	intestinal contents	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	PROC	precipitation	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	CHED	sucrose	: better	better
+12088828	Herbs	sucrose	CHED	sucrose	: examined	NONE
+12088828	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	COMP	serum	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	ANAT	serum	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	SPEC	turkey	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	SPEC	turkey	: null	JUXSTAPOSE
+12088828	Herbs	sucrose	PROC	Differentiation	: null	JUXSTAPOSE
+14738983	Herbs	sucrose	CHED	sucrose	: extracted;	NONE
+14738983	Herbs	sucrose	ANAT	embryo	: null	JUXSTAPOSE
+14738983	Herbs	sucrose	SPEC	turkey	: null	JUXSTAPOSE
+14738983	Herbs	sucrose	ANAT	intestine	: null	JUXSTAPOSE
+14738983	Herbs	sucrose	SPEC	coronavirus	: null	JUXSTAPOSE
+14738983	Herbs	sucrose	SPEC	Turkey	: null	JUXSTAPOSE
+15020242	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+15020242	Herbs	sucrose	SPEC	mammalian	: null	JUXSTAPOSE
+16254320	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+16254320	Herbs	sucrose	DISO	SARS	: null	JUXSTAPOSE
+16254320	Herbs	sucrose	ANAT	VLPs	: null	JUXSTAPOSE
+16254320	Herbs	sucrose	ANAT	virus-like particles	: null	JUXSTAPOSE
+16254320	Herbs	sucrose	SPEC	virus	: null	JUXSTAPOSE
+16254320	Herbs	sucrose	PRGE	SARS-CoV	: null	JUXSTAPOSE
+16254320	Herbs	sucrose	DISO	SARS	: null	JUXSTAPOSE
+16352545	Herbs	sucrose	COMP	membrane	: released	NONE
+16352545	Herbs	sucrose	ANAT	membrane	: released	NONE
+16352545	Herbs	sucrose	COMP	cells	: released	NONE
+16352545	Herbs	sucrose	ANAT	cells	: released	NONE
+16352545	Herbs	sucrose	CHED	protein	: null	NONE
+16352545	Herbs	sucrose	SPEC	virus	: null	JUXSTAPOSE
+16352545	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+16352545	Herbs	sucrose	COMP	cells	: null	JUXSTAPOSE
+16352545	Herbs	sucrose	ANAT	cells	: null	JUXSTAPOSE
+16352545	Herbs	sucrose	PATH	release	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	CHED	protein	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	COMP	antibody	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	PROC	antibody	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	FUNC	antibody	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	CHED	protein	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	PRGE	anti-S protein monoclonal antibody	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	SPEC	virus	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	PROC	equilibrium	: null	JUXSTAPOSE
+16840309	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+17344286	Herbs	sucrose	SPEC	SCoV	: using	NONE
+17344286	Herbs	sucrose	CHED	proteins	: using	NONE
+17344286	Herbs	sucrose	CHED	protein	: using	NONE
+17344286	Herbs	sucrose	PRGE	SCoV 6 protein	: using	NONE
+17344286	Herbs	sucrose	SPEC	SCoV	: using	NONE
+17344286	Herbs	sucrose	COMP	antibody	: using	NONE
+17344286	Herbs	sucrose	PROC	antibody	: using	NONE
+17344286	Herbs	sucrose	FUNC	antibody	: using	NONE
+17344286	Herbs	sucrose	CHED	protein	: using	METHOD_OF_WEAK
+17344286	Herbs	sucrose	SPEC	SCoV	: using	METHOD_OF_WEAK
+17344286	Herbs	sucrose	PRGE	anti-SCoV S protein antibody	: using	NONE
+17344286	Herbs	sucrose	SPEC	virus	: null	JUXSTAPOSE
+17344286	Herbs	sucrose	PROC	equilibrium	: null	NONE
+17344286	Herbs	sucrose	SPEC	SCoV	: null	JUXSTAPOSE
+17344286	Herbs	sucrose	SPEC	coronavirus	: null	JUXSTAPOSE
+17344286	Herbs	sucrose	DISO	severe acute respiratory syndrome	: using	METHOD_OF_WEAK
+17344286	Herbs	sucrose	COMP	cells	: using	METHOD_OF_WEAK
+17344286	Herbs	sucrose	ANAT	cells	: using	METHOD_OF_WEAK
+18550663	Herbs	sucrose	CHED	chlorpromazine	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	PROC	pathway	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	PRGE	clathrin	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	COMP	cells	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	ANAT	cells	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	PROC	gene expression	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	PRGE	MHV-2 gene	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	SPEC	MHV	: null	JUXSTAPOSE
+18550663	Herbs	sucrose	SPEC	MHV	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	COMP	cytoplasm	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	ANAT	cytoplasm	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	COMP	cell	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	ANAT	cell	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	ANAT	membranes	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	COMP	endoplasmic reticulum	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	ANAT	endoplasmic reticulum	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	COMP	cells	: null	JUXSTAPOSE
+20484561	Herbs	sucrose	ANAT	cells	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	PROC	recombination	: presented;	presented;
+21538303	Herbs	sucrose	PROC	targeted	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	SPEC	viruses	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	SPEC	MHV	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	PROC	storage	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	ANAT	storage	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	COMP	cells	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	ANAT	cells	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	CHED	17CL	: null	JUXSTAPOSE
+21538303	Herbs	sucrose	CHED	DBT	: presented;	presented;
+21538303	Herbs	sucrose	SPEC	MHV	: presented;	presented;
+25720476	Herbs	sucrose	SPEC	IBV	: null	JUXSTAPOSE
+26360521	Herbs	sucrose	CHED	inhibitors	: null	JUXSTAPOSE
+26360521	Herbs	sucrose	PROC	docking	: null	JUXSTAPOSE
+26360521	Herbs	sucrose	CHED	inhibitors	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	SPEC	chicken	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	SPEC	virus	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	COMP	virions	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	ANAT	virions	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	CHED	proteins	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	COMP	cell	: null	JUXSTAPOSE
+27257648	Herbs	sucrose	ANAT	cell	: null	JUXSTAPOSE
+28081264	Herbs	sucrose	CHED	methyl	: depleting	DOWN-REGULATE_WEAK
+28081264	Herbs	sucrose	CHED	cholesterol	: depleting	DOWN-REGULATE_WEAK
+28081264	Herbs	sucrose	COMP	plasma membrane	: depleting	DOWN-REGULATE_WEAK
+28081264	Herbs	sucrose	ANAT	plasma membrane	: depleting	DOWN-REGULATE_WEAK
+28081264	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+28081264	Herbs	sucrose	COMP	cells	: null	JUXSTAPOSE
+28081264	Herbs	sucrose	ANAT	cells	: null	JUXSTAPOSE
+28081264	Herbs	sucrose	SPEC	IBV	: null	JUXSTAPOSE
+32033844	Herbs	sucrose	SPEC	respiratory syncytial virus	: determined	determine
+32033844	Herbs	sucrose	SPEC	coronavirus	: determined	determine
+32033844	Herbs	sucrose	SPEC	rhinovirus	: determined	determine
+32033844	Herbs	sucrose	CHED	antigens	: determined	determine
+32033844	Herbs	sucrose	PATH	proteasome	: determined	determine
+32033844	Herbs	sucrose	PROC	proteasome	: determined	determine
+32033844	Herbs	sucrose	ENZY	proteasome	: determined	determine
+32033844	Herbs	sucrose	COMP	20S proteasome	: null	JUXSTAPOSE
+32033844	Herbs	sucrose	PRGE	20S proteasome	: null	JUXSTAPOSE
+32033844	Herbs	sucrose	ANAT	20S proteasome	: null	JUXSTAPOSE
+32033844	Herbs	sucrose	CHED	antigens	: null	JUXSTAPOSE
+32033844	Herbs	sucrose	PRGE	lung self-antigens	: null	JUXSTAPOSE
+32033844	Herbs	sucrose	ANAT	lung	: null	JUXSTAPOSE
+32033844	Herbs	sucrose	CHED	sucrose	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	DISO	H5N1	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	DISO	influenza	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	DISO	SARS	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	PATH	measles	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	DISO	measles	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	CHED	peptide	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	SPEC	scorpion	: inhibit	NONE
+21620914	Herbs	scorpion	CHED	peptide	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	PROC	host defense	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	COMP	host	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	CHED	antiviral agents	: represents	represent
+21620914	Herbs	scorpion	CHED	antiviral	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	CHED	peptides	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	PROC	host defense	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	COMP	host	: null	JUXSTAPOSE
+21620914	Herbs	scorpion	SPEC	virus	: represents	represent
+22536342	Herbs	scorpion	CHED	peptide	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	HIV-1	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	DISO	HIV	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	viruses	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	PATH	measles	: (measles	(measles
+22536342	Herbs	scorpion	DISO	measles	: (measles	(measles
+22536342	Herbs	scorpion	SPEC	viruses	: (measles	(measles
+22536342	Herbs	scorpion	CHED	peptide	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	CHED	antiviral	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	CHED	peptides	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	DISO	H5N1	: designed	design for
+22536342	Herbs	scorpion	COMP	cells	: showed	show to
+22536342	Herbs	scorpion	ANAT	cells	: showed	show to
+22536342	Herbs	scorpion	COMP	host	: showed	show to
+22536342	Herbs	scorpion	DISO	cytotoxicity	: showed	show to
+22536342	Herbs	scorpion	CHED	peptide	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	HIV-1	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	DISO	HIV	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	CHED	peptide	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	DISO	HIV	: null	JUXSTAPOSE
+22536342	Herbs	scorpion	SPEC	HIV	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	SPEC	Tityus	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	DISO	neuromuscular manifestations	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	DISO	cerebellar dysfunction	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	ANAT	cerebellar	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	DISO	acute respiratory distress syndrome	: have	NONE
+25549940	Herbs	scorpion	ANAT	heart	: have	NONE
+25549940	Herbs	scorpion	DISO	acute heart failure	: have	NONE
+25549940	Herbs	scorpion	ANAT	cardiovascular	: have	have in
+25549940	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	ANAT	muscle	: described	NONE
+25549940	Herbs	scorpion	DISO	neuromuscular manifestations	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	ANAT	cerebellar	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	ANAT	kidney	: null	JUXSTAPOSE
+25549940	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	DISO	respiratory distress syndrome	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	ANAT	Lung	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	DISO	lung edema	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	ANAT	lung	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	PATH	release	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	COMP	cells	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	ANAT	Mast cells	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	PROC	death	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	SPEC	scorpion	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	SPEC	mice	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	PROC	vascular permeability	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	ANAT	vascular	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	ANAT	lung	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	PROC	development	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	COMP	cells	: null	JUXSTAPOSE
+25601496	Herbs	scorpion	ANAT	mast cells	: null	JUXSTAPOSE
+15937562	Herbs	oolong tea	CHED	tea	: null	JUXSTAPOSE
+15937562	Herbs	oolong tea	CHED	tea	: null	JUXSTAPOSE
+15937562	Herbs	oolong tea	CHED	Pro	: null	JUXSTAPOSE
+15937562	Herbs	oolong tea	CHED	tea	: null	JUXSTAPOSE
+15937562	Herbs	oolong tea	CHED	tea	: potent	potent
+15937562	Herbs	oolong tea	SPEC	black tea	: potent	potent
+15937562	Herbs	oolong tea	CHED	tea	: potent	potent
+15937562	Herbs	oolong tea	SPEC	black tea	: potent	potent
+11588725	Herbs	auricula	ANAT	extremities	: pes	pe
+11588725	Herbs	auricula	DISO	weakness	: pes	pe
+11588725	Herbs	auricula	DISO	pes cavus	: pes	pe
+11588725	Herbs	auricula	ANAT	pes	: pes	pe
+11588725	Herbs	auricula	DISO	scoliosis	: pes	pe
+11588725	Herbs	auricula	ANAT	nerves	: null	JUXSTAPOSE
+11588725	Herbs	auricula	ANAT	auricular	: null	JUXSTAPOSE
+11588725	Herbs	auricula	DISO	hypertrophic	: null	JUXSTAPOSE
+11588725	Herbs	auricula	DISO	ophthalmoparesis	: pes	pe
+11588725	Herbs	auricula	DISO	ptosis	: pes	pe
+11588725	Herbs	auricula	ANAT	palpebral	: pes	pe
+11588725	Herbs	auricula	DISO	cachexia	: pes	pe
+11588725	Herbs	auricula	DISO	diverticula	: pes	pe
+11688526	Herbs	auricula	ANAT	ear	: null	JUXSTAPOSE
+11688526	Herbs	auricula	SPEC	coronavirus	: null	JUXSTAPOSE
+16045877	Herbs	auricula	DISO	Down syndrome	: null	JUXSTAPOSE
+16045877	Herbs	auricula	DISO	acute laryngotracheitis	: null	JUXSTAPOSE
+20466573	Herbs	auricula	ANAT	auricular	: collected	collect from
+20466573	Herbs	auricula	ANAT	hair	: null	JUXSTAPOSE
+20466573	Herbs	auricula	ANAT	stool	: null	JUXSTAPOSE
+20466573	Herbs	auricula	ANAT	blood	: null	JUXSTAPOSE
+23211207	Herbs	auricula	DISO	auricular flutter	: null	JUXSTAPOSE
+23211207	Herbs	auricula	ANAT	auricular	: null	JUXSTAPOSE
+23211207	Herbs	auricula	CHED	amiodarone	: null	JUXSTAPOSE
+23211207	Herbs	auricula	DISO	pulmonary toxicity	: null	JUXSTAPOSE
+23211207	Herbs	auricula	ANAT	pulmonary	: null	JUXSTAPOSE
+25683083	Herbs	Angelica	CHED	cysteine	: inhibit	DOWN-REGULATE
+25683083	Herbs	Angelica	SPEC	Angelica keiskei	: null	JUXSTAPOSE
+25683083	Herbs	Angelica	CHED	Chalcones	: null	JUXSTAPOSE
+25683083	Herbs	Angelica	CHED	pro	: null	JUXSTAPOSE
+25683083	Herbs	Angelica	CHED	pro	: determined	determine
+25683083	Herbs	Angelica	DISO	SARS	: determined	determine
+25683083	Herbs	Angelica	SPEC	Angelica keiskei	: null	JUXSTAPOSE
+25683083	Herbs	Angelica	CHED	coumarins	: null	JUXSTAPOSE
+25683083	Herbs	Angelica	CHED	chalcones	: null	JUXSTAPOSE
+25683083	Herbs	Angelica	DISO	SARS	: null	JUXSTAPOSE
+27765358	Herbs	Rhubarb	SPEC	plants	: null	JUXSTAPOSE
+27765358	Herbs	Rhubarb	SPEC	Rheum officinale	: originated	originate from
+27765358	Herbs	Rhubarb	SPEC	Rheum palmatum	: null	JUXSTAPOSE
+27765358	Herbs	Rhubarb	SPEC	Rhubarb	: null	JUXSTAPOSE
+24520776	Herbs	Licorice	SPEC	Licorice	: null	JUXSTAPOSE
+10935276	Herbs	Chicken	SPEC	Chickens	: reared	rear
+11332499	Herbs	Chicken	SPEC	Escherichia coli	: develop	develop with
+11332499	Herbs	Chicken	ANAT	respiratory tract	: null	JUXSTAPOSE
+11332499	Herbs	Chicken	DISO	secondary infection	: develop	develop with
+11332499	Herbs	Chicken	SPEC	IBDV	: null	JUXSTAPOSE
+11332499	Herbs	Chicken	SPEC	infectious bursal disease virus	: infected	infect with
+11332499	Herbs	Chicken	DISO	infectious bursal disease	: infected	infect with
+11332499	Herbs	Chicken	SPEC	IBV	: infected	infect with
+11332499	Herbs	Chicken	SPEC	virus	: infected	infect with
+11332499	Herbs	Chicken	DISO	bronchitis	: infected	infect with
+11332499	Herbs	Chicken	DISO	infectious	: infected	infect with
+11332499	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+11798465	Herbs	Chicken	PROC	virus replication	: inhibits	DOWN-REGULATE_WEAK
+11798465	Herbs	Chicken	SPEC	virus	: inhibits	DOWN-REGULATE_WEAK
+11798465	Herbs	Chicken	DISO	bronchitis	: inhibits	DOWN-REGULATE_WEAK
+11798465	Herbs	Chicken	DISO	infectious	: inhibits	DOWN-REGULATE
+11798465	Herbs	Chicken	PRGE	interferon type I I inhibits"	: null	JUXSTAPOSE
+11798465	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+12239288	Herbs	Chicken	COMP	antibodies	: lacked	lack
+12239288	Herbs	Chicken	SPEC	MHV	: null	JUXSTAPOSE
+12239288	Herbs	Chicken	CHED	glycoprotein	: produced	produce against
+12239288	Herbs	Chicken	PRGE	S2 glycoprotein	: produced	produce against
+12239288	Herbs	Chicken	COMP	antibodies	: produced	produce against
+12239288	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+12243532	Herbs	Chicken	SPEC	IBV	: inoculated	inoculate at
+12243532	Herbs	Chicken	COMP	sac	: inoculated	inoculate at
+12243532	Herbs	Chicken	PROC	sac	: inoculated	inoculate at
+12243532	Herbs	Chicken	ANAT	sac	: inoculated	inoculate at
+12243532	Herbs	Chicken	SPEC	ovo	: inoculated	inoculate at
+12243532	Herbs	Chicken	ANAT	embryos	: null	JUXSTAPOSE
+12243532	Herbs	Chicken	SPEC	Chicken	: inoculated	inoculate at
+12243532	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+12243532	Herbs	Chicken	SPEC	virus	: null	JUXSTAPOSE
+12296388	Herbs	Chicken	SPEC	IBV	: inoculated	inoculate with
+12296388	Herbs	Chicken	SPEC	virus	: inoculated	inoculate with
+12296388	Herbs	Chicken	DISO	bronchitis	: inoculated	inoculate with
+12296388	Herbs	Chicken	DISO	infectious	: inoculated	inoculate with
+12296388	Herbs	Chicken	ANAT	embryos	: null	JUXSTAPOSE
+12296388	Herbs	Chicken	SPEC	Chicken	: inoculated	inoculate with
+12495055	Herbs	Chicken	ANAT	renal	: boosted	NONE
+12495055	Herbs	Chicken	ANAT	kidney	: boosted	NONE
+12495055	Herbs	Chicken	DISO	trachea	: boosted	NONE
+12495055	Herbs	Chicken	SPEC	trachea	: boosted	NONE
+12495055	Herbs	Chicken	ANAT	trachea	: boosted	NONE
+12495055	Herbs	Chicken	SPEC	virus	: null	NONE
+12495055	Herbs	Chicken	SPEC	Chickens	: given	give
+12495588	Herbs	Chicken	DISO	infectious disease	: null	JUXSTAPOSE
+12495588	Herbs	Chicken	COMP	antibodies	: null	JUXSTAPOSE
+12495588	Herbs	Chicken	COMP	yolk	: null	JUXSTAPOSE
+12495588	Herbs	Chicken	ANAT	yolk	: null	JUXSTAPOSE
+12495588	Herbs	Chicken	ANAT	egg	: null	JUXSTAPOSE
+12495588	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+15008570	Herbs	Chicken	DISO	varicella	: null	JUXSTAPOSE
+15008570	Herbs	Chicken	DISO	Chickenpox	: null	JUXSTAPOSE
+15219399	Herbs	Chicken	COMP	antibodies	: protected	protect against
+15219399	Herbs	Chicken	PRGE	serum neutralizing antibodies	: generated	PRODUCE_WEAK
+15219399	Herbs	Chicken	COMP	serum	: generated	PRODUCE_WEAK
+15219399	Herbs	Chicken	ANAT	serum	: generated	PRODUCE_WEAK
+15219399	Herbs	Chicken	CHED	protein	: generated	PRODUCE_WEAK
+15219399	Herbs	Chicken	SPEC	tubers	: immunized	immunize
+15219399	Herbs	Chicken	ANAT	tubers	: immunized	immunize
+15219399	Herbs	Chicken	SPEC	potato	: immunized	immunize
+15219399	Herbs	Chicken	ANAT	orally	: immunized	immunize
+15219399	Herbs	Chicken	SPEC	Chickens	: immunized	immunize
+16917113	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+16917113	Herbs	Chicken	DISO	infectious	: null	JUXSTAPOSE
+16917113	Herbs	Chicken	SPEC	mouse	: null	JUXSTAPOSE
+16917113	Herbs	Chicken	SPEC	mice	: null	JUXSTAPOSE
+16917113	Herbs	Chicken	SPEC	virus	: null	JUXSTAPOSE
+16917113	Herbs	Chicken	DISO	H5N1	: null	JUXSTAPOSE
+17431755	Herbs	Chicken	DISO	IB	: prevalent	NONE
+17431755	Herbs	Chicken	SPEC	chicken	: null	JUXSTAPOSE
+17431755	Herbs	Chicken	DISO	IB	: null	NONE
+17431755	Herbs	Chicken	DISO	bronchitis	: prevalent	prevalent
+17431755	Herbs	Chicken	DISO	infectious	: null	JUXSTAPOSE
+17431755	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+17626488	Herbs	Chicken	SPEC	chickens	: had	have against
+17626488	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+17643500	Herbs	Chicken	DISO	SARS	: null	JUXSTAPOSE
+17643500	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+18501701	Herbs	Chicken	SPEC	avian	: null	NONE
+18501701	Herbs	Chicken	DISO	H5N1	: produced	NONE
+18501701	Herbs	Chicken	CHED	epitope	: protected	NONE
+18501701	Herbs	Chicken	SPEC	MHV	: null	NONE
+18501701	Herbs	Chicken	PROC	antibody response	: null	NONE
+18501701	Herbs	Chicken	COMP	antibody	: null	NONE
+18501701	Herbs	Chicken	PROC	antibody	: null	NONE
+18501701	Herbs	Chicken	FUNC	antibody	: null	NONE
+18501701	Herbs	Chicken	COMP	antibody	: produced	NONE
+18501701	Herbs	Chicken	PROC	antibody	: produced	NONE
+18501701	Herbs	Chicken	FUNC	antibody	: produced	NONE
+18501701	Herbs	Chicken	DISO	H5N1	: null	JUXSTAPOSE
+18501701	Herbs	Chicken	SPEC	Chickens	: null	NONE
+18501701	Herbs	Chicken	SPEC	chickens	: null	JUXSTAPOSE
+19057860	Herbs	Chicken	SPEC	viruses	: null	JUXSTAPOSE
+19057860	Herbs	Chicken	COMP	cilia	: null	JUXSTAPOSE
+19057860	Herbs	Chicken	ANAT	cilia	: null	JUXSTAPOSE
+19057860	Herbs	Chicken	DISO	trachea	: comprising	PLAIN_COMPRISE_WEAK
+19057860	Herbs	Chicken	SPEC	trachea	: comprising	PLAIN_COMPRISE_WEAK
+19057860	Herbs	Chicken	ANAT	trachea	: comprising	PLAIN_COMPRISE_WEAK
+19057860	Herbs	Chicken	ANAT	chick embryo	: comprising	PLAIN_COMPRISE_WEAK
+19057860	Herbs	Chicken	ANAT	organ	: null	JUXSTAPOSE
+19057860	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+19543689	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+19543689	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+19909524	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+19909524	Herbs	Chicken	SPEC	mice	: null	JUXSTAPOSE
+19909524	Herbs	Chicken	SPEC	virus	: null	JUXSTAPOSE
+19909524	Herbs	Chicken	DISO	H5N1	: null	JUXSTAPOSE
+19946715	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+19946715	Herbs	Chicken	SPEC	mice	: null	JUXSTAPOSE
+19946715	Herbs	Chicken	SPEC	mice	: null	JUXSTAPOSE
+20046025	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+20201174	Herbs	Chicken	DISO	Chickenpox	: null	JUXSTAPOSE
+20201174	Herbs	Chicken	DISO	Chickenpox	: null	JUXSTAPOSE
+20201174	Herbs	Chicken	DISO	varicella pneumonia	: leading	NONE
+20201174	Herbs	Chicken	DISO	Chickenpox	: null	JUXSTAPOSE
+20307574	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+20307574	Herbs	Chicken	PROC	ocular	: null	JUXSTAPOSE
+20307574	Herbs	Chicken	ANAT	ocular	: null	JUXSTAPOSE
+20307574	Herbs	Chicken	ANAT	nasal	: null	JUXSTAPOSE
+20307574	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+21593235	Herbs	Chicken	PROC	ocular	: challenged	challenge after
+21593235	Herbs	Chicken	ANAT	ocular	: challenged	challenge after
+21593235	Herbs	Chicken	ANAT	nasal	: challenged	challenge after
+21593235	Herbs	Chicken	SPEC	IBV	: challenged	challenge after
+21593235	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+22080012	Herbs	Chicken	ANAT	ileal	: had	NONE
+22080012	Herbs	Chicken	DISO	LPS	: had	NONE
+22080012	Herbs	Chicken	CHED	LPS	: had	NONE
+22080012	Herbs	Chicken	SPEC	Chickens	: null	NONE
+22080012	Herbs	Chicken	CHED	CPM	: null	JUXSTAPOSE
+22566769	Herbs	Chicken	SPEC	Chickens	: exhibited	exhibit
+22835899	Herbs	Chicken	PROC	MHC	: using	NONE
+22835899	Herbs	Chicken	ANAT	MHC	: using	NONE
+22835899	Herbs	Chicken	PRGE	chicken MHC I tetramer	: using	NONE
+22835899	Herbs	Chicken	SPEC	chicken	: using	NONE
+22835899	Herbs	Chicken	PROC	immune responses	: monitor	MEASURE_WEAK
+22835899	Herbs	Chicken	SPEC	IBV	: monitor	MEASURE_WEAK
+22835899	Herbs	Chicken	COMP	serum	: monitor	MEASURE_WEAK
+22835899	Herbs	Chicken	ANAT	serum	: monitor	MEASURE_WEAK
+22835899	Herbs	Chicken	PRGE	antigen specific serum IgG	: monitor	MEASURE_WEAK
+22835899	Herbs	Chicken	CHED	antigen	: monitor	MEASURE_WEAK
+22835899	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+22835899	Herbs	Chicken	ANAT	bursa of Fabricius	: demonstrated	demonstrate in
+22835899	Herbs	Chicken	SPEC	bursa	: demonstrated	demonstrate in
+22835899	Herbs	Chicken	ANAT	kidney	: null	JUXSTAPOSE
+22835899	Herbs	Chicken	ANAT	lung	: demonstrated	demonstrate in
+22835899	Herbs	Chicken	DISO	respiratory symptoms	: developed	develop
+22835899	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+23050466	Herbs	Chicken	SPEC	chickens	: able	NONE
+23050466	Herbs	Chicken	SPEC	virus	: able	NONE
+23050466	Herbs	Chicken	PROC	immune response	: null	NONE
+23050466	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+23050466	Herbs	Chicken	SPEC	chickens	: null	NONE
+23388447	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+23388447	Herbs	Chicken	SPEC	chickens	: inoculated	INJECT
+23388447	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+24283135	Herbs	Chicken	DISO	trachea	: showed	show against
+24283135	Herbs	Chicken	SPEC	trachea	: showed	show against
+24283135	Herbs	Chicken	ANAT	trachea	: showed	show against
+24283135	Herbs	Chicken	SPEC	viruses	: showed	show against
+24283135	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+24283135	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+24305086	Herbs	Chicken	CHED	chitosan	: mannan	NONE
+24305086	Herbs	Chicken	CHED	mannan	: null	NONE
+24305086	Herbs	Chicken	SPEC	IBV	: null	NONE
+24305086	Herbs	Chicken	COMP	serum	: vaccinated	NONE
+24305086	Herbs	Chicken	ANAT	serum	: vaccinated	NONE
+24305086	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+24305086	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+24758121	Herbs	Chicken	ANAT	tears	: had	have than
+24758121	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+25343382	Herbs	Chicken	SPEC	IBV	: null	NONE
+25343382	Herbs	Chicken	SPEC	virus	: infected	NONE
+25343382	Herbs	Chicken	DISO	bronchitis	: infected	NONE
+25343382	Herbs	Chicken	DISO	infectious	: infected	NONE
+25343382	Herbs	Chicken	COMP	serum	: selected	NONE
+25343382	Herbs	Chicken	ANAT	serum	: selected	NONE
+25343382	Herbs	Chicken	PRGE	MBL	: selected	select for
+25343382	Herbs	Chicken	FUNC	binding	: selected	select for
+25343382	Herbs	Chicken	PRGE	mannose-binding lectin	: selected	select for
+25343382	Herbs	Chicken	CHED	mannose	: selected	select for
+25343382	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+25343382	Herbs	Chicken	SPEC	chickens	: have	NONE
+25343382	Herbs	Chicken	COMP	serum	: have	have in
+25343382	Herbs	Chicken	ANAT	serum	: have	have in
+25343382	Herbs	Chicken	SPEC	chickens	: have	have in
+25343382	Herbs	Chicken	DISO	trachea	: have	have in
+25343382	Herbs	Chicken	SPEC	trachea	: have	have in
+25343382	Herbs	Chicken	ANAT	trachea	: have	have in
+25343382	Herbs	Chicken	COMP	serum	: null	NONE
+25343382	Herbs	Chicken	ANAT	serum	: null	NONE
+25343382	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+25720470	Herbs	Chicken	SPEC	viruses	: null	JUXSTAPOSE
+25720470	Herbs	Chicken	COMP	cilia	: null	JUXSTAPOSE
+25720470	Herbs	Chicken	ANAT	cilia	: null	JUXSTAPOSE
+25720470	Herbs	Chicken	DISO	trachea	: comprising	PLAIN_COMPRISE_WEAK
+25720470	Herbs	Chicken	SPEC	trachea	: comprising	PLAIN_COMPRISE_WEAK
+25720470	Herbs	Chicken	ANAT	trachea	: comprising	PLAIN_COMPRISE_WEAK
+25720470	Herbs	Chicken	ANAT	chick embryo	: comprising	PLAIN_COMPRISE_WEAK
+25720470	Herbs	Chicken	ANAT	organ	: null	JUXSTAPOSE
+25720470	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+25720471	Herbs	Chicken	SPEC	viruses	: null	JUXSTAPOSE
+25720471	Herbs	Chicken	COMP	cell	: null	JUXSTAPOSE
+25720471	Herbs	Chicken	ANAT	cell	: null	JUXSTAPOSE
+25720471	Herbs	Chicken	ANAT	kidney	: null	JUXSTAPOSE
+25720471	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+26090700	Herbs	Chicken	DISO	Bronchitis	: Derived	derive from
+26090700	Herbs	Chicken	DISO	Infectious	: Derived	derive from
+26090700	Herbs	Chicken	COMP	Antibody	: Derived	derive from
+26090700	Herbs	Chicken	PROC	Antibody	: Derived	derive from
+26090700	Herbs	Chicken	FUNC	Antibody	: Derived	derive from
+26090700	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+26223977	Herbs	Chicken	SPEC	virus	: showed	show before
+26223977	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+26223977	Herbs	Chicken	SPEC	chickens	: vaccinated	vaccinate with
+26301315	Herbs	Chicken	SPEC	Viruses	: null	JUXSTAPOSE
+26301315	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+26301315	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+26301315	Herbs	Chicken	PROC	Immune Responses	: null	JUXSTAPOSE
+26620841	Herbs	Chicken	ANAT	CTL	: analyzed	NONE
+26620841	Herbs	Chicken	SPEC	IBV	: analyzed	NONE
+26620841	Herbs	Chicken	SPEC	chickens	: null	NONE
+26620841	Herbs	Chicken	SPEC	Chickens	: null	NONE
+26629628	Herbs	Chicken	SPEC	IBV	: null	NONE
+26629628	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+26946113	Herbs	Chicken	PROC	covalent	: immunized	NONE
+26946113	Herbs	Chicken	PROC	covalent	: immunized	NONE
+26946113	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+27277076	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+27277076	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+27277076	Herbs	Chicken	DISO	infection	: null	NONE
+27309300	Herbs	Chicken	DISO	Syndrome	: null	JUXSTAPOSE
+27309300	Herbs	Chicken	SPEC	Coronavirus	: null	JUXSTAPOSE
+27738043	Herbs	Chicken	SPEC	Avian coronavirus	: null	JUXSTAPOSE
+28012117	Herbs	Chicken	SPEC	chickens	: null	JUXSTAPOSE
+28012117	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	PRGE	cSP-A	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	DISO	cSP	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	CHED	protein	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	CHED	surfactant	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	PRGE	Chicken surfactant protein A	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	CHED	mRNA	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	PRGE	cSP-A mRNA	: determine	determine
+28619132	Herbs	Chicken	DISO	cSP	: determine	determine
+28619132	Herbs	Chicken	PROC	expression	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	COMP	sac	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	PROC	sac	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	ANAT	air sac	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	CHED	air	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	DISO	trachea	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	SPEC	trachea	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	ANAT	trachea	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	ANAT	lung	: sacrificed	sacrifice at
+28619132	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+28619132	Herbs	Chicken	SPEC	NDV	: sacrificed	sacrifice at
+28686880	Herbs	Chicken	DISO	bronchitis	: has	have
+28686880	Herbs	Chicken	DISO	infectious	: has	have
+28686880	Herbs	Chicken	CHED	antiviral	: has	have
+28686880	Herbs	Chicken	PROC	mannose binding lectin	: null	JUXSTAPOSE
+28686880	Herbs	Chicken	FUNC	mannose binding lectin	: null	JUXSTAPOSE
+28686880	Herbs	Chicken	PRGE	mannose binding lectin	: null	JUXSTAPOSE
+28686880	Herbs	Chicken	CHED	mannose	: null	JUXSTAPOSE
+28686880	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+28899630	Herbs	Chicken	CHED	proteins	: null	JUXSTAPOSE
+28899630	Herbs	Chicken	CHED	water	: primed	prime at
+28899630	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+28899630	Herbs	Chicken	COMP	cells	: primed	prime at
+28899630	Herbs	Chicken	ANAT	cells	: primed	prime at
+28899630	Herbs	Chicken	SPEC	mammalian	: null	JUXSTAPOSE
+28899630	Herbs	Chicken	SPEC	chickens	: null	NONE
+28899630	Herbs	Chicken	ANAT	tracheas	: null	NONE
+28899630	Herbs	Chicken	ANAT	tears	: null	NONE
+28899630	Herbs	Chicken	CHED	protein	: null	NONE
+28899630	Herbs	Chicken	PRGE	recombinant S-ectodomain protein	: immunized	NONE
+28899630	Herbs	Chicken	SPEC	Chickens	: null	NONE
+28933760	Herbs	Chicken	ANAT	Macrophage	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	PATH	Apoptosis	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	PROC	Apoptosis	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	DISO	Virus Infection	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	PROC	Virus Infection	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	SPEC	Virus	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+28933760	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+28956996	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+28956996	Herbs	Chicken	PRGE	Major Histocompatibility Complex Chicken	: null	JUXSTAPOSE
+28956996	Herbs	Chicken	PROC	Major Histocompatibility Complex	: null	JUXSTAPOSE
+28956996	Herbs	Chicken	ANAT	Major Histocompatibility Complex	: null	JUXSTAPOSE
+28956996	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+28956996	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+28956996	Herbs	Chicken	PROC	Immune Resistance	: null	JUXSTAPOSE
+28957002	Herbs	Chicken	SPEC	IBV	: challenged	challenge with
+28957002	Herbs	Chicken	PRGE	Ark	: challenged	challenge with
+28957002	Herbs	Chicken	SPEC	IBV	: boosted	PLAIN_PRIME_WEAK
+28957002	Herbs	Chicken	DISO	rLS	: boosted	PLAIN_PRIME_WEAK
+28957002	Herbs	Chicken	SPEC	IBV	: attenuated	PLAIN_PRIME_WEAK
+28957002	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+29337615	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+29337615	Herbs	Chicken	SPEC	Virus	: null	JUXSTAPOSE
+29337615	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+29337615	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+29620458	Herbs	Chicken	SPEC	Mycoplasma gallinaceum	: null	JUXSTAPOSE
+29620458	Herbs	Chicken	DISO	Mycoplasma	: null	JUXSTAPOSE
+29940196	Herbs	Chicken	PRGE	TUN	: infected	infect with
+29940196	Herbs	Chicken	SPEC	IBV	: infected	infect with
+29940196	Herbs	Chicken	PRGE	ECE	: infected	infect with
+29940196	Herbs	Chicken	CHED	CEL	: infected	infect with
+29940196	Herbs	Chicken	ANAT	lung	: infected	infect with
+29940196	Herbs	Chicken	ANAT	embryo	: null	JUXSTAPOSE
+29940196	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	SPEC	Virus	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	CHED	Protein	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	PRGE	S Protein	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	SPEC	NDV	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	SPEC	Newcastle Disease Virus	: null	JUXSTAPOSE
+30097608	Herbs	Chicken	DISO	Newcastle Disease	: null	JUXSTAPOSE
+30173857	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+30173857	Herbs	Chicken	SPEC	Virus	: null	JUXSTAPOSE
+30173857	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+30173857	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+30216376	Herbs	Chicken	DISO	virus shedding	: had	have
+30216376	Herbs	Chicken	SPEC	virus	: had	have
+30216376	Herbs	Chicken	SPEC	IBV	: null	JUXSTAPOSE
+30216376	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	DISO	Respiratory Diseases	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	SPEC	Viruses	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	DISO	Avian Influenza	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	SPEC	Avian	: null	JUXSTAPOSE
+30256035	Herbs	Chicken	DISO	Newcastle Disease	: null	JUXSTAPOSE
+30322525	Herbs	Chicken	ANAT	layers	: null	JUXSTAPOSE
+30322525	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	ANAT	Respiratory Tract	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	COMP	Cells	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	ANAT	Cells	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	DISO	Recruitment	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	CHED	Oligonucleotides	: null	JUXSTAPOSE
+30445707	Herbs	Chicken	SPEC	Ovo	: null	JUXSTAPOSE
+30827377	Herbs	Chicken	DISO	infectious	: enhances	UP-REGULATE_WEAK
+30827377	Herbs	Chicken	DISO	avian influenza	: enhances	UP-REGULATE_WEAK
+30827377	Herbs	Chicken	SPEC	avian	: enhances	UP-REGULATE_WEAK
+30827377	Herbs	Chicken	DISO	anaemia	: null	JUXSTAPOSE
+30827377	Herbs	Chicken	SPEC	Chicken anaemia virus	: null	JUXSTAPOSE
+30827377	Herbs	Chicken	SPEC	CAV	: null	JUXSTAPOSE
+30827377	Herbs	Chicken	DISO	anaemia	: null	JUXSTAPOSE
+30827377	Herbs	Chicken	SPEC	Chicken anaemia virus	: null	JUXSTAPOSE
+31199168	Herbs	Chicken	SPEC	NDV	: null	JUXSTAPOSE
+31199168	Herbs	Chicken	COMP	sera	: null	JUXSTAPOSE
+31199168	Herbs	Chicken	FUNC	sera	: null	JUXSTAPOSE
+31199168	Herbs	Chicken	ANAT	sera	: null	JUXSTAPOSE
+31199168	Herbs	Chicken	SPEC	Chicken	: null	JUXSTAPOSE
+31199168	Herbs	Chicken	SPEC	CAV	: null	JUXSTAPOSE
+31234434	Herbs	Chicken	SPEC	Porcine	: null	JUXSTAPOSE
+31234434	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+31251518	Herbs	Chicken	DISO	Bronchitis	: Induces	INTERACT_WITH_WEAK
+31251518	Herbs	Chicken	DISO	Infectious	: Induces	INTERACT_WITH
+31251518	Herbs	Chicken	PROC	Immunity	: Induces	INTERACT_WITH
+31251518	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+31561498	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+31561498	Herbs	Chicken	SPEC	Virus	: null	JUXSTAPOSE
+31561498	Herbs	Chicken	DISO	Bronchitis	: null	JUXSTAPOSE
+31561498	Herbs	Chicken	DISO	Infectious	: null	JUXSTAPOSE
+31561498	Herbs	Chicken	SPEC	Avian Coronavirus	: null	JUXSTAPOSE
+31573613	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+31573613	Herbs	Chicken	DISO	infection	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	COMP	Nucleocapsid	: targeting	METHOD_OF_WEAK
+31939251	Herbs	Chicken	ANAT	Nucleocapsid	: targeting	METHOD_OF_WEAK
+31939251	Herbs	Chicken	PROC	targeting	: targeting	METHOD_OF_WEAK
+31939251	Herbs	Chicken	FUNC	kit	: collected	METHOD_OF_WEAK
+31939251	Herbs	Chicken	SPEC	Numididae	: collected	collected
+31939251	Herbs	Chicken	SPEC	Guinea fowl	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Goose	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Anas platyrhynchos	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Duck	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Coturnix coturnix	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Perdix perdix	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Meleagris gallopavo	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Turkey	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Phasianus colchicus	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Gallus gallus	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	Chickens	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	species	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	SPEC	bird	: null	JUXSTAPOSE
+31939251	Herbs	Chicken	ANAT	Cloacal	: null	JUXSTAPOSE
+11029324	Herbs	Glucose	ANAT	plasma	: elevated	elevated
+11029324	Herbs	Glucose	PRGE	insulin	: null	JUXSTAPOSE
+11029324	Herbs	Glucose	CHED	insulin	: null	JUXSTAPOSE
+11029324	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+11075541	Herbs	Glucose	CHED	lactose	: null	JUXSTAPOSE
+11075541	Herbs	Glucose	CHED	galactose	: null	JUXSTAPOSE
+11075541	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+18269318	Herbs	Glucose	SPEC	human coronavirus 229E	: enhances	UP-REGULATE
+18269318	Herbs	Glucose	CHED	phosphate	: null	JUXSTAPOSE
+18269318	Herbs	Glucose	DISO	Glucose-6-phosphate dehydrogenase deficiency	: null	JUXSTAPOSE
+18269318	Herbs	Glucose	PRGE	Glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+18269318	Herbs	Glucose	ENZY	Glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+18269318	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+20369724	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	PROC	Upregulation	: Enhances	enhance through
+26694452	Herbs	Glucose	PRGE	NADPH Sensor HSCARG	: Enhances	enhance through
+26694452	Herbs	Glucose	CHED	NADPH	: Enhances	enhance through
+26694452	Herbs	Glucose	PROC	Downregulation	: Enhances	enhance through
+26694452	Herbs	Glucose	PROC	Antiviral Response	: Enhances	enhance through
+26694452	Herbs	Glucose	CHED	Antiviral	: Enhances	enhance through
+26694452	Herbs	Glucose	CHED	Phosphate	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	PRGE	Glucose-6-Phosphate Dehydrogenase	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	ENZY	Glucose-6-Phosphate Dehydrogenase	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	COMP	cells	: susceptible	susceptible
+26694452	Herbs	Glucose	ANAT	cells	: susceptible	susceptible
+26694452	Herbs	Glucose	PRGE	G6PD	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	ENZY	G6PD	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	CHED	phosphate	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	PRGE	Glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	ENZY	Glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+26694452	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+26774928	Herbs	Glucose	CHED	l-rhamnose	: null	JUXSTAPOSE
+26774928	Herbs	Glucose	CHED	d-Glucose	: null	JUXSTAPOSE
+26774928	Herbs	Glucose	PROC	synthesis	: null	JUXSTAPOSE
+26774928	Herbs	Glucose	DISO	SARs	: null	JUXSTAPOSE
+26880088	Herbs	Glucose	PRGE	G6PD	: cause	NONE
+26880088	Herbs	Glucose	ENZY	G6PD	: cause	NONE
+26880088	Herbs	Glucose	CHED	phosphate	: null	JUXSTAPOSE
+26880088	Herbs	Glucose	DISO	Glucose-6-phosphate dehydrogenase deficiency	: null	NONE
+26880088	Herbs	Glucose	PRGE	Glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+26880088	Herbs	Glucose	ENZY	Glucose-6-phosphate dehydrogenase	: null	JUXSTAPOSE
+26880088	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+26880088	Herbs	Glucose	CHED	Primaquine	: null	JUXSTAPOSE
+27097228	Herbs	Glucose	PROC	biosynthesis	: needs	NONE
+27097228	Herbs	Glucose	COMP	cellular	: needs	NONE
+27097228	Herbs	Glucose	ANAT	cellular	: needs	NONE
+27097228	Herbs	Glucose	CHED	NADPH	: needs	NONE
+27097228	Herbs	Glucose	CHED	reducing agent	: provides	NONE
+27097228	Herbs	Glucose	PRGE	G6PD	: provides	provide
+27097228	Herbs	Glucose	ENZY	G6PD	: provides	provide
+27097228	Herbs	Glucose	CHED	phosphate	: null	JUXSTAPOSE
+27097228	Herbs	Glucose	PRGE	Glucose-6-phosphate dehydrogenase	: null	NONE
+27097228	Herbs	Glucose	ENZY	Glucose-6-phosphate dehydrogenase	: null	NONE
+27097228	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+27097228	Herbs	Glucose	COMP	Cells	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	CHED	Glucose	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	PROC	Expression	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	PRGE	GLUT2	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	PRGE	SGLT1	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	DISO	Virus Infection	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	PROC	Virus Infection	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	SPEC	Virus	: null	JUXSTAPOSE
+27851758	Herbs	Glucose	DISO	Gastroenteritis	: null	JUXSTAPOSE
+32169481	Herbs	Glucose	PROC	docking	: using	METHOD_OF_WEAK
+32169481	Herbs	Glucose	PRGE	GRP78	: null	JUXSTAPOSE
+32169481	Herbs	Glucose	PRGE	Protein 78	: Regulated	PLAIN_REGULATE
+32169481	Herbs	Glucose	CHED	Protein	: Regulated	PLAIN_REGULATE
+32169481	Herbs	Glucose	CHED	Glucose	: Regulated	PLAIN_REGULATE
+32169481	Herbs	Glucose	COMP	cell	: null	JUXSTAPOSE
+32169481	Herbs	Glucose	ANAT	cell	: null	JUXSTAPOSE
+32169481	Herbs	Glucose	FUNC	binding	: null	JUXSTAPOSE
+32169481	Herbs	Glucose	DISO	COVID-19	: null	JUXSTAPOSE
+32169481	Herbs	Glucose	PROC	cell recognition	: null	JUXSTAPOSE
+26295655	Herbs	Ethanol	CHED	Ethanolamine	: null	JUXSTAPOSE
+26295655	Herbs	Ethanol	CHED	Polidocanol	: null	JUXSTAPOSE
+26295655	Herbs	Ethanol	DISO	Gastric Varices	: null	JUXSTAPOSE
+26295655	Herbs	Ethanol	ANAT	Gastric	: null	JUXSTAPOSE
+26295655	Herbs	Ethanol	DISO	Occluded	: null	JUXSTAPOSE
+27314007	Herbs	Ethanol	PRGE	butyrylcholinesterase	: leaves	leave
+27314007	Herbs	Ethanol	PRGE	acetylcholinesterase	: leaves	leave
+27314007	Herbs	Ethanol	ENZY	acetylcholinesterase	: leaves	leave
+27314007	Herbs	Ethanol	CHED	flavonoids	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	SPEC	Cauliflower Mosaic Virus	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	SPEC	tobacco	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	DISO	transformation	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	PROC	transformation	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	SPEC	Agrobacterium	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	SPEC	plants	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	SPEC	plants	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	SPEC	tobacco	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	COMP	cytosol	: null	JUXSTAPOSE
+16946403	Herbs	Cauliflower	ANAT	cytosol	: null	JUXSTAPOSE
+18241960	Herbs	Pomegranate	DISO	herpes	: inactivate	DOWN-REGULATE_WEAK
+18241960	Herbs	Pomegranate	DISO	influenza	: inactivate	DOWN-REGULATE_WEAK
+18241960	Herbs	Pomegranate	DISO	HIV	: null	JUXSTAPOSE
+18241960	Herbs	Pomegranate	SPEC	HIV	: null	JUXSTAPOSE
+20637243	Herbs	Pomegranate	DISO	PPs	: have	have
+20637243	Herbs	Pomegranate	CHED	polyphenols	: null	JUXSTAPOSE
+18258500	Herbs	Horseradish	ENZY	Peroxidase	: null	JUXSTAPOSE
+18258500	Herbs	Horseradish	PRGE	Horseradish Peroxidase	: null	JUXSTAPOSE
+18258500	Herbs	Horseradish	SPEC	Horseradish	: null	JUXSTAPOSE
+18258500	Herbs	Horseradish	COMP	antibodies	: null	JUXSTAPOSE
+18258500	Herbs	Horseradish	ANAT	column	: null	JUXSTAPOSE
+18258500	Herbs	Horseradish	CHED	agarose	: null	JUXSTAPOSE
+18258500	Herbs	Horseradish	CHED	Protein	: null	JUXSTAPOSE
+20934345	Herbs	Torreya	CHED	pro	: null	JUXSTAPOSE
+20934345	Herbs	Torreya	PRGE	SARS-CoV 3CL(pro)	: displaying	display
+20934345	Herbs	Torreya	DISO	SARS	: displaying	display
+20934345	Herbs	Torreya	SPEC	Torreya nucifera	: null	JUXSTAPOSE
+20934345	Herbs	Torreya	CHED	Biflavonoids	: null	JUXSTAPOSE
+20934345	Herbs	Torreya	SPEC	Torreya nucifera	: used	NONE
+20934345	Herbs	Torreya	CHED	inhibitors	: null	JUXSTAPOSE
+20934345	Herbs	Torreya	CHED	pro	: null	JUXSTAPOSE
+20934345	Herbs	Torreya	PRGE	SARS-CoV 3CL(pro)	: null	JUXSTAPOSE
+20934345	Herbs	Torreya	DISO	SARS	: null	JUXSTAPOSE
+17002634	Herbs	Tween 80	CHED	Triton X-100	: null	JUXSTAPOSE
+17002634	Herbs	Tween 80	CHED	Tween 80	: null	JUXSTAPOSE
+17002634	Herbs	Tween 80	CHED	sodium cholate	: null	JUXSTAPOSE
+11193350	Herbs	Carnation	SPEC	Carnation	: null	JUXSTAPOSE
+11193350	Herbs	Carnation	SPEC	chickens	: null	JUXSTAPOSE
+11193350	Herbs	Carnation	SPEC	Carnation	: null	JUXSTAPOSE
+11193350	Herbs	Carnation	DISO	abscesses	: null	JUXSTAPOSE
+11193350	Herbs	Carnation	SPEC	Carnation	: null	JUXSTAPOSE
+11193350	Herbs	Carnation	SPEC	order	: null	JUXSTAPOSE
+24731274	Herbs	Andrographis	PATH	DNA replication	: null	JUXSTAPOSE
+24731274	Herbs	Andrographis	PROC	DNA replication	: null	JUXSTAPOSE
+24731274	Herbs	Andrographis	DISO	HBV	: possessed	possess against
+24731274	Herbs	Andrographis	SPEC	HBV	: possessed	possess against
+24731274	Herbs	Andrographis	DISO	possessed	: null	JUXSTAPOSE
+24731274	Herbs	Andrographis	SPEC	Andrographis paniculata	: null	JUXSTAPOSE
+24731274	Herbs	Andrographis	CHED	diterpenoids	: null	JUXSTAPOSE
+24731274	Herbs	Andrographis	CHED	andrographolide	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	animals	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Pangolins	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Malayan Pangolins	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	DISO	Coronavirus Infection	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Coronavirus	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Sendai Virus	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	animals	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Pangolins	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Malayan Pangolins	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	DISO	Coronavirus Infection	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Coronavirus	: null	JUXSTAPOSE
+31652964	Herbs	Pangolin	SPEC	Sendai Virus	: null	JUXSTAPOSE
+32159237	Herbs	Pangolin	ENZY	bat	: showed	show with
+32159237	Herbs	Pangolin	SPEC	bat	: showed	show with
+32159237	Herbs	Pangolin	DISO	SARS	: null	JUXSTAPOSE
+32159237	Herbs	Pangolin	SPEC	SARS-CoV-2	: showed	show with
+32159237	Herbs	Pangolin	DISO	SARS	: showed	show with
+32159237	Herbs	Pangolin	PRGE	Beta-CoV	: showed	show with
+32159237	Herbs	Pangolin	PRGE	Pangolin	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	DISO	COVID-19	: Associated	associate with
+32197085	Herbs	Pangolin	PRGE	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	DISO	SARS	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	Pangolin Origin	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PROC	dead	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	Pangolin-CoV	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	SARS-CoV-2-like CoV	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	DISO	SARS	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	DISO	SARS	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	Pangolin-CoV	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	Pangolin-CoV	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	DISO	SARS	: related	related
+32197085	Herbs	Pangolin	PRGE	Pangolin-CoV	: related	related
+32197085	Herbs	Pangolin	CHED	protein	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	S1 protein	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	PRGE	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	SPEC	SARS-CoV-2	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	DISO	SARS	: null	JUXSTAPOSE
+32197085	Herbs	Pangolin	CHED	amino acid	: present	NONE
+32197085	Herbs	Pangolin	PRGE	SARS-CoV-2	: present	NONE
+32197085	Herbs	Pangolin	SPEC	SARS-CoV-2	: present	NONE
+32197085	Herbs	Pangolin	DISO	SARS	: present	NONE
+32197085	Herbs	Pangolin	PRGE	Pangolin-CoV	: null	NONE
+32197085	Herbs	Pangolin	PRGE	human ACE2	: consistent	consistent
+32197085	Herbs	Pangolin	SPEC	human	: consistent	consistent
+32197085	Herbs	Pangolin	CHED	amino acid	: consistent	consistent
+32197085	Herbs	Pangolin	PROC	cleavage	: observed	NONE
+32197085	Herbs	Pangolin	PRGE	furin recognition sequence	: lost	lose at
+32197085	Herbs	Pangolin	ENZY	furin	: lost	lose at
+32197085	Herbs	Pangolin	CHED	lost	: lost	lose at
+32197085	Herbs	Pangolin	PRGE	Pangolin-CoV	: null	NONE
+28542235	Herbs	Soybean	SPEC	PEDV	: null	JUXSTAPOSE
+28542235	Herbs	Soybean	SPEC	Soybean	: had	have for
+11731170	Herbs	Sucrose	ANAT	intestinal	: null	JUXSTAPOSE
+11731170	Herbs	Sucrose	SPEC	virus	: null	JUXSTAPOSE
+11731170	Herbs	Sucrose	CHED	Sucrose	: null	JUXSTAPOSE
+11731170	Herbs	Sucrose	COMP	antibody	: null	JUXSTAPOSE
+11731170	Herbs	Sucrose	PROC	antibody	: null	JUXSTAPOSE
+11731170	Herbs	Sucrose	FUNC	antibody	: null	JUXSTAPOSE
+15147946	Herbs	Sucrose	SPEC	virus	: incorporated	NONE
+15147946	Herbs	Sucrose	CHED	protein	: null	NONE
+15147946	Herbs	Sucrose	CHED	Sucrose	: null	JUXSTAPOSE
+11688526	Herbs	Auricula	DISO	chondritis	: null	JUXSTAPOSE
+11688526	Herbs	Auricula	ANAT	Auricular	: null	JUXSTAPOSE
+32170559	Herbs	huanglian	CHED	medicine	: null	JUXSTAPOSE
+32170559	Herbs	huanglian	DISO	COVID-19	: null	JUXSTAPOSE
+32170559	Herbs	huanglian	DISO	coronavirus disease 2019	: null	JUXSTAPOSE
+32170559	Herbs	huanglian	SPEC	coronavirus	: null	JUXSTAPOSE
+32170559	Herbs	huanglian	SPEC	family	: null	JUXSTAPOSE
+15143718	Herbs	huoxiang	DISO	SARS	: null	JUXSTAPOSE
+32170559	Herbs	huanghua	CHED	medicine	: null	JUXSTAPOSE
+32170559	Herbs	huanghua	DISO	COVID-19	: null	JUXSTAPOSE
+32170559	Herbs	huanghua	DISO	coronavirus disease 2019	: null	JUXSTAPOSE
+32170559	Herbs	huanghua	SPEC	coronavirus	: null	JUXSTAPOSE
+32170559	Herbs	huanghua	SPEC	family	: null	JUXSTAPOSE
