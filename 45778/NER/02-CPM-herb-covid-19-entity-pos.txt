@@ -1,0 +1,578 @@
+0x85y8ch	615	627	Oryza sativa	CPM
+
+3oxnox9j	564	576	Oryza sativa	CPM
+
+k2apj469	532	544	Oryza sativa	CPM
+
+gsgif6vn	97	109	Oryza sativa	CPM
+
+enq6kgab	1482	1494	Yin-Qiao-San	CPM
+
+enq6kgab	1520	1532	Yin-Qiao-San	CPM
+
+ywnr8d48	302	314	Yin-Qiao-San	CPM
+
+vn9e5nm3	23	36	Chou-Ling-Dan	CPM
+
+vn9e5nm3	221	234	Chou-Ling-Dan	CPM
+
+pxdqvk1p	41	50	Si-Ni-San	CPM
+
+pxdqvk1p	296	305	Si-Ni-San	CPM
+
+pxdqvk1p	473	482	Si-Ni-San	CPM
+
+pxdqvk1p	734	743	Si-Ni-San	CPM
+
+pxdqvk1p	903	912	Si-Ni-San	CPM
+
+pxdqvk1p	997	1006	Si-Ni-San	CPM
+
+pxdqvk1p	1134	1143	Si-Ni-San	CPM
+
+pxdqvk1p	1316	1325	Si-Ni-San	CPM
+
+pxdqvk1p	1389	1398	Si-Ni-San	CPM
+
+0204iiah	1713	1727	Qing-Long-Tang	CPM
+
+lku2g69k	19	30	Bai-Hu-Tang	CPM
+
+lku2g69k	185	196	Bai-Hu-Tang	CPM
+
+0204iiah	1708	1727	Xiao-Qing-Long-Tang	CPM
+
+vn9e5nm3	23	36	Chou-Ling-Dan	CPM
+
+vn9e5nm3	221	234	Chou-Ling-Dan	CPM
+
+0204iiah	1708	1727	Xiao-Qing-Long-Tang	CPM	
+
+0204iiah	1708	1727	Xiao-Qing-Long-Tang	CPM	
+
+0204iiah	1708	1727	Xiao-Qing-Long-Tang	CPM	
+
+0204iiah	1708	1727	Xiao-Qing-Long-Tang	CPM	
+
+0204iiah	1708	1727	Xiao-Qing-Long-Tang	CPM	
+
+0204iiah	1732	1750	Radix Platycodonis	CPM	
+
+0204iiah	1907	1925	Radix Platycodonis	CPM	
+
+0204iiah	1732	1750	Radix Platycodonis	CPM	
+
+0204iiah	1907	1925	Radix Platycodonis	CPM	
+
+0204iiah	1732	1750	Radix Platycodonis	CPM	
+
+0204iiah	1907	1925	Radix Platycodonis	CPM	
+
+0204iiah	1941	1957	Semen Armeniacae	CPM	
+
+0204iiah	1941	1957	Semen Armeniacae	CPM	
+
+0204iiah	1941	1957	Semen Armeniacae	CPM	
+
+0204iiah	1941	1957	Semen Armeniacae	CPM	
+
+0204iiah	1941	1957	Semen Armeniacae	CPM	
+
+0204iiah	1866	1896	Bulbus Fritillariae Thunbergii	CPM	
+
+0204iiah	1866	1896	Bulbus Fritillariae Thunbergii	CPM	
+
+0204iiah	1866	1896	Bulbus Fritillariae Thunbergii	CPM	
+
+0204iiah	1866	1896	Bulbus Fritillariae Thunbergii	CPM	
+
+0204iiah	1866	1896	Bulbus Fritillariae Thunbergii	CPM	
+
+enq6kgab	1482	1494	Yin-Qiao-San	CPM	
+
+enq6kgab	1520	1532	Yin-Qiao-San	CPM	
+
+enq6kgab	1482	1494	Yin-Qiao-San	CPM	
+
+enq6kgab	1520	1532	Yin-Qiao-San	CPM	
+
+enq6kgab	1482	1494	Yin-Qiao-San	CPM	
+
+enq6kgab	1520	1532	Yin-Qiao-San	CPM	
+
+ywnr8d48	302	314	Yin-Qiao-San	CPM	
+
+ywnr8d48	302	314	Yin-Qiao-San	CPM	
+
+ywnr8d48	302	314	Yin-Qiao-San	CPM	
+
+ywnr8d48	302	314	Yin-Qiao-San	CPM	
+
+ywnr8d48	302	314	Yin-Qiao-San	CPM	
+
+t0rhb7ee	182	189	Ying-He	Herbs	
+
+0204iiah	1898	1904	Bei-Mu	Herbs	
+
+j55qog5p	23	34	Ban-Lan-Gen	Herbs	
+
+j55qog5p	146	157	Ban-Lan-Gen	Herbs	
+
+hz0t8ovy	182	193	Ban-Lan-Gen	Herbs	
+
+81kxvj9o	240	247	Chai-Hu	Herbs	
+
+enq6kgab	1510	1518	Jie-Geng	Herbs	
+
+0204iiah	1752	1760	Jie-Geng	Herbs	
+
+0204iiah	1927	1935	Jie-Geng	Herbs	
+
+oaceknrb	71	80	Huo-Xiang	Herbs	
+
+0204iiah	1959	1967	Xing-Ren	Herbs	
+
+5h0jz1zv	46	56	Huang-Lian	Herbs	
+
+5h0jz1zv	121	131	Huang-Lian	Herbs	
+
+lku2g69k	19	30	Bai-Hu-Tang	CPM	
+
+lku2g69k	185	196	Bai-Hu-Tang	CPM	
+
+enq6kgab	1537	1556	Ma-Xing-Gan-Shi-Tang	CPM	
+
+0204iiah	1844	1863	Ma-Xing-Gan-Shi-Tang	CPM	
+
+fkjwsr5p	1192	1197	zhima		Herbs	
+
+fkjwsr5p	2030	2035	zhima		Herbs	
+
+fkjwsr5p	1195	1202	mahuang		Herbs	
+
+fkjwsr5p	2033	2040	mahuang		Herbs	
+
+i2l4cq8h	878	889	Donglingcao		Herbs	
+
+vkpqs61p	100	109	Banlangen		Herbs	
+
+vkpqs61p	279	288	Banlangen		Herbs	
+
+vkpqs61p	724	733	Banlangen		Herbs	
+
+vkpqs61p	1181	1190	Banlangen		Herbs	
+
+3whw2yld	118	127	Banlangen		Herbs	
+
+3whw2yld	361	370	Banlangen		Herbs	
+
+3whw2yld	728	737	Banlangen		Herbs	
+
+3whw2yld	977	986	Banlangen		Herbs	
+
+b644j4xm	1601	1605	ecui		Herbs	
+
+ccauw70y	116	122	Chaihu		Herbs	
+
+f06msmmr	22	28	Chaihu		Herbs	
+
+f06msmmr	105	111	Chaihu		Herbs	
+
+f06msmmr	187	193	Chaihu		Herbs	
+
+f06msmmr	261	267	Chaihu		Herbs	
+
+f06msmmr	417	423	Chaihu		Herbs	
+
+f06msmmr	499	505	Chaihu		Herbs	
+
+f06msmmr	688	694	Chaihu		Herbs	
+
+i2l4cq8h	814	820	Chaihu		Herbs	
+
+fkjwsr5p	1195	1200	mahua		Herbs	
+
+fkjwsr5p	2033	2038	mahua		Herbs	
+
+p7jctnk0	3782	3787	Zhuli		Herbs	
+
+fkjwsr5p	1189	1195	Guizhi		Herbs	
+
+fkjwsr5p	2027	2033	Guizhi		Herbs	
+
+o4pofqod	683	687	Kuli		Herbs	
+
+fa4ngoru	898	902	Kuli		Herbs	
+
+z4sutqos	545	554	Huangshan		Herbs	
+
+nmtfdt4e	392	396	Hulu		Herbs	
+
+c9ecid5e	2003	2011	Lianqiao		Herbs	
+
+a1uofzv3	8	12	awei		Herbs	
+
+0rq0wdpq	2113	2119	sanger		Herbs	
+
+wj7yonjw	753	759	sanger		Herbs	
+
+vsd813ah	871	877	Sanger		Herbs	
+
+wuk2arf9	1140	1146	Sanger		Herbs	
+
+piwp8umv	174	180	Sanger		Herbs	
+
+oq8gpl91	976	982	Sanger		Herbs	
+
+6i66zf0e	1584	1590	Sanger		Herbs	
+
+vm6g55bg	674	680	Sanger		Herbs	
+
+3uqlimov	838	844	Sanger		Herbs	
+
+3uqlimov	982	988	Sanger		Herbs	
+
+hzbh7s2t	1111	1117	Sanger		Herbs	
+
+47fpq4h9	519	525	Sanger		Herbs	
+
+5q7wdamu	545	551	Sanger		Herbs	
+
+dtwuav65	1028	1034	Sanger		Herbs	
+
+lrrkuist	237	243	Sanger		Herbs	
+
+jq3w0pnj	1071	1077	Sanger		Herbs	
+
+j3avpu1y	2323	2329	Sanger		Herbs	
+
+m6akijzn	917	923	Sanger		Herbs	
+
+2jlz4c58	638	644	Sanger		Herbs	
+
+t4215imq	703	709	Sanger		Herbs	
+
+tg6s41y3	412	418	Sanger		Herbs	
+
+76i8yvb4	1920	1926	Sanger		Herbs	
+
+zguy9ba7	612	618	Sanger		Herbs	
+
+zguy9ba7	1274	1280	Sanger		Herbs	
+
+zguy9ba7	2004	2010	Sanger		Herbs	
+
+hxmk6gvr	598	604	Sanger		Herbs	
+
+d5ghy39g	247	253	Sanger		Herbs	
+
+tl3uo3n9	907	913	Sanger		Herbs	
+
+ukutfv54	1974	1980	Sanger		Herbs	
+
+bftaepxe	625	631	Sanger		Herbs	
+
+bftaepxe	1329	1335	Sanger		Herbs	
+
+bftaepxe	2053	2059	Sanger		Herbs	
+
+ixyd6p6y	784	790	Sanger		Herbs	
+
+94mbxnss	697	703	Sanger		Herbs	
+
+cxqzac4a	455	461	Sanger		Herbs	
+
+f5u2o0rq	706	712	Sanger		Herbs	
+
+iqzurjr1	757	763	Sanger		Herbs	
+
+iqzurjr1	1667	1673	Sanger		Herbs	
+
+i34vmfpp	811	817	Sanger		Herbs	
+
+hstomkk5	1246	1252	Sanger		Herbs	
+
+uvm72cpi	581	587	Sanger		Herbs	
+
+0gi6qzw0	847	853	Sanger		Herbs	
+
+j9s17r55	2181	2187	Sanger		Herbs	
+
+sqkwxggh	667	673	Sanger		Herbs	
+
+sqkwxggh	1007	1013	Sanger		Herbs	
+
+zne049hw	777	783	Sanger		Herbs	
+
+gtcr19qr	58	68	Jinlianhua		Herbs	
+
+gtcr19qr	94	104	Jinlianhua		Herbs	
+
+mk62bybt	0	14	Lianhuaqingwen		CPM	
+
+mk62bybt	121	135	Lianhuaqingwen		CPM	
+
+oyilawob	511	525	Lianhuaqingwen		CPM	
+
+oyilawob	615	629	Lianhuaqingwen		CPM	
+
+oyilawob	693	707	Lianhuaqingwen		CPM	
+
+oyilawob	1529	1543	Lianhuaqingwen		CPM	
+
+hbv137e3	95	109	Lianhuaqingwen		Herbs	
+
+hbv137e3	140	154	Lianhua		Herbs	
+
+fkjwsr5p	17	24	xiangru		Herbs	
+
+fkjwsr5p	238	245	xiangru		Herbs	
+
+fkjwsr5p	532	539	xiangru		Herbs	
+
+fkjwsr5p	1090	1097	xiangru		Herbs	
+
+fkjwsr5p	2189	2196	xiangru		Herbs	
+
+viztw9jm	682	686	oumi		Herbs	
+
+1nkpd0yv	587	593	chushi		Herbs	
+
+ft0rc88k	397	401	Bohe		Herbs	
+
+krvei97r	687	691	Bohe		Herbs	
+
+ahm82ngx	7	14	Dihuang		Herbs	
+
+ahm82ngx	502	509	Dihuang		Herbs	
+
+qej5a8ks	72	77	Jugen		Herbs	
+
+1ahxau9k	1102	1109	mudanpi		Herbs	
+
+1ahxau9k	1237	1244	mudanpi		Herbs	
+
+3y5n75gw	897	901	Liyu		Herbs	
+
+ubferyqe	680	688	Huoxiang		Herbs	
+
+i2l4cq8h	974	984	chuanxiong		Herbs	
+
+i05h8csb	978	983	lugen		Herbs	
+
+dkmpayk4	541	554	Shuanghuanglian		Herbs	
+
+mkebdm73	1182	1195	Shuanghuanglian		Herbs	
+
+c9ecid5e	1971	1977	yinhua		Herbs	
+
+1vimqhdp	14112	14116	baji		Herbs	
+
+0vlkahyu	34	39	gegen		Herbs	
+
+cektbcar	1018	1023	gegen		Herbs	
+
+814xd4i4	1464	1469	gegen		Herbs	
+
+814xd4i4	1584	1589	gegen		Herbs	
+
+ot9r1zri	103	108	gegen		Herbs	
+
+bnjjtlvw	1138	1143	gegen		Herbs	
+
+bnjjtlvw	1235	1240	gegen		Herbs	
+
+bnjjtlvw	1385	1390	gegen		Herbs	
+
+bnjjtlvw	1449	1454	gegen		Herbs	
+
+bnjjtlvw	1475	1480	gegen		Herbs	
+
+bnjjtlvw	1541	1546	gegen		Herbs	
+
+sxpjyqbo	1143	1148	gegen		Herbs	
+
+eb3uj1nt	442	447	gegen		Herbs	
+
+bnjjtlvw	920	925	Gegen		Herbs	
+
+bnjjtlvw	1176	1181	Gegen		Herbs	
+
+z6b9fs1n	341	346	Gegen		Herbs	
+
+ahm82ngx	0	6	Xijiao		Herbs	
+
+ahm82ngx	495	501	Xijiao		Herbs	
+
+h81q345m	203	211	Heshouwu		Herbs	
+
+4lra2sih	544	550	Shiyan		Herbs	
+
+kn49944q	51	59	huangqin		Herbs	
+
+kn49944q	253	261	huangqin		Herbs	
+
+kn49944q	2268	2276	huangqin		Herbs	
+
+w84wwkgi	451	459	Huangqin		Herbs	
+
+c9ecid5e	1855	1861	Gancao		Herbs	
+
+z9o0ipz8	574	580	Gancao		Herbs	
+
+fkjwsr5p	1192	1202	zhimahuang		Herbs	
+
+fkjwsr5p	2030	2040	zhimahuang		Herbs	
+
+1vimqhdp	21089	21094	aishi		Herbs	
+
+8dr34x70	1221	1226	aishi		Herbs	
+
+kn49944q	51	58	huangqi		Herbs	
+
+kn49944q	253	260	huangqi		Herbs	
+
+kn49944q	2268	2275	huangqi		Herbs	
+
+c9ecid5e	1825	1832	Huangqi		Herbs	
+
+w84wwkgi	451	458	Huangqi		Herbs	
+
+xk6vdre4	290	297	Huangqi		Herbs	
+
+emr47mdy	285	292	Huangqi		Herbs	
+
+3leutp70	367	374	danshen		Herbs	
+
+3leutp70	560	567	danshen		Herbs	
+
+iec4mvh7	610	617	Danshen		Herbs	
+
+c9ecid5e	1933	1939	Baizhu		Herbs	
+
+xk6vdre4	341	347	Baizhu		Herbs	
+
+emr47mdy	336	342	Baizhu		Herbs	
+
+gb25ybwd	1365	1369	geye		Herbs	
+
+iit7e0dh	64	71	qinghao		Herbs	
+
+iit7e0dh	179	186	Qinghao		Herbs	
+
+iit7e0dh	555	562	Qinghao		Herbs	
+
+dkmpayk4	547	556	huanglian		Herbs	
+
+mkebdm73	1188	1197	huanglian		Herbs	
+
+qjke8d6n	165	174	Huanglian		Herbs	
+
+qjke8d6n	854	863	Huanglian		Herbs	
+
+h73ya64e	142	151	Huanglian		Herbs	
+
+c9ecid5e	1886	1894	Fangfeng		Herbs	
+
+xk6vdre4	379	387	Fangfeng		Herbs	
+
+emr47mdy	375	383	Fangfeng		Herbs	
+
+vkpqs61p	87	95	Daqingye		Herbs	
+
+vkpqs61p	266	274	Daqingye		Herbs	
+
+vkpqs61p	1168	1176	Daqingye		Herbs	
+
+ailr08y5	616	620	muer		Herbs	
+
+y8lbdtlb	294	298	muer		Herbs	
+
+56i4sikj	1238	1242	muer		Herbs	
+
+3leutp70	356	362	yunzhi		Herbs	
+
+3leutp70	549	555	yunzhi		Herbs	
+
+1ahxau9k	1104	1109	danpi		Herbs	
+
+1ahxau9k	1239	1244	danpi		Herbs	
+
+dxl7wvcx	84	89	Danpi		Herbs	
+
+dxl7wvcx	359	364	Danpi		Herbs	
+
+vkpqs61p	87	93	Daqing		Herbs	
+
+vkpqs61p	266	272	Daqing		Herbs	
+
+vkpqs61p	1168	1174	Daqing		Herbs	
+
+h81q345m	203	211	Heshouwu		Herbs	
+
+ij3ncdb6	27329	27336	Chan-Su		Herbs	
+
+t0rhb7ee	182	189	Ying-He		Herbs	
+
+0204iiah	1898	1904	Bei-Mu		Herbs	
+
+j55qog5p	23	34	Ban-Lan-Gen		Herbs	
+
+j55qog5p	146	157	Ban-Lan-Gen		Herbs	
+
+hz0t8ovy	182	193	Ban-Lan-Gen		Herbs	
+
+81kxvj9o	240	247	Chai-Hu		Herbs	
+
+enq6kgab	1510	1518	Jie-Geng		Herbs	
+
+0204iiah	1752	1760	Jie-Geng		Herbs	
+
+0204iiah	1927	1935	Jie-Geng		Herbss	
+
+oaceknrb	71	80	Huo-Xiang		Herbs	
+
+0204iiah	1959	1967	Xing-Ren		Herbs	
+
+5h0jz1zv	39	56	Shuang-Huang-Lian		Herbs	
+
+5h0jz1zv	114	131	Shuang-Huang-Lian		Herbs	
+
+lku2g69k	19	30	Bai-Hu-Tang		CPM	
+
+lku2g69k	185	196	Bai-Hu-Tang		CPM	
+
+1yto01tr	2333	2352	tamoxifen injection		CPM
+
+
+
+
+
+iaeimi8f	379	398	Xuebijing injection		CPM
+
+iaeimi8f	329	348	Xuebijing injection		CPM
+
+
+
+sxsuwvt5	21	40	Xuebijing injection		CPM
+
+sxsuwvt5	570	589	Xuebijing injection		CPM
+
+
+sxsuwvt5	21	40	Xuebijing injection		CPM
+
+sxsuwvt5	570	589	Xuebijing injection		CPM
+
+sxsuwvt5	1499	1518	Xuebijing injection		CPM
+
+sxsuwvt5	21	40	Xuebijing injection		CPM
+
+
+w2yt76nd	17	33	Shenfu Injection		CPM
+
+
+uazbc26u	46	63	Danhong Injection		CPM
+
+duwhazer	0	19	Tanreqing Injection		CPM
+oyilawob	716	648	Lianhuaqingwen capsules		CPM
+

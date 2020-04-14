@@ -1,0 +1,608 @@
+28479245	245	251	ge-gen	Herbs
+23128501	497	503	lichen	Herbs
+15189663	914	919	ge-gu	Herbs
+29920152	1269	1274	ge-gu	Herbs
+21533772	593	598	mo-di	Herbs
+15683852	703	711	licorice	Herbs
+17886224	1310	1318	licorice	Herbs
+24520776	41	49	licorice	Herbs
+24520776	199	207	licorice	Herbs
+24520776	289	297	licorice	Herbs
+24520776	399	407	licorice	Herbs
+24520776	631	639	licorice	Herbs
+24520776	763	771	licorice	Herbs
+28175983	391	399	licorice	Herbs
+29971802	21	29	mushroom	Herbs
+29971802	140	148	mushroom	Herbs
+29971802	323	331	mushroom	Herbs
+32162896	635	643	mushroom	Herbs
+23871041	2	9	sorghum	Herbs
+23871041	311	318	sorghum	Herbs
+23871041	915	922	sorghum	Herbs
+15338705	247	254	dolphin	Herbs
+15338705	355	362	dolphin	Herbs
+24227844	32	39	dolphin	Herbs
+24227844	480	487	dolphin	Herbs
+24227844	535	542	dolphin	Herbs
+24227844	1816	1823	dolphin	Herbs
+31939251	194	201	dolphin	Herbs
+18936097	17	31	human placenta	Herbs
+15937562	762	771	green tea	Herbs
+26490660	1837	1846	green tea	Herbs
+10925561	1219	1226	glucose	Herbs
+10925561	1378	1385	glucose	Herbs
+11029324	666	673	glucose	Herbs
+11029324	1242	1249	glucose	Herbs
+11029324	1750	1757	glucose	Herbs
+11075541	465	472	glucose	Herbs
+11075541	981	988	glucose	Herbs
+11075541	1016	1023	glucose	Herbs
+11891211	28	35	glucose	Herbs
+11891211	477	484	glucose	Herbs
+12046966	974	981	glucose	Herbs
+12046966	1315	1322	glucose	Herbs
+12046966	1423	1430	glucose	Herbs
+12061357	1251	1258	glucose	Herbs
+12123102	1194	1201	glucose	Herbs
+12225608	98	105	glucose	Herbs
+12225608	686	693	glucose	Herbs
+12352044	408	415	glucose	Herbs
+12352044	439	446	glucose	Herbs
+12519324	628	635	glucose	Herbs
+12519324	821	828	glucose	Herbs
+12519324	1128	1135	glucose	Herbs
+12519324	1197	1204	glucose	Herbs
+12895319	1025	1032	glucose	Herbs
+12895319	1561	1568	glucose	Herbs
+12905759	54	61	glucose	Herbs
+12905759	246	253	glucose	Herbs
+12905759	935	942	glucose	Herbs
+12905759	1177	1184	glucose	Herbs
+12905759	1718	1725	glucose	Herbs
+12905759	2069	2076	glucose	Herbs
+15059370	562	569	glucose	Herbs
+15088499	2370	2377	glucose	Herbs
+15090974	2964	2971	glucose	Herbs
+15090974	3763	3770	glucose	Herbs
+15452254	710	717	glucose	Herbs
+15489935	758	765	glucose	Herbs
+15489935	907	914	glucose	Herbs
+15489935	1071	1078	glucose	Herbs
+15489935	1097	1104	glucose	Herbs
+15489935	1185	1192	glucose	Herbs
+15489935	1278	1285	glucose	Herbs
+15489935	1444	1451	glucose	Herbs
+15489935	3331	3338	glucose	Herbs
+15575634	411	418	glucose	Herbs
+15642467	741	748	glucose	Herbs
+15716562	273	280	glucose	Herbs
+15818093	1183	1190	glucose	Herbs
+15894601	502	509	glucose	Herbs
+16357284	1841	1848	glucose	Herbs
+16505662	669	676	glucose	Herbs
+16505662	727	734	glucose	Herbs
+16505662	757	764	glucose	Herbs
+16505662	962	969	glucose	Herbs
+16573417	1693	1700	glucose	Herbs
+16759303	7	14	glucose	Herbs
+16759303	209	216	glucose	Herbs
+16940539	677	684	glucose	Herbs
+17003853	740	747	glucose	Herbs
+17215045	1800	1807	glucose	Herbs
+17428553	978	985	glucose	Herbs
+17611489	922	929	glucose	Herbs
+17711565	1199	1206	glucose	Herbs
+18026162	542	549	glucose	Herbs
+18026162	882	889	glucose	Herbs
+18026162	1653	1660	glucose	Herbs
+18058085	4009	4016	glucose	Herbs
+18158437	4080	4087	glucose	Herbs
+18269318	219	226	glucose	Herbs
+18334145	935	942	glucose	Herbs
+18766100	1448	1455	glucose	Herbs
+18766100	1517	1524	glucose	Herbs
+18766100	1624	1631	glucose	Herbs
+18766100	1708	1715	glucose	Herbs
+19333547	484	491	glucose	Herbs
+19333547	1102	1109	glucose	Herbs
+19333547	1531	1538	glucose	Herbs
+19531940	1766	1773	glucose	Herbs
+20017765	813	820	glucose	Herbs
+20017765	1609	1616	glucose	Herbs
+20186475	636	643	glucose	Herbs
+20186475	1036	1043	glucose	Herbs
+20186475	1266	1273	glucose	Herbs
+20367908	1165	1172	glucose	Herbs
+20369724	1248	1255	glucose	Herbs
+20369724	2066	2073	glucose	Herbs
+21467829	113	120	glucose	Herbs
+21729006	1522	1529	glucose	Herbs
+23095138	671	678	glucose	Herbs
+23101079	176	183	glucose	Herbs
+23101079	252	259	glucose	Herbs
+23101079	348	355	glucose	Herbs
+23101079	844	851	glucose	Herbs
+23101079	1701	1708	glucose	Herbs
+23101079	1893	1900	glucose	Herbs
+23221137	1855	1862	glucose	Herbs
+23353941	5168	5175	glucose	Herbs
+23353941	5240	5247	glucose	Herbs
+23353941	5297	5304	glucose	Herbs
+23353941	5698	5705	glucose	Herbs
+23361625	5136	5143	glucose	Herbs
+23361625	5208	5215	glucose	Herbs
+23361625	5264	5271	glucose	Herbs
+23361625	5664	5671	glucose	Herbs
+23364437	1364	1371	glucose	Herbs
+23514667	611	618	glucose	Herbs
+24074819	373	380	glucose	Herbs
+24074819	406	413	glucose	Herbs
+24074819	858	865	glucose	Herbs
+24074819	929	936	glucose	Herbs
+24074819	1171	1178	glucose	Herbs
+24074819	1860	1867	glucose	Herbs
+24285266	1261	1268	glucose	Herbs
+24610533	1245	1252	glucose	Herbs
+24610533	1321	1328	glucose	Herbs
+24681123	50	57	glucose	Herbs
+24681123	1009	1016	glucose	Herbs
+24681123	1493	1500	glucose	Herbs
+25348530	335	342	glucose	Herbs
+25746507	186	193	glucose	Herbs
+25746507	1213	1220	glucose	Herbs
+25746507	1296	1303	glucose	Herbs
+26050646	688	695	glucose	Herbs
+26149150	828	835	glucose	Herbs
+26149150	981	988	glucose	Herbs
+26149150	1644	1651	glucose	Herbs
+26493798	60	67	glucose	Herbs
+26493798	493	500	glucose	Herbs
+26573211	408	415	glucose	Herbs
+27065122	1546	1553	glucose	Herbs
+27065122	2046	2053	glucose	Herbs
+27379022	1187	1194	glucose	Herbs
+27426070	948	955	glucose	Herbs
+27426070	2610	2617	glucose	Herbs
+27591273	1048	1055	glucose	Herbs
+27591273	1305	1312	glucose	Herbs
+27591273	1777	1784	glucose	Herbs
+27591273	1914	1921	glucose	Herbs
+27619845	1870	1877	glucose	Herbs
+27851758	443	450	glucose	Herbs
+27851758	520	527	glucose	Herbs
+27851758	567	574	glucose	Herbs
+27851758	692	699	glucose	Herbs
+27851758	807	814	glucose	Herbs
+27851758	929	936	glucose	Herbs
+27851758	994	1001	glucose	Herbs
+28406814	979	986	glucose	Herbs
+28831119	597	604	glucose	Herbs
+29378029	1400	1407	glucose	Herbs
+29887526	857	864	glucose	Herbs
+30020248	1526	1533	glucose	Herbs
+30439321	1025	1032	glucose	Herbs
+31032205	964	971	glucose	Herbs
+31141512	1195	1202	glucose	Herbs
+31782110	973	980	glucose	Herbs
+32186172	998	1005	glucose	Herbs
+29330815	22	30	rosemary	Herbs
+29330815	233	241	rosemary	Herbs
+15007360	758	767	cockroach	Herbs
+15007360	845	854	cockroach	Herbs
+15288617	547	555	baicalin	Herbs
+31220864	28	35	ginseng	Herbs
+31220864	387	394	ginseng	Herbs
+15763380	47	54	matrine	Herbs
+15763380	144	151	matrine	Herbs
+15763380	399	406	matrine	Herbs
+15763380	490	497	matrine	Herbs
+15763380	886	893	matrine	Herbs
+15763380	1022	1029	matrine	Herbs
+15763380	1263	1270	matrine	Herbs
+25737008	111	121	capillaris	Herbs
+25737008	221	231	capillaris	Herbs
+25737008	388	398	capillaris	Herbs
+15807759	1028	1035	essence	Herbs
+15807759	1346	1353	essence	Herbs
+19747256	1225	1232	essence	Herbs
+20734842	561	568	essence	Herbs
+24604562	279	286	essence	Herbs
+26709006	1191	1198	essence	Herbs
+26905827	608	615	essence	Herbs
+31633330	558	569	citric acid	Herbs
+31614169	424	438	silkworm larva	Herbs
+31614169	663	677	silkworm larva	Herbs
+31614169	994	1008	silkworm larva	Herbs
+31614169	1791	1805	silkworm larva	Herbs
+11208632	1620	1627	ethanol	Herbs
+11719746	846	853	ethanol	Herbs
+11934806	850	857	ethanol	Herbs
+12093716	677	684	ethanol	Herbs
+12682442	1040	1047	ethanol	Herbs
+15072305	421	428	ethanol	Herbs
+15072305	674	681	ethanol	Herbs
+15131160	971	978	ethanol	Herbs
+15461435	196	203	ethanol	Herbs
+15534914	1112	1119	ethanol	Herbs
+15534914	1496	1503	ethanol	Herbs
+15631008	501	508	ethanol	Herbs
+15631008	648	655	ethanol	Herbs
+15923059	639	646	ethanol	Herbs
+15923059	677	684	ethanol	Herbs
+15923059	720	727	ethanol	Herbs
+15923059	1176	1183	ethanol	Herbs
+15987362	485	492	ethanol	Herbs
+16026862	353	360	ethanol	Herbs
+16176089	622	629	ethanol	Herbs
+16176089	823	830	ethanol	Herbs
+16195659	300	307	ethanol	Herbs
+16195659	319	326	ethanol	Herbs
+16195659	349	356	ethanol	Herbs
+16195659	799	806	ethanol	Herbs
+16195659	1212	1219	ethanol	Herbs
+16307826	59	66	ethanol	Herbs
+16307826	153	160	ethanol	Herbs
+16307826	719	726	ethanol	Herbs
+16307826	1080	1087	ethanol	Herbs
+16340449	8	15	ethanol	Herbs
+16340449	137	144	ethanol	Herbs
+16422144	955	962	ethanol	Herbs
+16422144	1055	1062	ethanol	Herbs
+16422144	1074	1081	ethanol	Herbs
+16422144	1171	1178	ethanol	Herbs
+16422144	1243	1250	ethanol	Herbs
+16422144	1501	1508	ethanol	Herbs
+16490989	501	508	ethanol	Herbs
+16490989	648	655	ethanol	Herbs
+16507566	952	959	ethanol	Herbs
+16563102	744	751	ethanol	Herbs
+16843832	1324	1331	ethanol	Herbs
+16991004	547	554	ethanol	Herbs
+19429341	562	569	ethanol	Herbs
+19692148	1412	1419	ethanol	Herbs
+20934345	245	252	ethanol	Herbs
+21256627	715	722	ethanol	Herbs
+21256627	807	814	ethanol	Herbs
+21256627	848	855	ethanol	Herbs
+21256627	949	956	ethanol	Herbs
+21256627	1030	1037	ethanol	Herbs
+21256627	1055	1062	ethanol	Herbs
+21256627	1116	1123	ethanol	Herbs
+21256627	1197	1204	ethanol	Herbs
+21256627	1222	1229	ethanol	Herbs
+21922588	416	423	ethanol	Herbs
+22310499	614	621	ethanol	Herbs
+23285797	209	216	ethanol	Herbs
+23323951	277	284	ethanol	Herbs
+23323951	484	491	ethanol	Herbs
+23821410	689	696	ethanol	Herbs
+24028651	2070	2077	ethanol	Herbs
+24433341	412	419	ethanol	Herbs
+24882413	216	223	ethanol	Herbs
+26190637	1335	1342	ethanol	Herbs
+26295655	328	335	ethanol	Herbs
+26295655	378	385	ethanol	Herbs
+26295655	967	974	ethanol	Herbs
+26295655	1092	1099	ethanol	Herbs
+26295655	1439	1446	ethanol	Herbs
+26295655	1595	1602	ethanol	Herbs
+26295655	1752	1759	ethanol	Herbs
+27314007	711	718	ethanol	Herbs
+27314007	1033	1040	ethanol	Herbs
+27314007	1244	1251	ethanol	Herbs
+27892522	938	945	ethanol	Herbs
+28091625	587	594	ethanol	Herbs
+28540745	686	693	ethanol	Herbs
+29397771	182	189	ethanol	Herbs
+29716960	602	609	ethanol	Herbs
+29941207	267	274	ethanol	Herbs
+29941207	584	591	ethanol	Herbs
+29941207	677	684	ethanol	Herbs
+31560964	46	53	ethanol	Herbs
+31560964	619	626	ethanol	Herbs
+32035997	1055	1062	ethanol	Herbs
+32116147	699	706	ethanol	Herbs
+25332402	1147	1158	cauliflower	Herbs
+18241960	1563	1574	pomegranate	Herbs
+18241960	2104	2115	pomegranate	Herbs
+20637243	63	74	pomegranate	Herbs
+20637243	322	333	pomegranate	Herbs
+20637243	344	355	pomegranate	Herbs
+20637243	1393	1404	pomegranate	Herbs
+10706964	855	862	alfalfa	Herbs
+17629993	57	65	wild pea	Herbs
+17629993	159	167	wild pea	Herbs
+11006996	548	559	horseradish	Herbs
+15941537	1393	1404	horseradish	Herbs
+18504193	452	463	horseradish	Herbs
+25745958	495	506	horseradish	Herbs
+15131160	854	864	pig kidney	Herbs
+26908211	847	857	pig kidney	Herbs
+11080722	1538	1548	watermelon	Herbs
+23562481	55	64	red fruit	Herbs
+27059240	95	104	red fruit	Herbs
+27059240	230	239	red fruit	Herbs
+30969980	681	690	red fruit	Herbs
+19409089	238	246	tween 80	Herbs
+26193715	826	834	tween 80	Herbs
+26733065	268	276	tween 80	Herbs
+27693376	732	740	tween 80	Herbs
+15921605	1807	1822	common pheasant	Herbs
+12771616	1594	1603	honeycomb	Herbs
+15363323	1846	1855	honeycomb	Herbs
+23745455	1119	1129	heliotrope	Herbs
+15642467	539	550	acetic acid	Herbs
+16944772	437	448	acetic acid	Herbs
+24127026	796	807	acetic acid	Herbs
+30779905	1163	1174	acetic acid	Herbs
+31259726	399	410	acetic acid	Herbs
+30628571	578	588	watercress	Herbs
+28866271	439	447	cucumber	Herbs
+21396016	1325	1333	pangolin	Herbs
+31652964	204	212	pangolin	Herbs
+32057211	495	503	pangolin	Herbs
+32100877	1268	1276	pangolin	Herbs
+32104911	492	500	pangolin	Herbs
+32143990	806	814	pangolin	Herbs
+32149769	612	620	pangolin	Herbs
+32149769	640	648	pangolin	Herbs
+32149769	847	855	pangolin	Herbs
+32149769	2334	2342	pangolin	Herbs
+32159237	918	926	pangolin	Herbs
+32197085	402	410	pangolin	Herbs
+32197085	610	618	pangolin	Herbs
+32197085	1279	1287	pangolin	Herbs
+32201080	429	437	pangolin	Herbs
+32201080	598	606	pangolin	Herbs
+11994472	1431	1438	soybean	Herbs
+22903075	1502	1509	soybean	Herbs
+22903075	1970	1977	soybean	Herbs
+26968372	399	406	soybean	Herbs
+26968372	1851	1858	soybean	Herbs
+28542235	521	528	soybean	Herbs
+28542235	1335	1342	soybean	Herbs
+28542235	1774	1781	soybean	Herbs
+28711219	359	366	soybean	Herbs
+11134297	245	252	sucrose	Herbs
+11134297	641	648	sucrose	Herbs
+11161278	831	838	sucrose	Herbs
+11714959	854	861	sucrose	Herbs
+11731170	679	686	sucrose	Herbs
+12088828	460	467	sucrose	Herbs
+12088828	550	557	sucrose	Herbs
+12088828	664	671	sucrose	Herbs
+12088828	1064	1071	sucrose	Herbs
+12088828	1317	1324	sucrose	Herbs
+14738983	364	371	sucrose	Herbs
+15020242	1046	1053	sucrose	Herbs
+16254320	814	821	sucrose	Herbs
+16352545	679	686	sucrose	Herbs
+16840309	523	530	sucrose	Herbs
+17344286	221	228	sucrose	Herbs
+18550663	681	688	sucrose	Herbs
+20484561	1136	1143	sucrose	Herbs
+21538303	409	416	sucrose	Herbs
+25720476	763	770	sucrose	Herbs
+26360521	516	523	sucrose	Herbs
+27257648	561	568	sucrose	Herbs
+28081264	471	478	sucrose	Herbs
+32033844	756	763	sucrose	Herbs
+21620914	24	32	scorpion	Herbs
+21620914	711	719	scorpion	Herbs
+21620914	1644	1652	scorpion	Herbs
+22536342	29	37	scorpion	Herbs
+22536342	290	298	scorpion	Herbs
+22536342	430	438	scorpion	Herbs
+22536342	552	560	scorpion	Herbs
+25549940	69	77	scorpion	Herbs
+25549940	321	329	scorpion	Herbs
+25549940	1184	1192	scorpion	Herbs
+25549940	1504	1512	scorpion	Herbs
+25601496	242	250	scorpion	Herbs
+25601496	527	535	scorpion	Herbs
+25601496	1709	1717	scorpion	Herbs
+15937562	773	783	oolong tea	Herbs
+15937562	910	920	oolong tea	Herbs
+11588725	982	990	auricula	Herbs
+11688526	351	359	auricula	Herbs
+16045877	908	916	auricula	Herbs
+20466573	461	469	auricula	Herbs
+23211207	325	333	auricula	Herbs
+25683083	24	32	Angelica	Herbs
+25683083	394	402	Angelica	Herbs
+27765358	407	414	Rhubarb	Herbs
+24520776	52	60	Licorice	Herbs
+10935276	947	954	Chicken	Herbs
+11332499	182	189	Chicken	Herbs
+11798465	0	7	Chicken	Herbs
+12239288	1155	1162	Chicken	Herbs
+12243532	314	321	Chicken	Herbs
+12296388	195	202	Chicken	Herbs
+12495055	1595	1602	Chicken	Herbs
+12495588	0	7	Chicken	Herbs
+15008570	60	67	Chicken	Herbs
+15219399	630	637	Chicken	Herbs
+16917113	569	576	Chicken	Herbs
+17431755	117	124	Chicken	Herbs
+17626488	1116	1123	Chicken	Herbs
+17643500	0	7	Chicken	Herbs
+18501701	590	597	Chicken	Herbs
+19057860	100	107	Chicken	Herbs
+19543689	923	930	Chicken	Herbs
+19909524	282	289	Chicken	Herbs
+19946715	372	379	Chicken	Herbs
+20046025	382	389	Chicken	Herbs
+20201174	0	7	Chicken	Herbs
+20201174	792	799	Chicken	Herbs
+20201174	1773	1780	Chicken	Herbs
+20307574	1116	1123	Chicken	Herbs
+21593235	754	761	Chicken	Herbs
+22080012	1112	1119	Chicken	Herbs
+22566769	769	776	Chicken	Herbs
+22835899	532	539	Chicken	Herbs
+22835899	915	922	Chicken	Herbs
+23050466	1201	1208	Chicken	Herbs
+23388447	271	278	Chicken	Herbs
+23388447	509	516	Chicken	Herbs
+24283135	1094	1101	Chicken	Herbs
+24305086	994	1001	Chicken	Herbs
+24758121	952	959	Chicken	Herbs
+25343382	133	140	Chicken	Herbs
+25343382	413	420	Chicken	Herbs
+25720470	100	107	Chicken	Herbs
+25720471	71	78	Chicken	Herbs
+26090700	29	36	Chicken	Herbs
+26223977	468	475	Chicken	Herbs
+26301315	85	92	Chicken	Herbs
+26620841	1422	1429	Chicken	Herbs
+26629628	239	246	Chicken	Herbs
+26946113	509	516	Chicken	Herbs
+27277076	769	776	Chicken	Herbs
+27277076	840	847	Chicken	Herbs
+27309300	67	74	Chicken	Herbs
+27738043	74	81	Chicken	Herbs
+28012117	76	83	Chicken	Herbs
+28619132	128	135	Chicken	Herbs
+28619132	682	689	Chicken	Herbs
+28686880	0	7	Chicken	Herbs
+28899630	943	950	Chicken	Herbs
+28899630	1136	1143	Chicken	Herbs
+28933760	78	85	Chicken	Herbs
+28956996	96	103	Chicken	Herbs
+28957002	1026	1033	Chicken	Herbs
+29337615	124	131	Chicken	Herbs
+29620458	73	80	Chicken	Herbs
+29940196	417	424	Chicken	Herbs
+30097608	111	118	Chicken	Herbs
+30173857	98	105	Chicken	Herbs
+30216376	1231	1238	Chicken	Herbs
+30256035	124	131	Chicken	Herbs
+30322525	893	900	Chicken	Herbs
+30445707	150	157	Chicken	Herbs
+30827377	0	7	Chicken	Herbs
+30827377	273	280	Chicken	Herbs
+31199168	602	609	Chicken	Herbs
+31234434	18	25	Chicken	Herbs
+31251518	21	28	Chicken	Herbs
+31561498	76	83	Chicken	Herbs
+31573613	1139	1146	Chicken	Herbs
+31939251	571	578	Chicken	Herbs
+11029324	1154	1161	Glucose	Herbs
+11075541	0	7	Glucose	Herbs
+18269318	0	7	Glucose	Herbs
+20369724	2116	2123	Glucose	Herbs
+26694452	0	7	Glucose	Herbs
+26694452	145	152	Glucose	Herbs
+26774928	530	537	Glucose	Herbs
+26880088	6123	6130	Glucose	Herbs
+27097228	126	133	Glucose	Herbs
+27851758	94	101	Glucose	Herbs
+32169481	353	360	Glucose	Herbs
+26295655	122	129	Ethanol	Herbs
+27314007	393	400	Ethanol	Herbs
+16946403	1393	1404	Cauliflower	Herbs
+18241960	1769	1780	Pomegranate	Herbs
+20637243	128	139	Pomegranate	Herbs
+18258500	821	832	Horseradish	Herbs
+20934345	18	25	Torreya	Herbs
+20934345	165	172	Torreya	Herbs
+17002634	1252	1260	Tween 80	Herbs
+11193350	473	482	Carnation	Herbs
+11193350	665	674	Carnation	Herbs
+11193350	783	792	Carnation	Herbs
+24731274	251	263	Andrographis	Herbs
+31652964	78	86	Pangolin	Herbs
+31652964	90	98	Pangolin	Herbs
+31652964	371	379	Pangolin	Herbs
+32159237	1427	1435	Pangolin	Herbs
+32197085	9	17	Pangolin	Herbs
+32197085	580	588	Pangolin	Herbs
+32197085	621	629	Pangolin	Herbs
+32197085	758	766	Pangolin	Herbs
+32197085	836	844	Pangolin	Herbs
+32197085	1015	1023	Pangolin	Herbs
+32197085	1102	1110	Pangolin	Herbs
+28542235	1174	1181	Soybean	Herbs
+11731170	419	426	Sucrose	Herbs
+15147946	617	624	Sucrose	Herbs
+25549940	146	154	Scorpion	Herbs
+11688526	0	8	Auricula	Herbs
+32170559	547	556	huanglian	Herbs
+15143718	87	95	huoxiang	Herbs
+32170559	542	550	huanghua	Herbs
+25740376	45	51	chisan	CPM
+
+25740376	538	544	chisan	CPM
+
+25740376	687	693	chisan	CPM
+
+25740376	814	820	chisan	CPM
+
+25740376	1039	1045	chisan	CPM
+
+25740376	1166	1172	chisan	CPM
+
+25740376	45	51	chisan	CPM
+
+25740376	538	544	chisan	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+32065348	1939	1948	Jinyinhua	CPM
+
+26138424	1130	1149	Xuebijing injection	CPM
+
+26138424	1130	1149	Xuebijing injection	CPM
+
+26138424	1130	1149	Xuebijing injection	CPM
+
+26138424	1130	1149	Xuebijing injection	CPM
+
+26138424	1130	1149	Xuebijing injection	CPM
+
+31996494	1069	1090	ShuFengJieDu Capsules	CPM
+
+31996494	1069	1090	ShuFengJieDu Capsules	CPM
+
+31996494	1069	1090	ShuFengJieDu Capsules	CPM
+
+31996494	1069	1090	ShuFengJieDu Capsules	CPM
+
+31996494	1069	1090	ShuFengJieDu Capsules	CPM
+
+32170559	543	558	Shuanghuanglian	CPM
+
+32170559	543	558	Shuanghuanglian	CPM
+
+32170559	543	558	Shuanghuanglian	CPM
+
+32170559	543	558	Shuanghuanglian	CPM
+
+32170559	543	558	Shuanghuanglian	CPM
+
+27175331	582	603	Xi-Yan-Ping Injection	CPM
+
+27175331	582	603	Xi-Yan-Ping Injection	CPM
+
+27175331	582	603	Xi-Yan-Ping Injection	CPM
+
+27175331	582	603	Xi-Yan-Ping Injection	CPM
+
+27175331	582	603	Xi-Yan-Ping Injection	CPM
+

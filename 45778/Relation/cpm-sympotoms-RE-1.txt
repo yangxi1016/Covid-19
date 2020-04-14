@@ -1,0 +1,267 @@
+NO.	E_type1	Entity1	E_type2	Entity2	KeyWord	Relation
+gtcr19qr	Symptoms	Disease	Drug	Jinlianhua	: null	JUXSTAPOSE
+
+dkmpayk4	Symptoms	Disease	Drug	Shuanghuanglian	: treated	METHOD_OF_WEAK
+
+dkmpayk4	Symptoms	Disease	Drug	huanglian	: treated	METHOD_OF_WEAK
+
+dkmpayk4	Symptoms	virus	Drug	Shuanghuanglian	: treated	METHOD_OF_WEAK
+
+dkmpayk4	Symptoms	virus	Drug	huanglian	: treated	METHOD_OF_WEAK
+
+piwp8umv	Symptoms	virus	Drug	Sanger	: sequenced	sequence by
+
+814xd4i4	Symptoms	virus	Drug	gegen	: null	JUXSTAPOSE
+
+814xd4i4	Symptoms	virus	Drug	gegen	: null	JUXSTAPOSE
+
+pxdqvk1p	Symptoms	swelling	Drug	Si-Ni-San	: null	JUXSTAPOSE
+
+pxdqvk1p	Symptoms	swelling	Drug	Si-Ni-San	: null	JUXSTAPOSE
+
+pxdqvk1p	Symptoms	swelling	Drug	Si-Ni-San	: stronger	stronger
+
+lku2g69k	Symptoms	injury	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	injury	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	injury	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	fever	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	fever	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	fever	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Dihuang	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Xijiao	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Dihuang	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Xijiao	: null	JUXSTAPOSE
+
+bnjjtlvw	Symptoms	virus	Drug	gegen	: andere	NONE
+
+bnjjtlvw	Symptoms	virus	Drug	Gegen	: null	JUXSTAPOSE
+
+47fpq4h9	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+mk62bybt	Symptoms	virus	Drug	Lianhuaqingwen	: null	JUXSTAPOSE
+
+mk62bybt	Symptoms	virus	Drug	Lianhuaqingwen	: null	JUXSTAPOSE
+
+ailr08y5	Symptoms	virus	Drug	muer	: en	NONE
+
+ailr08y5	Symptoms	virus	Drug	muer	: en	en
+
+lrrkuist	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+lrrkuist	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+j3avpu1y	Symptoms	virus	Drug	Sanger	: null	NONE
+
+3whw2yld	Symptoms	virus	Drug	Banlangen	: extracted	extract from
+
+3whw2yld	Symptoms	virus	Drug	Banlangen	: null	JUXSTAPOSE
+
+3whw2yld	Symptoms	virus	Drug	Banlangen	: null	JUXSTAPOSE
+
+76i8yvb4	Symptoms	virus	Drug	Sanger	: have	have
+
+tl3uo3n9	Symptoms	virus	Drug	Sanger	: using	METHOD_OF_WEAK
+
+tl3uo3n9	Symptoms	virus	Drug	Sanger	: using	METHOD_OF_WEAK
+
+ukutfv54	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+mkebdm73	Symptoms	virus	Drug	Shuanghuanglian	: null	JUXSTAPOSE
+
+mkebdm73	Symptoms	virus	Drug	huanglian	: null	JUXSTAPOSE
+
+iqzurjr1	Symptoms	virus	Drug	Sanger	: rely	rely on
+
+fkjwsr5p	Symptoms	virus	Drug	xiangru	: null	JUXSTAPOSE
+
+fkjwsr5p	Symptoms	virus	Drug	xiangru	: null	JUXSTAPOSE
+
+fkjwsr5p	Symptoms	virus	Drug	zhima	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	mahuang	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	mahua	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	Guizhi	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	xiangru	: null	JUXSTAPOSE
+
+fkjwsr5p	Symptoms	virus	Drug	zhimahuang	: play	play through
+
+gtcr19qr	Symptoms	Disease	Drug	Jinlianhua	: null	JUXSTAPOSE
+
+dkmpayk4	Symptoms	Disease	Drug	Shuanghuanglian	: treated	METHOD_OF_WEAK
+
+dkmpayk4	Symptoms	Disease	Drug	huanglian	: treated	METHOD_OF_WEAK
+
+dkmpayk4	Symptoms	virus	Drug	Shuanghuanglian	: treated	METHOD_OF_WEAK
+
+dkmpayk4	Symptoms	virus	Drug	huanglian	: treated	METHOD_OF_WEAK
+
+piwp8umv	Symptoms	virus	Drug	Sanger	: sequenced	sequence by
+
+814xd4i4	Symptoms	virus	Drug	gegen	: null	JUXSTAPOSE
+
+814xd4i4	Symptoms	virus	Drug	gegen	: null	JUXSTAPOSE
+
+pxdqvk1p	Symptoms	swelling	Drug	Si-Ni-San	: null	JUXSTAPOSE
+
+pxdqvk1p	Symptoms	swelling	Drug	Si-Ni-San	: null	JUXSTAPOSE
+
+pxdqvk1p	Symptoms	swelling	Drug	Si-Ni-San	: stronger	stronger
+
+lku2g69k	Symptoms	injury	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	injury	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	injury	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	fever	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	fever	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+lku2g69k	Symptoms	fever	Drug	Bai-Hu-Tang	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ywnr8d48	Symptoms	virus	Drug	Yin-Qiao-San	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Dihuang	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Xijiao	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Dihuang	: null	JUXSTAPOSE
+
+ahm82ngx	Symptoms	virus	Drug	Xijiao	: null	JUXSTAPOSE
+
+bnjjtlvw	Symptoms	virus	Drug	gegen	: andere	NONE
+
+bnjjtlvw	Symptoms	virus	Drug	Gegen	: null	JUXSTAPOSE
+
+47fpq4h9	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+mk62bybt	Symptoms	virus	Drug	Lianhuaqingwen	: null	JUXSTAPOSE
+
+mk62bybt	Symptoms	virus	Drug	Lianhuaqingwen	: null	JUXSTAPOSE
+
+ailr08y5	Symptoms	virus	Drug	muer	: en	NONE
+
+ailr08y5	Symptoms	virus	Drug	muer	: en	en
+
+lrrkuist	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+lrrkuist	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+jq3w0pnj	Symptoms	virus	Drug	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+
+j3avpu1y	Symptoms	virus	Drug	Sanger	: null	NONE
+
+3whw2yld	Symptoms	virus	Drug	Banlangen	: extracted	extract from
+
+3whw2yld	Symptoms	virus	Drug	Banlangen	: null	JUXSTAPOSE
+
+3whw2yld	Symptoms	virus	Drug	Banlangen	: null	JUXSTAPOSE
+
+76i8yvb4	Symptoms	virus	Drug	Sanger	: have	have
+
+tl3uo3n9	Symptoms	virus	Drug	Sanger	: using	METHOD_OF_WEAK
+
+tl3uo3n9	Symptoms	virus	Drug	Sanger	: using	METHOD_OF_WEAK
+
+ukutfv54	Symptoms	virus	Drug	Sanger	: null	JUXSTAPOSE
+
+mkebdm73	Symptoms	virus	Drug	Shuanghuanglian	: null	JUXSTAPOSE
+
+mkebdm73	Symptoms	virus	Drug	huanglian	: null	JUXSTAPOSE
+
+iqzurjr1	Symptoms	virus	Drug	Sanger	: rely	rely on
+
+fkjwsr5p	Symptoms	virus	Drug	xiangru	: null	JUXSTAPOSE
+
+fkjwsr5p	Symptoms	virus	Drug	xiangru	: null	JUXSTAPOSE
+
+fkjwsr5p	Symptoms	virus	Drug	zhima	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	mahuang	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	mahua	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	Guizhi	: play	play through
+
+fkjwsr5p	Symptoms	virus	Drug	xiangru	: null	JUXSTAPOSE
+
+fkjwsr5p	Symptoms	virus	Drug	zhimahuang	: play	play through
+
+emr47mdy	Symptoms	Disease	Drug	Huangqi	: null	JUXSTAPOSE
+
+emr47mdy	Symptoms	Disease	Drug	Baizhu	: null	JUXSTAPOSE
+
+emr47mdy	Symptoms	Disease	Drug	Fangfeng	: null	JUXSTAPOSE
+
+oaceknrb	Symptoms	Disease	Drug	Huo-Xiang	: null	JUXSTAPOSE
+
+oaceknrb	Symptoms	Disease	Drug	Huo-Xiang	: null	JUXSTAPOSE
+
+i2l4cq8h	Symptoms	Disease	Drug	Donglingcao	: null	JUXSTAPOSE
+
+i2l4cq8h	Symptoms	Disease	Drug	Chaihu	: null	JUXSTAPOSE
+
+i2l4cq8h	Symptoms	Disease	Drug	chuanxiong	: null	JUXSTAPOSE
+
+ij3ncdb6	Symptoms	Disease	Drug	Chan-Su	: null	JUXSTAPOSE
+
