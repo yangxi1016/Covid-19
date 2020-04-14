@@ -1,0 +1,81 @@
+NO.	E_type1	Entity1	E_type2	Entity2	KeyWord	Relation
+gtcr19qr 	Disease	MS	CPM	Jinlianhua	: null	JUXSTAPOSE
+qej5a8ks 	Disease	Bronchitis bei	CPM	Jugen	: null	JUXSTAPOSE
+dkmpayk4 	Disease	coronavirus disease	CPM	Shuanghuanglian	: treated	METHOD_OF_WEAK
+dkmpayk4 	Disease	coronavirus disease	CPM	huanglian	: treated	METHOD_OF_WEAK
+viztw9jm 	Disease	dur茅e prolong茅e des cath茅ters veineux centraux	CPM	oumi	: null	JUXSTAPOSE
+814xd4i4 	Disease	Vermeiden von Aerosolen und- innerhalb der Behandlungseinheiten- Händedesinfektion und Desinfektion von Gebrauchsgegenständen vom Stethoskop bis zur Türklinke	CPM	gegen	: null	JUXSTAPOSE
+lku2g69k 	Disease	liver injury	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	liver injury	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	liver injury	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	LPS	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	LPS	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	LPS	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	fever	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	fever	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+lku2g69k 	Disease	fever	CPM	Bai-Hu-Tang	: null	JUXSTAPOSE
+t0rhb7ee 	Disease	acute respiratory syndrome	Herbs	Ying-He	: null	JUXSTAPOSE
+t0rhb7ee 	Disease	acute respiratory syndrome	CPM	Ying-He	: null	JUXSTAPOSE
+ahm82ngx 	Disease	PKC	CPM	Dihuang	: null	JUXSTAPOSE
+ahm82ngx 	Disease	PKC	CPM	Xijiao	: null	JUXSTAPOSE
+bnjjtlvw 	Disease	unverdünnte Wirkstofflusung zeigte gegenüber allen geprüften Bakterienstämmen	CPM	gegen	: null	JUXSTAPOSE
+bnjjtlvw 	Disease	unverdünnte Wirkstofflusung zeigte gegenüber allen geprüften Bakterienstämmen	CPM	gegen	: null	JUXSTAPOSE
+bnjjtlvw 	Disease	unverdünnte Wirkstofflusung zeigte gegenüber allen geprüften Bakterienstämmen	CPM	gegen	: null	JUXSTAPOSE
+bnjjtlvw 	Disease	unverdünnte Wirkstofflusung zeigte gegenüber allen geprüften Bakterienstämmen	CPM	gegen	: null	JUXSTAPOSE
+eb3uj1nt 	Disease	Abfall der Hepatitis	CPM	gegen	: die	NONE
+eb3uj1nt 	Disease	der Hepatitis C und der Tuberkulose gegenüber	CPM	gegen	: erheblich	NONE
+81kxvj9o 	Disease	RB	Herbs	Chai-Hu	: marketed	market in
+81kxvj9o 	Disease	RB	CPM	Chai-Hu	: marketed	market in
+ailr08y5 	Disease	coronavirus patog茅nicos	CPM	muer	: en	en
+ft0rc88k 	Disease	Central Bohemia	CPM	Bohe	: null	JUXSTAPOSE
+lrrkuist 	Disease	HTS	CPM	Sanger	: null	JUXSTAPOSE
+jq3w0pnj 	Disease	papillomavirus	CPM	Sanger	: sequenced	PLAIN_SEQUENCE_WEAK
+jq3w0pnj 	Disease	HTS	CPM	Sanger	: null	JUXSTAPOSE
+ubferyqe 	Disease	Huoxiang Zhengqi Wan for summer-heat dampness exterior syndrome	CPM	Huoxiang	: null	JUXSTAPOSE
+ubferyqe 	Disease	Qi deficiency	CPM	Huoxiang	: null	JUXSTAPOSE
+sxsuwvt5 	Disease	septic myocardial injury	CPM	Xuebijing injection	: null	JUXSTAPOSE
+iit7e0dh 	Disease	herb Artemisia annua L	CPM	Qinghao	: null	JUXSTAPOSE
+iit7e0dh 	Disease	movement disturbances and neuropathic	CPM	Qinghao	: null	JUXSTAPOSE
+76i8yvb4 	Disease	gastroenteritis	CPM	Sanger	: null	JUXSTAPOSE
+tl3uo3n9 	Disease	immunodeficiency virus/simian immunodeficiency virus	CPM	Sanger	: using	METHOD_OF_WEAK
+3oxnox9j 	Disease	HIV	CPM	Oryza sativa	: null	JUXSTAPOSE
+w2yt76nd 	Disease	Heart Failure	CPM	Shenfu Injection	: null	INJECT
+hbv137e3 	Disease	UPLC-DAD-QTOF-MS Lianhua-Qingwen capsule	CPM	Lianhuaqingwen	: null	JUXSTAPOSE
+hbv137e3 	Disease	UPLC-DAD-QTOF-MS Lianhua-Qingwen capsule	CPM	Lianhua	: null	JUXSTAPOSE
+hbv137e3 	Disease	acute respiratory syndrome	CPM	Lianhuaqingwen	: null	JUXSTAPOSE
+hbv137e3 	Disease	acute respiratory syndrome	CPM	Lianhua	: null	JUXSTAPOSE
+fkjwsr5p 	Disease	lung inflammation	CPM	xiangru	: null	JUXSTAPOSE
+fkjwsr5p 	Disease	lung inflammation	CPM	zhima	: null	JUXSTAPOSE
+fkjwsr5p 	Disease	lung inflammation	CPM	mahuang	: null	JUXSTAPOSE
+fkjwsr5p 	Disease	lung inflammation	CPM	mahua	: null	JUXSTAPOSE
+fkjwsr5p 	Disease	lung inflammation	CPM	Guizhi	: null	JUXSTAPOSE
+fkjwsr5p 	Disease	lung inflammation	CPM	zhimahuang	: null	JUXSTAPOSE
+xk6vdre4 	Disease	AMR	CPM	Huangqi	: null	JUXSTAPOSE
+xk6vdre4 	Disease	AMR	CPM	Baizhu	: null	JUXSTAPOSE
+xk6vdre4 	Disease	AMR	CPM	Fangfeng	: null	JUXSTAPOSE
+emr47mdy 	Disease	AMR	CPM	Huangqi	: null	JUXSTAPOSE
+emr47mdy 	Disease	AMR	CPM	Baizhu	: null	JUXSTAPOSE
+emr47mdy 	Disease	AMR	CPM	Fangfeng	: null	JUXSTAPOSE
+emr47mdy 	Disease	inflammatory bowel diseases	CPM	Huangqi	: null	JUXSTAPOSE
+emr47mdy 	Disease	inflammatory bowel diseases	CPM	Baizhu	: null	JUXSTAPOSE
+emr47mdy 	Disease	inflammatory bowel diseases	CPM	Fangfeng	: null	JUXSTAPOSE
+emr47mdy 	Disease	IBD	CPM	Huangqi	: null	JUXSTAPOSE
+emr47mdy 	Disease	IBD	CPM	Baizhu	: null	JUXSTAPOSE
+emr47mdy 	Disease	IBD	CPM	Fangfeng	: null	JUXSTAPOSE
+oaceknrb 	Disease	Gastrointestinal Diseases	Herbs	Huo-Xiang	: null	JUXSTAPOSE
+oaceknrb 	Disease	Gastrointestinal Diseases	CPM	Huo-Xiang	: null	JUXSTAPOSE
+dxl7wvcx 	Disease	allergic inflammation	CPM	Danpi	: null	JUXSTAPOSE
+i2l4cq8h 	Disease	cancers	CPM	Donglingcao	: null	JUXSTAPOSE
+i2l4cq8h 	Disease	cancers	CPM	Chaihu	: null	JUXSTAPOSE
+i2l4cq8h 	Disease	cancers	CPM	chuanxiong	: null	JUXSTAPOSE
+i2l4cq8h 	Disease	neurodegeneration and cardiovascular disease via autophagy	CPM	Donglingcao	: null	JUXSTAPOSE
+i2l4cq8h 	Disease	neurodegeneration and cardiovascular disease via autophagy	CPM	Chaihu	: null	JUXSTAPOSE
+i2l4cq8h 	Disease	neurodegeneration and cardiovascular disease via autophagy	CPM	chuanxiong	: null	JUXSTAPOSE
+h73ya64e 	Disease	cancer	CPM	Huanglian	: null	JUXSTAPOSE
+h73ya64e 	Disease	cancer	CPM	Huanglian	: null	JUXSTAPOSE
+kn49944q 	Disease	Acute Upper Respiratory Tract Infections	CPM	huangqin	: null	JUXSTAPOSE
+kn49944q 	Disease	Acute Upper Respiratory Tract Infections	CPM	huangqi	: null	JUXSTAPOSE
+3leutp70 	Disease	breast cancer	CPM	danshen	: null	JUXSTAPOSE
+3leutp70 	Disease	breast cancer	CPM	yunzhi	: null	JUXSTAPOSE
+3leutp70 	Disease	breast cancer	CPM	danshen	: given	give on
+3leutp70 	Disease	breast cancer	CPM	yunzhi	: given	give on
